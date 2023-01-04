@@ -1,0 +1,33 @@
+{
+  "name": "thecoreloop-backend",
+  "description": "Backend repo for thecoreloop website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-archive": "ts-node ./src/scripts/build-archive.ts",
+    "test-telegram": "ts-node ./src/tests/test-telegram.ts",
+    "test-mongodb": "ts-node ./src/tests/test-mongodb.ts",
+    "sandbox": "ts-node ./src/tests/sandbox.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xfrian/thecoreloop-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xfrian/thecoreloop-backend/issues"
+  },
+  "homepage": "https://github.com/0xfrian/thecoreloop-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "input": "^1.0.1",
+    "mongodb": "^4.13.0",
+    "path": "^0.12.7",
+    "telegram": "^2.15.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
