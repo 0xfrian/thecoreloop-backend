@@ -1,7 +1,7 @@
 // Official MongoDB Docs: https://www.mongodb.com/docs/drivers/node/current/
 
 // Types
-import { LAG } from "../modules/lag";
+import { LAG } from "../types";
 import { MongoClient, Collection, Document } from "mongodb";
 
 export async function createMongoDBClient(uri: string): Promise<MongoClient> {
@@ -79,6 +79,5 @@ export async function deleteLAGCollection(client: MongoClient): Promise<void> {
   for (const lag of lags) {
     await deleteLAG(client, lag.number);
   }
-  console.log();
 }
 

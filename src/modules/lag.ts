@@ -1,7 +1,16 @@
 // Local Modules
 import { Date } from "./date";
-import { StringMap, ArticleGroup, Article, TelegramMessage } from "../types";
+import previewLink from "./link-preview";
 
+// Types
+import { 
+  StringMap, 
+  TelegramMessage, 
+  LAG, 
+  ArticleGroup, 
+  Article, 
+  LinkPreview 
+} from "../types";
 
 // Constants
 export const CATEGORIES: StringMap = {
@@ -17,134 +26,130 @@ export const CATEGORIES: StringMap = {
 };
 export const LAG_EXCEPTIONS: number[] = [1, 2, 3, 56, 57, 58, 59, 60, 62];
 
+export function parseLAG(message: TelegramMessage): LAG {
+  const lag: LAG = {
+    heading: "",
+    subheading: "",
+    message_id: message.id,
+    number: 0,
+    date: "",
+    content: [],
+  };
 
-// LAG Class
-export class LAG {
-  heading: string = "";
-  subheading: string = "";
-  message_id: number = -1;
-  number: number;
-  date: string = "";
-  content: ArticleGroup[] = [];
+  // Split text content line-by-line
+  const lines: string[] = message.text
+    .split("\n")
+    .filter(line => line.length > 1)
+    .map(line => line.trim());
 
-  constructor(message: TelegramMessage) {
-    // Assign Telegram message ID
-    this.message_id = message.id;
+  // Assign heading (assume 1st line)
+  const heading: string = lines[0];
 
-    // Split text content line-by-line
-    const lines: string[] = message.text
-      .split("\n")
-      .filter(line => line.length > 1)
-      .map(line => line.trim());
+  // Parse LAG number and assign corresponding property
+  const hashtag_index: number = heading.indexOf("#");
+  if (hashtag_index >= 0) {
+    const ending_index: number = heading.indexOf(" ", hashtag_index);
+    lag.number = Number(heading.slice(hashtag_index+1, ending_index));
+  } else throw Error("LAG number not found!");
 
-    // Assign heading (assume 1st line)
-    const heading: string = lines[0];
+  // Assing heading property 
+  lag.heading = `Look at Gaming #${lag.number}`;
 
-    // Parse LAG number and assign corresponding property
-    const hashtag_index: number = heading.indexOf("#");
-    if (hashtag_index >= 0) {
-      const ending_index: number = heading.indexOf(" ", hashtag_index);
-      const number: number = Number(heading.slice(hashtag_index+1, ending_index));
-      this.number = number;
-    } else throw Error("LAG number not found!");
+  // Parse date and assign corresponding property
+  try {
+    const date: Date = new Date(heading);
+    lag.date = date.toString();
+  } catch (error) {
+    throw Error(`LAG #${lag.number}: date not found!`);
+  }
 
-    // Assing heading property 
-    this.heading = `Look at Gaming #${this.number}`;
-
-    // Parse date and assign corresponding property
+  // Parse category indices
+  let categories_found: string[] = [];
+  let category_indices: number[] = [];
+  for (let i = 1; i < lines.length; i++) {
     try {
-      const date: Date = new Date(heading);
-      this.date = date.toString();
-    } catch (error) {
-      throw Error(`LAG #${this.number}: date not found!`);
-    }
-
-    // Parse category indices
-    let categories_found: string[] = [];
-    let category_indices: number[] = [];
-    for (let i = 1; i < lines.length; i++) {
-      try {
-        if (isCategory(lines[i])) {
-          category_indices.push(i);
-          categories_found.push(lines[i]);
-        }
-      } catch (error) {
-        throw Error(`Something went wrong while checking category: ${error}`);
+      if (isCategory(lines[i])) {
+        category_indices.push(i);
+        categories_found.push(lines[i]);
       }
+    } catch (error) {
+      throw Error(`Something went wrong while checking category: ${error}`);
     }
-    if (category_indices.length == 0) throw Error(`LAG #${this.number}: No LAG categories found`);
+  }
+  if (category_indices.length == 0) throw Error(`LAG #${lag.number}: No LAG categories found`);
 
-    // If the 2nd line is NOT a category, then assume subheading until 1st category index
-    if (category_indices[0] != 1) this.subheading = lines.slice(1, category_indices[0]).join("\n") + "\n";
+  // If the 2nd line is NOT a category, then assume subheading until 1st category index
+  if (category_indices[0] != 1) lag.subheading = lines.slice(1, category_indices[0]).join("\n") + "\n";
 
-    // Organize content within LAG post
-    let content: ArticleGroup[] = [];  // Initialize content array
-    let has_spotlight: boolean = false;
-    for (let j = 0; j < category_indices.length; j++) {
-      // Assign current category index and category
-      const current_index: number = category_indices[j]
-      const category: string = lines[current_index];
+  // Organize content within LAG post
+  let content: ArticleGroup[] = [];  // Initialize content array
+  let has_spotlight: boolean = false;
+  for (let j = 0; j < category_indices.length; j++) {
+    // Assign current category index and category
+    const current_index: number = category_indices[j]
+    const category: string = lines[current_index];
 
-      // Instantiate <CategoryGroup> object
-      let category_group: ArticleGroup = {
-        category: category,
-        articles: [],
+    // Instantiate <ArticleGroup> object
+    let article_group: ArticleGroup = {
+      category: category,
+      articles: [],
+    };
+
+    // Assign index representing end of category
+    const next_index: number = (j < category_indices.length-1) 
+      ? category_indices[j+1]
+      : lines.length;
+
+    // Handle SPECIAL INSIGHTS category 
+    if (category == CATEGORIES["SPECIAL INSIGHTS"]) {
+      // Assign caption
+      const caption: string = parseTextByCategory(message.text, CATEGORIES["SPECIAL INSIGHTS"]);
+
+      // Instantiate <Entry> object
+      const article: Article = {
+        caption: caption,
+        url: "",
       };
+      article_group.articles.push(article);
+    } else {
+      if (category.toLowerCase().includes("spotlight")) has_spotlight = true;
 
-      // Assign index representing end of category
-      const next_index: number = (j < category_indices.length-1) 
-        ? category_indices[j+1]
-        : lines.length;
+      // Check if there is an even number of lines between categories
+      if (Math.abs(current_index+1 - next_index) % 2 != 0) {
+        throw Error(`LAG #${lag.number}: Uneven number of captions & URLs under category: ${category}`);
+      }
 
-      // Handle SPECIAL INSIGHTS category 
-      if (category == CATEGORIES["SPECIAL INSIGHTS"]) {
-        // Assign caption
-        const caption: string = parseTextByCategory(message.text, CATEGORIES["SPECIAL INSIGHTS"]);
+      // Iterate pair-wise through captions & URLs until next category index
+      for (let k = current_index+1; k < next_index-1; k+=2) {
+        // Skip if line marks end of LAG post
+        if (lines[k].includes("—————")) continue;
+
+        // Assign caption & URL
+        const caption: string = lines[k];
+        const url: string = lines[k+1];
+
+        if (!isURL(url)) throw Error(`Invalid URL: ${url} under category: ${category}`);
 
         // Instantiate <Entry> object
         const article: Article = {
           caption: caption,
-          url: "",
+          url: url,
         };
-        category_group.articles.push(article);
-      } else {
-        if (category.toLowerCase().includes("spotlight")) has_spotlight = true;
-
-        // Check if there is an even number of lines between categories
-        if (Math.abs(current_index+1 - next_index) % 2 != 0) {
-          throw Error(`LAG #${this.number}: Uneven number of captions & URLs under category: ${category}`);
-        }
-
-        // Iterate pair-wise through captions & URLs until next category index
-        for (let k = current_index+1; k < next_index-1; k+=2) {
-          // Skip if line marks end of LAG post
-          if (lines[k].includes("—————")) continue;
-
-          // Assign caption & URL
-          const caption: string = lines[k];
-          const url: string = lines[k+1];
-
-          if (!isURL(url)) throw Error(`Invalid URL: ${url} under category: ${category}`);
-
-          // Instantiate <Entry> object
-          const article: Article = {
-            caption: caption,
-            url: url,
-          };
-          category_group.articles.push(article);
-        }
+        article_group.articles.push(article);
       }
-
-      // Append CategoryGroup to content array
-      content.push(category_group);
     }
 
-    // Throw error if no Spotlight section detected
-    if (!has_spotlight) throw Error("No Spotlight category");
-
-    // Assign content property
-    this.content = content;
+    // Append ArticleGroup to content array
+    content.push(article_group);
   }
+
+  // Throw error if no Spotlight section detected
+  if (!has_spotlight) throw Error("No Spotlight category");
+
+  // Assign content property
+  lag.content = content;
+
+  return lag;
 }
 
 // Check if given string contains keyphrases
@@ -188,8 +193,8 @@ export function formatString(lag: LAG, ordered: boolean = false): string {
   if (ordered) {
     let official_categories: string[] = Object.values(CATEGORIES);
     for (const official_category of official_categories) {
-      for (const category_group of lag.content) {
-        if (category_group.category == official_category) content.push(category_group);
+      for (const article_group of lag.content) {
+        if (article_group.category == official_category) content.push(article_group);
       }
     }
   } else content = lag.content;
@@ -204,26 +209,26 @@ export function formatString(lag: LAG, ordered: boolean = false): string {
 
   // Iterate through categories
   for (let i = 0; i < content.length; i++) {
-    // Assign category group
-    const category_group: ArticleGroup = content[i];
+    // Assign ArticleGroup
+    const article_group: ArticleGroup = content[i];
 
     // Append category line
-    output += category_group.category + "\n";
+    output += article_group.category + "\n";
 
     // Append captions & URLs
-    if (category_group.category == CATEGORIES["SPECIAL INSIGHTS"]) {
+    if (article_group.category == CATEGORIES["SPECIAL INSIGHTS"]) {
       // For SPECIAL INSIGHTS category, append only caption
-      output += category_group.articles[0].caption + "\n";
+      output += article_group.articles[0].caption + "\n";
     } else {
       // For every other category, append caption + URL
-      for (let j = 0; j < category_group.articles.length; j++) {
+      for (let j = 0; j < article_group.articles.length; j++) {
         // Append entry
-        const article: Article = category_group.articles[j];
+        const article: Article = article_group.articles[j];
         output += article.caption + "\n"; 
         output += article.url + "\n";
 
         // If not last entry, then add empty line after entry
-        if (j < category_group.articles.length-1) output += "\n"
+        if (j < article_group.articles.length-1) output += "\n"
       }
 
       // Append 2 empty lines between categories
@@ -260,4 +265,34 @@ function parseTextByCategory(raw_text: string, line_start: string): string {
   return special_insights_section;
 }
 
+export async function attachMetadata(lag: LAG): Promise<LAG> {
+  const lag_meta: LAG = lag;
+
+  const content_meta: ArticleGroup[] = [];
+  for (const article_group of lag.content) {
+    const article_group_meta: ArticleGroup = {
+      category: article_group.category,
+      articles: [],
+    };
+
+    for (const article of article_group.articles) {
+      const link_preview: LinkPreview = await previewLink(article.url);
+      const article_meta: Article = {
+        ...article, 
+        title: link_preview.title,
+        description: link_preview.description,
+        image: link_preview.image,
+        source: link_preview.source,
+      };
+
+      article_group_meta.articles.push(article_meta);
+    }
+
+    content_meta.push(article_group_meta);
+  }
+
+  lag_meta.content = content_meta;
+
+  return lag_meta;
+}
 

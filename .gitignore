@@ -4,6 +4,7 @@
 # Ignore Node Modules 
 node_modules/
 
-# Ignore local test modules 
+# Ignore local test modules and notes
 sandbox.ts
+notes.md
 

@@ -9,8 +9,15 @@ import path from "path";
 import previewLink from "../modules/link-preview";
 import { parseLAG, attachMetadata } from "../modules/lag";
 import { createTelegramClient, readMessages  } from "../modules/telegram";
+import { 
+  createMongoDBClient,  
+  createLAG, 
+  updateLAG,
+  deleteLAGCollection,
+} from "../modules/mongodb";
 
 // Types 
+import { MongoClient } from "mongodb";
 import { TelegramClient } from "telegram";
 import { TelegramMessage, LAG, Article, ArticleGroup, LinkPreview } from "../types";
 
@@ -24,20 +31,19 @@ async function main() {
   const messages: TelegramMessage[] = await readMessages(client_telegram, "thecoreloop");
   console.log();
 
-  console.log("Parsing LAG posts . . . ");
   for (let i = 0; i < messages.length; i++) {
     const message: TelegramMessage = messages[i];
     try {
       const lag: LAG = parseLAG(message);
 
-      console.log(`  Processing: ${lag.heading}`);
+      console.log(`Fetching metadata for: ${lag.heading}`);
       const lag_meta: LAG = lag;
       const content_meta: ArticleGroup[] = [];
       for (const article_group of lag.content) {
         // Skip special insights section
         if (article_group.category.includes("SPECIAL INSIGHTS")) continue;
 
-        console.log(`    ${article_group.category}: `);
+        console.log(`  ${article_group.category}`);
         const article_group_meta: ArticleGroup = {
           category: article_group.category,
           articles: [],
@@ -62,16 +68,10 @@ async function main() {
 
       lag_meta.content = content_meta;
 
-      const filepath: string = path.join(__dirname, "../../LAG/json/", `lag-${String(lag.number).padStart(3, "0")}.json`);
-      const filepath_meta: string = path.join(__dirname, "../../LAG/meta/", `lag-${String(lag.number).padStart(3, "0")}.json`);
-      console.log(`  Writing file: ${filepath}`);
+      const filepath: string = path.join(__dirname, "../../LAG/", `lag-${String(lag.number).padStart(3, "0")}.json`);
+      console.log(`Writing file: ${filepath}`);
       fs.writeFileSync(
         filepath,
-        JSON.stringify(lag, null, 2),
-      );
-      console.log(`  Writing file: ${filepath_meta}`);
-      fs.writeFileSync(
-        filepath_meta,
         JSON.stringify(lag_meta, null, 2),
       );
       console.log();
@@ -84,6 +84,5 @@ async function main() {
 
 main()
   .then(() => process.exit(0));
-
 
 
