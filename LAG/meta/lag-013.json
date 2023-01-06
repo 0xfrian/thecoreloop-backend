@@ -1,0 +1,98 @@
+{
+  "heading": "Look at Gaming #13",
+  "subheading": "",
+  "message_id": 22,
+  "number": 13,
+  "date": "Wed Jul 20 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Minecraft banning NFTs & Blockchain!",
+          "url": "https://www.gamedeveloper.com/business/third-party-nfts-and-blockchain-tech-are-now-banned-from-minecraft",
+          "title": "NFTs and blockchain tech are now banned from Minecraft",
+          "description": "Mojang has banned the use of blockchain technology, including NFTs, inside the Minecraft client and server applications.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt7cf0694c4bd26d70/62d86cbf11ef5d6c4b64bedd/minecraftmobsfeatured.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at FaZe Clan going public on Nasdaq.  Didn't look too hot.",
+          "url": "https://venturebeat.com/2022/07/20/faze-clan-goes-public-as-first-esports-and-gamer-lifestyle-brand-on-nasdaq/",
+          "title": "FaZe Clan goes public as first esports and gamer lifestyle brand on Nasdaq",
+          "description": "FaZe Clan, the esports and gaming lifestyle and media brand, is going public today. It will trade on Nasdaq under the symbol FAZE.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/faze-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at retail momentum across the categories (more than just gaming)",
+          "url": "https://www.npd.com/news/thought-leadership/2022/retail-momentum-ups-and-downs/",
+          "title": "Retail Momentum: Ups and Downs ",
+          "description": "To help retailers and manufacturers respond to consumer spending shifts, inflation, higher gas prices, inventory challenges, and other unexpected retail headwinds, NPD Retail Early Indicator point-of-sale data tracks specific vertical industries’ momentum in the first two quarters of this year as our analysts look ahead to the third quarter Q3 and back-to-school.",
+          "image": "https://www.npd.com/wp-content/uploads/2021/10/shutterstock_2046032111.jpg",
+          "source": "The NPD Group"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how the future of Hypercasual genre is bundled",
+          "url": "https://naavik.co/digest/hypercasual-bundled-cryptounicorns",
+          "title": "Is The Future of Hypercasual Bundled? — Naavik",
+          "description": "The hypercasual genre has experienced a ~20% increase in downloads in Q2 \n2022, but consumer spending in the App Store has also shifted to reflect \nnon-gaming purchases. What does this mean for the future of hypercasual? We \nalso tease our game deconstruction of Crypto Unicorns.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/62d7b375badabd57bad15ee0/1658303353769/gjgDnxdA.jpeg?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Discord voice finally coming to Xbox",
+          "url": "https://www.gameinformer.com/2022/07/20/discord-support-finally-comes-to-xbox",
+          "title": "Discord Support Finally Comes to Xbox",
+          "description": "Crossplay got a nice upgrade.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/07/20/789e93a8/discord-xbox.jpg",
+          "source": "Game Informer"
+        },
+        {
+          "caption": "A look at Netflix Games' August line up",
+          "url": "https://mobilegamer.biz/netflix-games-august-line-up-includes-heads-up-and-thriller-twelve-minutes/",
+          "title": "Netflix Games’ August line-up includes Heads Up and thriller Twelve Minutes - Mobilegamer.biz",
+          "description": "Sam Barlow’s Immortality also incoming alongside brand new adventure Rival Pirates.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/07/Netflix-August.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at Minecraft banning NFTs & Blockchain!",
+          "url": "https://www.gamedeveloper.com/business/third-party-nfts-and-blockchain-tech-are-now-banned-from-minecraft",
+          "title": "NFTs and blockchain tech are now banned from Minecraft",
+          "description": "Mojang has banned the use of blockchain technology, including NFTs, inside the Minecraft client and server applications.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt7cf0694c4bd26d70/62d86cbf11ef5d6c4b64bedd/minecraftmobsfeatured.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Square Enix teaming up with Enjin for Final Fintasy VII NFT Collection",
+          "url": "https://venturebeat.com/2022/07/20/square-enix-teams-up-with-enjin-to-make-final-fantasy-vii-nft-collectibles/",
+          "title": "Square Enix teams up with Enjin to make Final Fantasy VII NFT collectibles",
+          "description": "Square Enix has teamed up with Enjin to create non-fungible tokens (NFTs) for digital collectibles for the 25th anniversary of Final Fantasy VII.",
+          "image": "https://venturebeat.com/wp-content/uploads/2019/06/FINAL_FANTASY_VII_REMAKE-E3_2019-screenshot_6.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

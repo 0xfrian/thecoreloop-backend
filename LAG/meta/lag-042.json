@@ -1,0 +1,116 @@
+{
+  "heading": "Look at Gaming #42",
+  "subheading": "",
+  "message_id": 52,
+  "number": 42,
+  "date": "Tue Aug 30 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at an interview with Jensen Huang (Cofounder of Nvidia) on the vision for the metaverse",
+          "url": "https://venturebeat.com/games/jensen-huang-interview-how-the-metaverse-vision-will-outlast-any-economic-downturn/",
+          "title": "Jensen Huang interview: How the metaverse vision will outlast any economic downturn",
+          "description": "Jensen Huang, CEO of Nvidia, isn't wavering from big investments in Earth-2 planet simulation or the Omniverse.",
+          "image": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at gamers feeling strongly about climate",
+          "url": "https://venturebeat.com/games/gamers-feel-strongly-about-climate-change-according-to-unity-report/",
+          "title": "Gamers feel strongly about climate change, according to Unity report",
+          "description": "Gamers report a high interest in climate change and a desire to do something, according to a Unity/Yale collaborative report.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/Unity-Gamers-Climate-Change.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at the investment gaming deals activity of H1 2022 by @naavik_co and @hirocapital",
+          "url": "https://venturebeat.com/games/investgame-releases-report-for-the-first-half-of-2022/",
+          "title": "InvestGame releases report for the first half of 2022",
+          "description": "The latest report from InvestGame gives us some insight into the first half of 2022. It has been a busy year.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/cover.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Logitech's cloud gaming handheld device",
+          "url": "https://www.theverge.com/2022/8/30/23328440/logitech-g-gaming-handheld-google-play-cloud-gaming",
+          "title": "Logitech’s cloud gaming handheld leaks with Android apps and Switch-like UI",
+          "description": "Logitech’s G Gaming Handheld has leaked with access to cloud gaming and Google Play games. The handheld looks very Switch-like, with the same buttons and UI.",
+          "image": "https://cdn.vox-cdn.com/thumbor/Aq3lqrAzmxvfPgHM9THbPLVkB0g=/0x0:1999x1309/1200x628/filters:focal(1000x655:1001x656)/cdn.vox-cdn.com/uploads/chorus_asset/file/23981342/logitechggaming.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at an interview with Jensen Huang (Cofounder of Nvidia) on the vision for the metaverse",
+          "url": "https://venturebeat.com/games/jensen-huang-interview-how-the-metaverse-vision-will-outlast-any-economic-downturn/",
+          "title": "Jensen Huang interview: How the metaverse vision will outlast any economic downturn",
+          "description": "Jensen Huang, CEO of Nvidia, isn't wavering from big investments in Earth-2 planet simulation or the Omniverse.",
+          "image": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at the Meteoric Rise of DigiDaigaku",
+          "url": "https://www.theblockresearch.com/the-meteoric-rise-of-digidaigaku-166499",
+          "title": "The Meteoric Rise of DigiDaigaku",
+          "description": "Project Overview Amidst a fully-fledged bear market that has seen many popular projects hemorrhage, the meteoric rise of DigiDaigaku has roused the NFT",
+          "image": "https://www.tbstat.com/wp/uploads/2022/08/20220829_DigiDaigaku-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at how to get your game wishlist'd on Steam",
+          "url": "https://www.gamesindustry.biz/earning-wishlists-on-steam-a-case-study",
+          "title": "Earning wishlists on Steam: A case study",
+          "description": "(Note: this piece was originally written on August 8th, any data shared is only accurate up to that point in time.) For…",
+          "image": "https://assets.reedpopcdn.com/Slay-the-Princess-lead.jpg/BROK/thumbnail/1200x630/Slay-the-Princess-lead.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Xterio raising $40M for high-end mobile web3 games",
+          "url": "https://venturebeat.com/games/xterio-raises-40m-for-high-end-mobile-web3-games/",
+          "title": "Xterio raises $40M for high-end mobile Web3 games",
+          "description": "Xterio, a cross-platform publisher and developer of high-quality mobile and web3 games, has raised $40 million in funding.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/xterio-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at God of War Ragnarrok cover reveal",
+          "url": "https://www.gameinformer.com/cover-reveal/2022/08/30/cover-reveal-god-of-war-ragnarok",
+          "title": "Cover Reveal – God of War Ragnarök",
+          "description": "Our latest issue chronicles Kratos and Atreus’ mission to beat the Nordic doomsday clock.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/08/29/bcd58814/gowcover.jpg",
+          "source": "Game Informer"
+        }
+      ]
+    }
+  ]
+}

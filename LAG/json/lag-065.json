@@ -1,0 +1,98 @@
+{
+  "heading": "Look at Gaming #65",
+  "subheading": "",
+  "message_id": 75,
+  "number": 65,
+  "date": "Fri Sep 30 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at opportunity & heartbreak of modern gaming",
+          "url": "https://venturebeat.com/games/the-deanbeat-two-stories-that-show-the-opportunity-and-heartbreak-of-modern-gaming/",
+          "title": "The DeanBeat: Two stories that show the opportunity and heartbreak of modern gaming",
+          "description": "Yesterday, two stories told the tale of the modern game industry. On the one hand, heartbreak. On the other, massive opportunity.",
+          "image": "https://venturebeat.com/wp-content/uploads/2019/03/stadia-4.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look in the face of recession",
+          "url": "https://www.gamesindustry.biz/in-the-face-of-recession-podcast",
+          "title": "In the face of recession | Podcast",
+          "description": "You can now download the latest episode of The GamesIndustry.biz Podcast, in which we discuss the biggest stories from …",
+          "image": "https://assets.reedpopcdn.com/recession-wide.jpg/BROK/thumbnail/1200x630/recession-wide.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at opportunity & heartbreak of modern gaming",
+          "url": "https://venturebeat.com/games/the-deanbeat-two-stories-that-show-the-opportunity-and-heartbreak-of-modern-gaming/",
+          "title": "The DeanBeat: Two stories that show the opportunity and heartbreak of modern gaming",
+          "description": "Yesterday, two stories told the tale of the modern game industry. On the one hand, heartbreak. On the other, massive opportunity.",
+          "image": "https://venturebeat.com/wp-content/uploads/2019/03/stadia-4.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Overwatch 2 balancing acquisition & retention",
+          "url": "https://www.gamesindustry.biz/overwatch-2-tries-to-balance-acquisition-against-retention-opinion",
+          "title": "Overwatch 2 tries to balance acquisition against retention | Opinion",
+          "description": "As the release slate of major games for the remainder of the year continues to thin out &ndash; the latest casualty bei…",
+          "image": "https://assets.reedpopcdn.com/Overwatch-2b.jpeg/BROK/thumbnail/1200x630/Overwatch-2b.jpeg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the State of Solana NFTs",
+          "url": "https://www.theblockresearch.com/the-state-of-solana-nfts-174085",
+          "title": "The State of Solana NFTs",
+          "description": "The NFT market comprises a mélange of ecosystems that have co-existed for quite a while now. In this multi-chain universe, ecosystems are competing for",
+          "image": "https://www.tbstat.com/wp/uploads/2022/09/20220929_SolanaNFTs_Research-1200x675.jpg",
+          "source": "The Block"
+        },
+        {
+          "caption": "A look at Neal Stephenson's Lamina1 launches Open Metaverse Conference",
+          "url": "https://venturebeat.com/games/neal-stephensons-lamina1-launches-open-metaverse-conference/",
+          "title": "Neal Stephenson’s Lamina1 launches Open Metaverse Conference",
+          "description": "Snow Crash author Neal Stephenson's Lamina1 startup has come up with the Open Metaverse Conference.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/lamina1.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at the future of NFTs is consumer friendly",
+          "url": "https://www.theblock.co/post/173574/the-future-of-nfts-is-consumer-friendly",
+          "title": "The Future of NFTs Is Consumer Friendly",
+          "description": "NFTs are mostly associated with digital art and collectibles from creators, but most experts believe the features that make these tokens fun to trade could also make them far more useful to society at large. ",
+          "image": "https://www.tbstat.com/wp/uploads/2022/09/connected-worldd-copy-1200x655.png",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at selecting your domination and subgenre for mobile markets",
+          "url": "https://www.pocketgamer.biz/asia/special-report/79804/domination-and-subgenre-finding-your-niche-in-the-global-mobile-market/",
+          "title": "Domination and subgenre - finding your niche in the global mobile market",
+          "description": "In a market dominated by huge franchises data.ai discovers there’s a lot of space for new games across a wide range of genres and niches",
+          "image": "https://media.pocketgamer.biz/2022/3/115582/dataailogo-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    }
+  ]
+}

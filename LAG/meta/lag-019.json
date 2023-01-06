@@ -1,0 +1,164 @@
+{
+  "heading": "Look at Gaming #19",
+  "subheading": "",
+  "message_id": 29,
+  "number": 19,
+  "date": "Thu Jul 28 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Diablo Immortal hitting $100M in 2 months.",
+          "url": "https://mobilegamer.biz/diablo-immortal-hits-100m-revenue-in-under-two-months/",
+          "title": "Diablo Immortal hits $100m revenue in under two months - Mobilegamer.biz",
+          "description": "Blizzard’s mobile RPG is the second fastest big-name game IP to hit the milestone, after Pokémon Go.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/06/Diablo-Immortal-1.jpg",
+          "source": "Mobilegamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Intel rev falling 17%",
+          "url": "https://venturebeat.com/2022/07/28/intel-misses-targets-in-q2-with-revenue-falling-17-to-15-3b/",
+          "title": "Intel misses targets in Q2 with revenue falling 17% to $15.3B",
+          "description": "Intel reported that its second-quarter revenues and profits were below expectations, as the chip giant dealt with weakness in the PC market. ",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/05/intel-core.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at FaZe Clan's streaming stats in Q2.  46M hours watched.  FAZE trading at $778M mkt cap",
+          "url": "https://streamhatchet.com/2022/07/27/blog-faze-clan-generated-46-million-hours-watched-in-q2-2022/",
+          "title": "FaZe Clan Generated 46 Million Hours Watched in Q2 2022",
+          "description": "Last quarter, FaZe was the third-most watched esports organization on live streaming platforms with 46m hours watched, behind only TSM & T1.",
+          "image": "https://streamhatchet.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-27-at-2.28.13-PM-1024x575.png",
+          "source": "Stream Hatchet"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at a canceled Kickstarter game openning its source code",
+          "url": "https://www.gamedeveloper.com/production/canceled-kickstarter-game-i-limit-theory-i-opens-its-source-code",
+          "title": "Limit Theory's Josh Parnell releases canceled game's open source code",
+          "description": "Josh Parnell, developer of the canceled Kickstarter game Limit Theory, has released the game's open source code for all players.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt1e5accb03259e6c6/62e2b2afa2057a5e8626ae25/limit.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Diablo Immortal hitting $100M in 2 months.",
+          "url": "https://mobilegamer.biz/diablo-immortal-hits-100m-revenue-in-under-two-months/",
+          "title": "Diablo Immortal hits $100m revenue in under two months - Mobilegamer.biz",
+          "description": "Blizzard’s mobile RPG is the second fastest big-name game IP to hit the milestone, after Pokémon Go.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/06/Diablo-Immortal-1.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at a simulation of Kmart in VR Chat… with real employees",
+          "url": "https://twitter.com/CoachDorntastic/status/1552358470141214720?s=20&t=TVr7_OHGuyW2x3EuBb3XAA",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Snapchat launching AR horror game",
+          "url": "https://venturebeat.com/2022/07/28/snapchat-launches-ar-horror-game-ghost-phone/",
+          "title": "Snapchat launches AR horror game Ghost Phone",
+          "description": "Snapchat is trying its hand at the horror genre with Ghost Phone, an augmented reality title featuring nasty spooks.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/Snapchat-Ghost-Phone.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at PlayStation mobile controller officially licensed by Backbone",
+          "url": "https://www.gamedeveloper.com/business/backbone-has-made-an-officially-licensed-playstation-mobile-controller",
+          "title": "Backbone creates licensed PlayStation mobile gamepad for iPhone",
+          "description": "PlayStation has partnered with peripheral maker Backbone to launch an officially licensed mobile controller for iPhone owners.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt7171c6460c6af302/62e2b162ecc54c6cacd822f6/PlayStation_Backbone.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at 0xKepler's gaming thesis.  Gud read.  Shoutout to @0xKepler",
+          "url": "https://twitter.com/0xKepler/status/1552607056514846720",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at Ryan's teardown of Rise of Kingdoms @0xRyze",
+          "url": "https://twitter.com/0xRyze/status/1552713612254662656?s=20&t=3COLPbTORGBoUvxtYDZ3Og",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at @0xtaetaehoho 's @goblinsax podcast on @hookprotocol",
+          "url": "https://twitter.com/0xtaetaehoho/status/1552707320848625670?s=20&t=3COLPbTORGBoUvxtYDZ3Og",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at Axie Infinity's CEO moving some AXS to Binance before announcing the hack",
+          "url": "https://www.bloomberg.com/news/articles/2022-07-28/axie-ceo-moved-axs-tokens-to-binance-before-disclosing-ronin-hack",
+          "title": "Axie Infinity CEO Moved Crypto Tokens Before the Company Revealed Hack",
+          "description": "Sky Mavis, the company that makes the online game, says the executive was shoring up funds to protect the business and help users after Ronin attack.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icMjBLMDRR30/v0/1200x800.jpg",
+          "source": "Bloomberg.com"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at @mapleLeafcap 's thread on @MightyBearGames",
+          "url": "https://twitter.com/MapleLeafCap/status/1552597192372027392",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at two new Mario Kart cups",
+          "url": "https://www.gameinformer.com/2022/07/28/mario-kart-8-deluxe-booster-course-pass-wave-2-races-into-action-next-month",
+          "title": "Mario Kart 8 Deluxe – Booster Course Pass Wave 2 Races Into Action Next Month",
+          "description": "Rev those engines.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/07/28/b00a3dda/mariokart.jpg",
+          "source": "Game Informer"
+        },
+        {
+          "caption": "A look at Stray publisher, Annapurna's latest showcase",
+          "url": "https://venturebeat.com/2022/07/28/annapurna-reveals-dinos-and-cowgirl-mecha-in-latest-showcase/",
+          "title": "Annapurna reveals dinos and cowgirl mecha in latest showcase",
+          "description": "Annapurna Interactive held its summer showcase, with new games like Bounty Star and dino horror title The Lost Wild.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/1.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "heading": "Look at Gaming #41",
+  "subheading": "",
+  "message_id": 51,
+  "number": 41,
+  "date": "Mon Aug 29 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the \"middle class\" influencers",
+          "url": "https://venturebeat.com/games/forget-the-top-1-its-all-about-the-middle-class-of-influencers/",
+          "title": "Forget the top 1%, it’s all about the ‘middle class’ of influencers",
+          "description": "Many brands are starting to see the shift in how to reach audiences effectively as the cookie approach is starting to crumble.",
+          "image": "https://venturebeat.com/wp-content/uploads/2020/11/eg-background-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the \"middle class\" influencers",
+          "url": "https://venturebeat.com/games/forget-the-top-1-its-all-about-the-middle-class-of-influencers/",
+          "title": "Forget the top 1%, it’s all about the ‘middle class’ of influencers",
+          "description": "Many brands are starting to see the shift in how to reach audiences effectively as the cookie approach is starting to crumble.",
+          "image": "https://venturebeat.com/wp-content/uploads/2020/11/eg-background-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Digital Identities by @konvoy_ventures",
+          "url": "https://www.konvoy.vc/newsletter/digital-identity-update-one-to-rule-them-all",
+          "title": "Digital Identity Update: One to Rule Them All?",
+          "description": "We believe the winners in the space of digital identity adoption will enable a federated identity",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/630ce70f3713800fd9dc5067_digital%20identity.png",
+          "source": "www.konvoy.vc"
+        },
+        {
+          "caption": "A look at how Rollic hit 2B downloads",
+          "url": "https://venturebeat.com/games/how-rollic-hit-2b-downloads-for-its-hypercasual-games/",
+          "title": "How Rollic hit 2B downloads for its hypercasual games",
+          "description": "Rollic has crossed two billion lifetime downloads across its portfolio of hypercasual games, or accessible titles that you can play in a minute or less.",
+          "image": "https://venturebeat.com/wp-content/uploads/2021/12/rollic-4.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at how survivor.io mastered TikTok UA by @naavik_co",
+          "url": "https://naavik.co/digest/how-habby-mastered-tiktok-ua-for-survivor",
+          "title": "How Survivor.io Mastered TikTok UA — Naavik",
+          "description": "Habby’s latest game seems to have cracked the code on TikTok UA strategies. \nWe bring in UA expert, Mateg Lancaric to examine the approach and what we \ncan learn from it. We also roundup this week’s top game industry news.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/630b1eb48d07767dcdbd4b35/1661673142206/RSWUriBw.jpeg?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Sony's PlayStation Studios moving hard into mobile",
+          "url": "https://www.theverge.com/2022/8/29/23326666/sony-playstation-studios-mobile-team-games-phone-savage",
+          "title": "Sony’s new PlayStation Studios Mobile team is making spinoff games for your phone",
+          "description": "Sony has announced the new PlayStation Studios Mobile Division, which will make mobile games based on new and existing PlayStation intellectual property.",
+          "image": "https://cdn.vox-cdn.com/thumbor/Bz2ZA45S-0mA4QHkh80XVxQOZsA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11515157/acastro_180604_1777_playstation_0001.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Netflix working on gamertags",
+          "url": "https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community",
+          "title": "Netflix is working on gamertags",
+          "description": "Netflix is working on a gamertags-like feature that lets users create and publicly display a handle when playing some of its games. Users will also be able to invite other players and see where they rank on the leaderboards.",
+          "image": "https://cdn.vox-cdn.com/thumbor/4oINtqG1RdJYr68-KjLp-gqEkg4=/0x0:776x517/1200x628/filters:focal(388x259:389x260)/cdn.vox-cdn.com/uploads/chorus_asset/file/23974928/netflix_gamertag_test.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at an overview of NFT Pricing",
+          "url": "https://www.theblockresearch.com/an-overview-of-nft-pricing-166049",
+          "title": "An Overview of NFT Pricing",
+          "description": "Lack of liquidity remains a cardinal problem plaguing the NFT landscape. In a full-blown bull market, this reality can easily be camouflaged by an",
+          "image": "https://www.tbstat.com/wp/uploads/2022/08/20220824_NFT_Pricing_Research-1200x675.jpg",
+          "source": "The Block"
+        },
+        {
+          "caption": "A look at ex-Machine Zone's Limit Break",
+          "url": "https://venturebeat.com/games/gabe-leydons-limit-break-has-200m-to-make-a-new-kind-of-blockchain-game/",
+          "title": "Gabe Leydon’s Limit Break has $200M to make a new kind of blockchain game",
+          "description": "Machine Zone cofounder Gabe Leydon is back with Limit Break, a blockchain game company with $200 million in funding.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/gabe-leydon.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

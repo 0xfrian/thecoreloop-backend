@@ -1,0 +1,188 @@
+{
+  "heading": "Look at Gaming #50",
+  "subheading": "",
+  "message_id": 60,
+  "number": 50,
+  "date": "Fri Sep 09 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the challenges in the technology gap to build web3 mobile games",
+          "url": "https://www.pocketgamer.biz/asia/comment-and-opinion/79562/building-blockchain-games/",
+          "title": "Tackling the technology gap to build web3 mobile games",
+          "description": "From its origins as a successful hypercasual games studio to the cutting edge of web3 mobile games, PlayEmber CEO Hugo Furneaux, charts the company's evolution",
+          "image": "https://media.pocketgamer.biz/2022/9/118293/screenshot-2022-08-16-at-131047-r225x225.png",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how Runescape is workign with the community to build better MMO experience",
+          "url": "https://www.gamedeveloper.com/production/how-runescape-dev-jagex-is-working-with-players-to-help-the-mmo-adapt-and-thrive",
+          "title": "Jagex says community feedback has been key to Runescape's success",
+          "description": "Jagex VP of product and player strategy Neil McClarty explains how the company intends to grow Runescape after a pandemic boom and first studio acquisition.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt239229e11e2a0f1e/6319d4cdbce2cf1e83f80e3b/Runescape_Header.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at learnings from Downsized Social media Games by @naavik_co",
+          "url": "https://www.youtube.com/watch?v=_rvklM50zhQ&ab_channel=Naavik",
+          "title": "Learnings From Downsized Social Media Games - The Metacast by Naavik",
+          "description": "In this Metacast episode, Abhimanyu Kumar, Tammy Levy and Tim Mannveille join your host Maria Gillies to discuss: #1 Social Media Apps Downsize Games: Why is...",
+          "image": "https://i.ytimg.com/vi/_rvklM50zhQ/maxresdefault.jpg",
+          "source": "YouTube"
+        },
+        {
+          "caption": "A look at Audio Ads by Gadsme",
+          "url": "https://www.pocketgamer.biz/news/79580/gadsme-branching-into-audio-ads/",
+          "title": "Gadsme branching into audio ads",
+          "description": "Ad monetisation specialist Gadsme has announced that they&rsquo;re moving into the space of audio ads in a world first.",
+          "image": "https://media.pocketgamer.biz/2021/2/109144/gadsme-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Roblox's anti-cloning measures",
+          "url": "https://www.gamedeveloper.com/programming/-i-roblox-i-takes-aim-at-game-cloning-in-new-developer-update",
+          "title": "Roblox adds facial animation, anti-game cloning tools in new update",
+          "description": "Roblox Corp. is rolling out new tools for developers on the Roblox platform. Among them is a new feature aimed at stopping exploitative cloning.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt302c487a21298165/631b558f438590505871c596/robloxlibraryfeatured.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Roblox rolling out higher fidelity graphics and other parameters",
+          "url": "https://venturebeat.com/games/roblox-is-rolling-out-voice-chat-high-fidelity-avatars-and-age-recommendations/",
+          "title": "Roblox is rolling out voice chat, high-fidelity avatars, and age recommendations",
+          "description": "Roblox said it is rolling out voice chat for those who are 13 and older on its user-generated content platform.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/Roblox_High_School.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Social platforms giving up on gaming",
+          "url": "https://www.gamesindustry.biz/social-platform-gaming-ambitions-disappear-in-a-snap-this-week-in-business",
+          "title": "Social platform gaming ambitions disappear in a Snap | This Week in Business",
+          "description": "An underlying trend can be seen this week across multiple social media platforms, and it's that games and social media …",
+          "image": "https://assets.reedpopcdn.com/snap-games-lead.jpg/BROK/thumbnail/1200x630/snap-games-lead.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Indonesia leaning towards blockchain gaming by @Dean from GamesBeat",
+          "url": "https://venturebeat.com/games/the-deanbeat-indonesias-growing-game-economy-leans-toward-blockchain/",
+          "title": "The DeanBeat: Indonesia’s growing game economy leans toward blockchain",
+          "description": "Indonesia is pretty serious about building its game ecosystem, and it hopes that blockchain games could be the way to sustainability.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/indo-6.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Atari launching an experience in The Sandbox",
+          "url": "https://venturebeat.com/games/atari-launches-its-sunnyvale-experience-in-the-sandbox-metaverse/",
+          "title": "Atari launches its Sunnyvale experience in The Sandbox metaverse",
+          "description": "Atari has launched Sunnyvale, a big new experience in The Sandbox metaverse.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/oma-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Sky Mavis teaming up with Google Cloud to secure blockchain network",
+          "url": "https://venturebeat.com/games/sky-mavis-teams-with-google-cloud-to-secure-blockchain-network/",
+          "title": "Sky Mavis teams with Google Cloud to secure blockchain network",
+          "description": "Sky Mavis has teamed up with Google Cloud to become a validator for its blockchain gaming network and enable it to scale.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/AxieCon-Founder-Keynote-1.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at the challenges in the technology gap to build web3 mobile games",
+          "url": "https://www.pocketgamer.biz/asia/comment-and-opinion/79562/building-blockchain-games/",
+          "title": "Tackling the technology gap to build web3 mobile games",
+          "description": "From its origins as a successful hypercasual games studio to the cutting edge of web3 mobile games, PlayEmber CEO Hugo Furneaux, charts the company's evolution",
+          "image": "https://media.pocketgamer.biz/2022/9/118293/screenshot-2022-08-16-at-131047-r225x225.png",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at DBS Bank coming to the metaverse",
+          "url": "https://twitter.com/dbsbank/status/1568085536677445633?s=20&t=O7lS17aNe9Q17wwJXYtSdQ",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at a conversation re: mobile winners with Joakim Achren (founder of Elite Game Developers and investing at Play Ventures",
+          "url": "https://www.pocketgamer.biz/profile/79584/the-future-winners-on-mobile-will-be-the-ones-who-double-down-on-live-ops-and-the-content-treadmill/",
+          "title": "“The future winners on mobile will be the ones who double down on live ops and the content treadmill”",
+          "description": "Pocket Gamer Connects Helsinki is gearing up to be our biggest event in the city yet, and we couldn&rsquo;t be more excited to share with you all that we hav...",
+          "image": "https://media.pocketgamer.biz/2020/10/107665/photo-joakim-achren-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Revolving Games raised $13.2M",
+          "url": "https://www.theblock.co/post/168754/web3-game-developer-revolving-games-closes-25-million-seed-funding-round",
+          "title": "Web3 game dev Revolving Games closes seed funding at over $25 million ",
+          "description": "The firm will use the funding to create original and fully decentralized web3 games over the next two years.",
+          "image": "https://www.tbstat.com/wp/uploads/2019/07/game-gaming-playing-1200x675.jpg",
+          "source": "The Block"
+        },
+        {
+          "caption": "A look at Animoca brand raises $110M",
+          "url": "https://www.pocketgamer.biz/asia/news/79585/animoca-brand-raises-110-million-in-funding/",
+          "title": "Animoca Brands raises $110 million in funding",
+          "description": "We previously covered that Animoca Brand, a Hong Kong-based blockchain gaming brand was holding a funding round with global investment company Temasek, that...",
+          "image": "https://media.pocketgamer.biz/2018/10/92949/yat-siu-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Limit Break raising $200M",
+          "url": "https://www.theblock.co/post/166268/mobile-gaming-firm-limit-break-raises-200-million-across-two-rounds",
+          "title": "Web3 gaming firm Limit Break raises $200 million across two rounds",
+          "description": "Limit Break firm incorporates NFTs and other web3 elements into the \"free-to-play\" payment model for mobile games.",
+          "image": "https://www.tbstat.com/wp/uploads/2022/08/20220822_Funding_Generic2-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Niantic unveiling Marvel World Heroes location game",
+          "url": "https://venturebeat.com/games/niantic-unveils-marvel-world-of-heroes-location-game-for-2023/",
+          "title": "Niantic unveils Marvel World of Heroes location game for 2023",
+          "description": "Niantic showed off a new location-based game Marvel World of Heroes coming in 2023.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/niantic-4.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Marvel & Disney showcasing their releases",
+          "url": "https://www.gamesindustry.biz/the-disney-and-marvel-games-showcase-was-a-teaser-of-future-releases",
+          "title": "The Disney and Marvel Games Showcase was a teaser of future releases",
+          "description": "Today saw the Disney and Marvel Games Showcase take place, hosted by Kinda Funny Games' Blessing Adeoye Jr. The present…",
+          "image": "https://assets.reedpopcdn.com/tron-identity-00.jpg/BROK/thumbnail/1200x630/tron-identity-00.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

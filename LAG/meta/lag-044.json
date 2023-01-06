@@ -1,0 +1,69 @@
+{
+  "heading": "Look at Gaming #44",
+  "subheading": "",
+  "message_id": 54,
+  "number": 44,
+  "date": "Thu Sep 01 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at League of Legends: Wild Rift pulling in $750M in global spending",
+          "url": "https://www.gamesindustry.biz/league-of-legends-wild-rift-pulls-in-750m-global-player-spending",
+          "title": "League of Legends: Wild Rift pulls in $750m global player spending",
+          "description": "Data.ai reports that League of Legends: Wild Rift has amassed over $750 million in global player spending. The MOBA tit…",
+          "image": "https://assets.reedpopcdn.com/ekko%27s-arrival-splash.jpg/BROK/thumbnail/1200x630/ekko%27s-arrival-splash.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the ticking time bomb of F2P games",
+          "url": "https://www.theverge.com/2022/9/1/23330632/free-to-play-gacha-games-closures-dragalia-lost-kingdom-hearts",
+          "title": "The ticking time bomb of modern free-to-play games",
+          "description": "Nintendo is shutting down its free-to-play mobile game Dragalia Lost at the end of 2022, but players are working on archiving as much of the experience as they can.",
+          "image": "https://cdn.vox-cdn.com/thumbor/MKlGO0ehhHP8Q80H7m8qX0G3LAM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13160493/akrales_180925_2981_0006.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Survivor.io passing $15M IAP Rev and 12M Downloads",
+          "url": "https://mobilegamer.biz/tiktok-drives-habbys-survivor-io-past-15m-iap-revenue-12m-downloads/",
+          "title": "TikTok drives Habby’s Survivor.io past $15m IAP revenue, 12m downloads - Mobilegamer.biz",
+          "description": "UA expert Matej Lančarič estimates the game is making $500k per day from in-game ads, too.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/09/Survivor.jpg",
+          "source": "Mobilegamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at PlayStation VR2 being easier to port to other consoles",
+          "url": "https://www.gamedeveloper.com/production/playstation-vr2-will-be-easier-to-develop-ports-for-says-sony",
+          "title": "PlayStation VR2 will be easier to develop ports for, says Sony",
+          "description": "Sony's revealed some development tools shared between the PlayStation 5 and its upcoming PlayStation VR2 headset that'll make for easier VR development.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt2f6a9d92b66d6b1e/6214e804cd2cc54456999557/PSVR2_Header_copy.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at League of Legends: Wild Rift pulling in $750M in global spending",
+          "url": "https://www.gamesindustry.biz/league-of-legends-wild-rift-pulls-in-750m-global-player-spending",
+          "title": "League of Legends: Wild Rift pulls in $750m global player spending",
+          "description": "Data.ai reports that League of Legends: Wild Rift has amassed over $750 million in global player spending. The MOBA tit…",
+          "image": "https://assets.reedpopcdn.com/ekko%27s-arrival-splash.jpg/BROK/thumbnail/1200x630/ekko%27s-arrival-splash.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

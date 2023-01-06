@@ -1,0 +1,140 @@
+{
+  "heading": "Look at Gaming #20",
+  "subheading": "",
+  "message_id": 30,
+  "number": 20,
+  "date": "Fri Jul 29 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at SudoSwap brought to you by The Block Research  @sudoswap @0xmons @0xhamachi @boredGenius h/t to these guys who kept building since I met them in Sept in NY last yr",
+          "url": "https://www.theblockresearch.com/sudoswap-reconceptualizing-nft-trading-160275",
+          "title": "SudoSwap: Reconceptualizing NFT Trading",
+          "description": "Times of market exuberance can often blind investors to the existence of alternative technical solutions. The barrage of investment opportunities that",
+          "image": "https://www.tbstat.com/wp/uploads/2022/07/20220727_Sudoswap_Research-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Hypercasual genre taking a hit as Google cracks down on ads",
+          "url": "https://mobilegamer.biz/hypercasual-to-take-a-hit-as-google-cracks-down-on-intrusive-ads/",
+          "title": "Hypercasual to take a hit as Google cracks down on intrusive ads - Mobilegamer.biz",
+          "description": "New guidelines effective September 30 will ban unexpected full screen ads and other types of intrusive placements.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/07/Google-Play-Hypercasual.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at PlayStation's Q1 rev dip by 2% to $4.5B",
+          "url": "https://www.gamesindustry.biz/playstations-q1-revenues-dip-by-2-to-45-billion-amid-sales-decline-increasing-costs",
+          "title": "PlayStation’s Q1 revenues dip by 2% to $4.5 billion amid sales decline, increasing costs",
+          "description": "Sony has released its first quarter results for the new financial year, showing a slight decline in gaming revenues. Th…",
+          "image": "https://assets.reedpopcdn.com/ps5_ZXPsTKp.jpg/BROK/thumbnail/1200x630/ps5_ZXPsTKp.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Twitch viewership fall agaisnt Facebook Gaming",
+          "url": "https://www.gamesindustry.biz/twitch-viewership-fell-as-facebook-gaming-rose-in-june",
+          "title": "Twitch viewership fell as Facebook Gaming rose in June",
+          "description": "May's growth in hours watched on Twitch may have been an aberration as the streaming service resumed its downward trend…",
+          "image": "https://assets.reedpopcdn.com/streamstate.jpg/BROK/thumbnail/1200x630/streamstate.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at @eric_seufert unpacking Meta's Q2 2022 earnings",
+          "url": "https://mobiledevmemo.com/unpacking-metas-q2-2022-earnings-measurement-still-looms-large/",
+          "title": "Unpacking Meta's Q2 2022 earnings: measurement still looms large | Mobile Dev Memo by Eric Seufert",
+          "description": "Unpacking Meta's Q2 2022 earnings: measurement still looms large. Mobile marketing and advertising, freemium monetization strategy, and marketing science.",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/07/mdm_meta_pivot.png",
+          "source": "Mobile Dev Memo"
+        },
+        {
+          "caption": "A look at Mobile games viewership growing on YouTube but not Twitch",
+          "url": "https://venturebeat.com/2022/07/29/streamelements-mobile-games-are-growing-on-youtube-but-not-twitch/",
+          "title": "StreamElements: Mobile games are growing on YouTube but not Twitch",
+          "description": "According to StreamElement's latest report, Twitch and YouTube's talents are diverging slightly in terms of content.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/slide-5.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Super Evil Megacorp's learning form Vainglory",
+          "url": "https://mobilegamer.biz/how-super-evil-megacorp-took-everything-it-learned-from-vainglory-and-put-it-into-catalyst-black/",
+          "title": "How Super Evil Megacorp took everything it learned from Vainglory and put it into Catalyst Black - Mobilegamer.biz",
+          "description": "Kristian Segerstrale is 21 years into a glittering career in mobile, but still believes you're only as good as your last game.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/05/Kristian-Segerstrale-Super-Evil-Megacorp.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at the Anti-Defamation League's study on Minecraft servers.  46% experienced harrassment",
+          "url": "https://www.gamesindustry.biz/adl-studies-hate-harassment-on-minecraft-servers",
+          "title": "ADL studies hate, harassment on Minecraft servers",
+          "description": "Anti-Defamation League study finds strong community guidelines and mod-to-player ratio are tied to more positive social spaces",
+          "image": "https://assets.reedpopcdn.com/minecraft_I3b9rQL.jpg/BROK/thumbnail/1200x630/minecraft_I3b9rQL.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at PS5 sales hitting 21.7M units but gameplay time declined by 15% YoY",
+          "url": "https://www.gamedeveloper.com/business/ps5-sales-hit-21-7-million-units-but-playstation-owners-are-spending-less-time-playing-games",
+          "title": "PlayStation 5 sales hit 21.7 million units, but software sales decline",
+          "description": "PlayStation 5 hardware sales have passed the 20 million mark, but both first and third-party software sales have declined year-on-year.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt1e9b88d28fae557e/617a8ca019950c1042fd89c6/PS5_Header.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at SudoSwap brought to you by The Block Research  @sudoswap @0xmons @0xhamachi @boredGenius h/t to these guys who kept building since I met them in Sept in NY last yr",
+          "url": "https://www.theblockresearch.com/sudoswap-reconceptualizing-nft-trading-160275",
+          "title": "SudoSwap: Reconceptualizing NFT Trading",
+          "description": "Times of market exuberance can often blind investors to the existence of alternative technical solutions. The barrage of investment opportunities that",
+          "image": "https://www.tbstat.com/wp/uploads/2022/07/20220727_Sudoswap_Research-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at Newzoo's report on IP-Based Mobile Games",
+          "url": "https://newzoo.com/insights/trend-reports/ip-based-mobile-games-report-2022",
+          "title": "IP-Based Mobile Games Report | Newzoo Report",
+          "description": "How are the IP-Based mobile games performing and what are the success drivers for top games? Download this free report to find out!",
+          "image": "https://newzoo.com/wp-content/uploads/2022/07/mock-up-1.png",
+          "source": "Newzoo"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Concept Ventures raising $60M for pre-seed fund in UK",
+          "url": "https://www.gamesindustry.biz/concept-ventures-launches-60m-pre-seed-fund-for-uk-gaming-ventures-1",
+          "title": "Concept Ventures launches $60m pre-seed fund for UK gaming ventures",
+          "description": "Concept Ventures announced today that it's launched a $60 million (&pound;50 million) pre-seed fund known as The Fund. …",
+          "image": "https://assets.reedpopcdn.com/Concept-Ventures.jpeg/BROK/thumbnail/1200x630/Concept-Ventures.jpeg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

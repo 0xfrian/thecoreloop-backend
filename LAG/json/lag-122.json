@@ -1,0 +1,69 @@
+{
+  "heading": "Look at Gaming #122",
+  "subheading": "",
+  "message_id": 135,
+  "number": 122,
+  "date": "Mon Dec 20 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the 2022 games industry review in numbers",
+          "url": "https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-numbers-2022",
+          "title": "GamesIndustry.biz presents… The Year In Numbers 2022",
+          "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox 2022 has been a busy year for GamesIndustr…",
+          "image": "https://assets.reedpopcdn.com/GI22_Infographic_YIN_lead.jpg/BROK/thumbnail/1200x630/GI22_Infographic_YIN_lead.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at the 2022 games industry review in numbers",
+          "url": "https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-numbers-2022",
+          "title": "GamesIndustry.biz presents… The Year In Numbers 2022",
+          "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox 2022 has been a busy year for GamesIndustr…",
+          "image": "https://assets.reedpopcdn.com/GI22_Infographic_YIN_lead.jpg/BROK/thumbnail/1200x630/GI22_Infographic_YIN_lead.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at the hypercasual market analysis in 2022",
+          "url": "https://gamedevreports.substack.com/p/azur-games-hypercasual-market-analysis",
+          "title": "Azur Games: Hypercasual market analysis in 2022",
+          "description": "Competition increased several times.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc670d1d8-0e37-4d28-b1fe-d1ea669c4c2d_1366x838.png",
+          "source": "gamedevreports.substack.com"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at The Sandbox selling $1.66M worth of virtual land",
+          "url": "https://venturebeat.com/games/the-sandbox-sells-1-66m-of-virtual-land-for-its-metaverse/",
+          "title": "The Sandbox sells $1.66M of virtual land for its metaverse",
+          "description": "The Sandbox has sold more than $1.66 million worth of virtual land across the map of its metaverse in the past few weeks.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/12/sandbox-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at the makings of a Hearthstone card in 2022",
+          "url": "https://www.gamedeveloper.com/design/the-making-of-a-hearthstone-card",
+          "title": "The making of a Hearthstone card in 2022",
+          "description": "Designing and balancing new cards eight years into Hearthstone's life cycle is no mean feat. We chatted with a designer and VFX artist on new expansions.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt761c4ded143eb685/63a1f5df0a5a7727530a3ae6/Death_Knight_Hero_Art.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

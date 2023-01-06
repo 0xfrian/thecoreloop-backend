@@ -1,0 +1,93 @@
+{
+  "heading": "Look at Gaming #49",
+  "subheading": "",
+  "message_id": 59,
+  "number": 49,
+  "date": "Thu Sep 08 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Coinbase supporting Ethusiast Gaming (creator of EV.io)",
+          "url": "https://www.theblock.co/post/168726/enthusiast-gaming-taps-coinbase-to-help-build-its-web3-game-offerings?utm_source=telegram1&utm_medium=social",
+          "title": "Enthusiast Gaming taps Coinbase to help build its web3 game offerings",
+          "description": "Coinbase will provide the crypto wallets, blockchain nodes, fiat-to-crypto payment ramps and other tools via Coinbase Cloud.",
+          "image": "https://www.tbstat.com/wp/uploads/2021/06/20210601_Coinbase_Stablecoin_Offering-1200x675.png",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Scopely acquiring Stumble Guys",
+          "url": "https://mobilegamer.biz/scopely-has-acquired-stumble-guys-from-kitka-games/",
+          "title": "Scopely has acquired Stumble Guys from Kitka Games - Mobilegamer.biz",
+          "description": "Publishing giant plans to “expand the experience” under the Scopely brand.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/09/Scopely-Stumble-Guys.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at GameStop's earnings.  Net Sales $1.14B",
+          "url": "https://www.gamesindustry.biz/gamestop-continues-to-post-losses",
+          "title": "GameStop continues to post losses",
+          "description": "Ever since its meme stock rally, GameStop's business has produced quarterly losses but growing sales.The retailer yeste…",
+          "image": "https://assets.reedpopcdn.com/gamestop-financials-1408660744579.jpg/BROK/thumbnail/1200x630/gamestop-financials-1408660744579.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at what Players really want from new games",
+          "url": "https://newsletter.gamediscover.co/p/what-do-players-really-want-from",
+          "title": "What do players really want from new games, anyhow?",
+          "description": "We don't know, but Google paid a research firm to ask folks.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F31c8fcba-8f0a-4089-be8d-aebebac4ee38_1200x836.jpeg",
+          "source": "newsletter.gamediscover.co"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Sky Mavis' new features & products",
+          "url": "https://venturebeat.com/games/sky-mavis-launches-new-features-and-products-for-axie-infinity-fans/",
+          "title": "Sky Mavis launches new features and products for Axie Infinity fans",
+          "description": "Axie Infinity maker Sky Mavis announced a series of new features and products at its first-ever conference AxieCon in Barcelona, Spain.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/Axie-Infinity-Origins-Battle-System.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Dropp Group acquiring Phyly for $25M to build digital twins of large metros",
+          "url": "https://venturebeat.com/games/dropp-acquires-metaverse-platform-phly-for-25m/",
+          "title": "Dropp acquires metaverse platform Phly for $25M",
+          "description": "Dropp Group has acquired metaverse platform Phly for $25 million to build \"digital twins\" of the major cities in the world.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/dropp-ASSET_dropp_metaREALITY-Image_As-of-September-7-2022.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at KPMG report of 78% of US Adults will socialize using the metaverse",
+          "url": "https://venturebeat.com/metaverse/kpmg-78-of-u-s-adults-are-ready-to-move-into-the-metaverse/",
+          "title": "KPMG: 78% of U.S. adults will socialize with friends in the metaverse",
+          "description": "People may not know what the metaverse holds for them beyond games, but the vast majority of U.S. adults are ready to plunge into it.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/09/kpmg-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Coinbase supporting Ethusiast Gaming (creator of EV.io)",
+          "url": "https://www.theblock.co/post/168726/enthusiast-gaming-taps-coinbase-to-help-build-its-web3-game-offerings?utm_source=telegram1&utm_medium=social",
+          "title": "Enthusiast Gaming taps Coinbase to help build its web3 game offerings",
+          "description": "Coinbase will provide the crypto wallets, blockchain nodes, fiat-to-crypto payment ramps and other tools via Coinbase Cloud.",
+          "image": "https://www.tbstat.com/wp/uploads/2021/06/20210601_Coinbase_Stablecoin_Offering-1200x675.png",
+          "source": "The Block"
+        }
+      ]
+    }
+  ]
+}

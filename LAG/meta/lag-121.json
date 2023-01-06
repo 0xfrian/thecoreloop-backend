@@ -1,0 +1,127 @@
+{
+  "heading": "Look at Gaming #121",
+  "subheading": "",
+  "message_id": 134,
+  "number": 121,
+  "date": "Mon Dec 19 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the 2022 UGC Games playbook by @naavik_co",
+          "url": "https://naavik.co/digest/the-2022-ugc-games-playbook",
+          "title": "The 2022 UGC Games Playbook — Naavik",
+          "description": "We reflect on our UGC learnings this past year, propose a playbook \nframework, and showcase expert opinions on the matter.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/639ed40dac2c1470f1b6f992/1671353363080/VB4lHOOY.png?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Riot wants out of the $96M FTX deal",
+          "url": "https://www.gamedeveloper.com/business/riot-wants-out-of-its-deal-with-disgraced-crypto-firm-ftx",
+          "title": "Riot wants out of its deal with disgraced crypto firm FTX (edited)",
+          "description": "Riot Games filed a court motion to end its deal with crypto company FTX following the company's bankruptcy and the arrest of FTX founder Sam Bankman-Fried.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt0b45bb3c92ea05a0/62f3fa551b953d0efcb592d3/league.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at FTC fining Epic Games $520M for violating child privacy laws",
+          "url": "https://venturebeat.com/games/ftc-fines-epic-games-520m-for-violating-child-privacy-laws/",
+          "title": "FTC fines Epic Games $520M for violating child privacy laws",
+          "description": "The FTC is fining Epic Games millions over its purchasing practices and inadequate protection of children in Fortnite.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/01/fortnite-sniper.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at data.ai mobile games revenue continuing to decline in 2023",
+          "url": "https://gamedevreports.substack.com/p/dataai-mobile-games-revenue-will",
+          "title": "data.ai: Mobile Games Revenue will continue to decline in 2023",
+          "description": "What else the future will bring us?",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31d84d1-456a-454b-bbe8-13d560d82067_1290x1274.png",
+          "source": "gamedevreports.substack.com"
+        },
+        {
+          "caption": "A look at a possible end of consolidations in the market @konvoyventures",
+          "url": "https://www.konvoy.vc/newsletter/end-of-consolidation",
+          "title": "End of Consolidation?",
+          "description": "Microsoft's acquisition of Activision Blizzard faces steep regulatory hurdles",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/639e420c33aad716ecee06ed_image%20(17).png",
+          "source": "www.konvoy.vc"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the rise of esports hotels in Asia by @nikochina",
+          "url": "https://nikopartners.com/the-rise-of-esports-hotels-in-asia/",
+          "title": "The rise of esports hotels in Asia",
+          "description": "The first floor of the PC gaming area at e-ZONe in Osaka, Japan.\nTourism is one of the many industries that enjoy positive spillover effects from the fast-growing video game and esports markets in Asia. There is a strong intersection of esports and tourism in particular, and one aspect of interest is esports",
+          "image": "https://nikopartners.com/wp-content/uploads/2022/12/eZONe-Osaka.jpg",
+          "source": "Niko"
+        },
+        {
+          "caption": "A look at the 2022 UGC Games playbook by @naavik_co",
+          "url": "https://naavik.co/digest/the-2022-ugc-games-playbook",
+          "title": "The 2022 UGC Games Playbook — Naavik",
+          "description": "We reflect on our UGC learnings this past year, propose a playbook \nframework, and showcase expert opinions on the matter.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/639ed40dac2c1470f1b6f992/1671353363080/VB4lHOOY.png?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Microsoft gauging interest for Xbox Game Pass that's ad-supported",
+          "url": "https://www.gamesindustry.biz/microsoft-gauging-interest-for-xbox-game-pass-ad-supported-tier-subscription",
+          "title": "Microsoft gauging interest for Xbox Game Pass ad-supported tier subscription",
+          "description": "A Microsoft survey about Xbox Game Pass suggests that an ad-supported subscription tier may be coming to the service. A…",
+          "image": "https://assets.reedpopcdn.com/Xbox-00.png/BROK/thumbnail/1200x630/Xbox-00.png",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Activision Blizzard president & COO joining Yuga Labs",
+          "url": "https://www.gamedeveloper.com/business/activision-blizzard-president-joining-bored-ape-company-to-build-metaverse",
+          "title": "Activision Blizzard president named CEO of Bored Ape creator Yuga Labs",
+          "description": "Activision Blizzard president and COO, Daniel Alegre, is departing the publisher to join NFT company Yuga Labs.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt7b72344d080d878c/63a07070124e380d16211769/Yuga_Otherside.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at a monetization masterclass with experts from Anzu, Unity & Wildlife Studios",
+          "url": "https://www.pocketgamer.biz/news/80475/monetisation-masterclass-learn-how-to-take-your-game-to-the-next-level/",
+          "title": "Monetisation masterclass: learn how to take your game to the next level",
+          "description": "One of the biggest benefits for developers working in the mobile games market is the ability to make monetisation a part of the integral game design.\n                    ",
+          "image": "https://media.pocketgamer.biz/2022/11/119464/anzu-in-game-ads-webinar-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at a player-centric approach to game ad creatives",
+          "url": "https://venturebeat.com/games/the-player-centric-approach-that-improves-performance-for-mobile-game-ad-creative/",
+          "title": "The player-centric approach that improves performance for mobile game ad creative",
+          "description": "Gamers are still hungry for content. But they're being judicious about where they spend their hard-earned money in a tight economy.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/12/AdobeStock_316588627.jpeg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "heading": "Look at Gaming #30",
+  "subheading": "",
+  "message_id": 40,
+  "number": 30,
+  "date": "Fri Aug 12 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at AppLovin's game of musical chairs with @deconoffun",
+          "url": "https://anchor.fm/deconstructoroffun/episodes/TWIG-195-AppLovins-game-of-musical-chairs-I-JamCitys-infamous-layoffs-I-Roblox-misses-estimates-e1mcc2h",
+          "title": "TWIG #195 AppLovin's game of musical chairs I JamCity's infamous layoffs I Roblox misses estimates by Deconstructor of Fun",
+          "description": "Seufert is back from Europe and has a couple of words regarding last week’s analysis of the Hypercasual games' economy following Google’s ad changes. We’ll deep dive into AppLovin’s gangster move. JamCity’s massive layoffs and Roblox’s bookings miss. The gang also discusses why Blizzard and NetEase scrapped Warcraft Mobile and PlayStation Mobile’s hiring spree.\nhosts: Eric Seufert, Ethan Levy, Adam Telfer",
+          "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/738867/738867-1660197534148-a9751cd534036.jpg",
+          "source": "Anchor"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at AppLovin's game of musical chairs with @deconoffun",
+          "url": "https://anchor.fm/deconstructoroffun/episodes/TWIG-195-AppLovins-game-of-musical-chairs-I-JamCitys-infamous-layoffs-I-Roblox-misses-estimates-e1mcc2h",
+          "title": "TWIG #195 AppLovin's game of musical chairs I JamCity's infamous layoffs I Roblox misses estimates by Deconstructor of Fun",
+          "description": "Seufert is back from Europe and has a couple of words regarding last week’s analysis of the Hypercasual games' economy following Google’s ad changes. We’ll deep dive into AppLovin’s gangster move. JamCity’s massive layoffs and Roblox’s bookings miss. The gang also discusses why Blizzard and NetEase scrapped Warcraft Mobile and PlayStation Mobile’s hiring spree.\nhosts: Eric Seufert, Ethan Levy, Adam Telfer",
+          "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/738867/738867-1660197534148-a9751cd534036.jpg",
+          "source": "Anchor"
+        },
+        {
+          "caption": "A look at Krafton (PUBG's creator) H1 2022.  Q2 Rev $326.5M",
+          "url": "https://www.gamedeveloper.com/business/krafton-credits-i-pubg-mobile-i-for-its-successful-h1-2022",
+          "title": "Krafton's successful H1 2022 is thanks to PUBG Mobile",
+          "description": "PUBG: Battlegrounds publisher Krafton released its financials for the first half of 2022, and much of its success came from the shooter's mobile version.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltc72b0b6a98051366/62f68dfce443d14159140597/pubg.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at the loss leaders of the pack",
+          "url": "https://www.gamesindustry.biz/loss-leaders-of-the-pack",
+          "title": "Loss leaders of the pack | This Week in Business",
+          "description": "We take a closer look at Unity and Roblox, two big companies that have been around 18 years without ever turning a profit",
+          "image": "https://assets.reedpopcdn.com/roblox_DF07bxC.png/BROK/thumbnail/1200x630/roblox_DF07bxC.png",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at @GuildFiGlobal 's partnership with Pocket Worlds",
+          "url": "https://twitter.com/guildfiglobal/status/1557957062205657089?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at Ape-themed games in AIP-78",
+          "url": "https://twitter.com/apecoin/status/1557815401375055874?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at BlackPool Q2's Report",
+          "url": "https://twitter.com/blackpoolhq/status/1558050961133821953?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    }
+  ]
+}

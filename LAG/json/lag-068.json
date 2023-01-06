@@ -1,0 +1,111 @@
+{
+  "heading": "Look at Gaming #68",
+  "subheading": "",
+  "message_id": 78,
+  "number": 68,
+  "date": "Wed Oct 05 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at SKAdNetwork 4.0 maybe killing fingerprinting?",
+          "url": "https://mobiledevmemo.com/will-skadnetwork-4-0-finally-kill-device-fingerprinting/",
+          "title": "Will SKAdNetwork 4.0 finally kill device fingerprinting? | Mobile Dev Memo by Eric Seufert",
+          "description": "Will SKAdNetwork 4.0 finally kill device fingerprinting?. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/10/MDM-skadnetwork-kill-fingerprinting.jpg",
+          "source": "Mobile Dev Memo"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at player spending forecast to fall 2% YoY in 2022",
+          "url": "https://www.pocketgamer.biz/news/79839/player-spending-forecast-to-fall-2-year-on-year-in-2022/",
+          "title": "Player spending forecast to fall 2% year-on-year in 2022",
+          "description": "A new report by Sensor Tower forecasts that the mobile gaming industry will see a 2 percent fall in revenue this year.",
+          "image": "https://media.pocketgamer.biz/2020/5/104716/sensor-tower-logo-r225x225.png",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at PlayStation eyeing investment into mobile and PC",
+          "url": "https://www.pocketgamer.biz/news/79833/playstation-eyes-new-investment-in-mobile-and-pc/",
+          "title": "PlayStation eyes new investment in mobile and PC",
+          "description": "Sony is eyeing up fresh investments as it looks to continue its push into PC and mobile, and compete for top industry talent, reports Reuters.",
+          "image": "https://media.pocketgamer.biz/2021/7/111255/playstation-logo-credit-sony-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at SKAdNetwork 4.0 maybe killing fingerprinting?",
+          "url": "https://mobiledevmemo.com/will-skadnetwork-4-0-finally-kill-device-fingerprinting/",
+          "title": "Will SKAdNetwork 4.0 finally kill device fingerprinting? | Mobile Dev Memo by Eric Seufert",
+          "description": "Will SKAdNetwork 4.0 finally kill device fingerprinting?. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/10/MDM-skadnetwork-kill-fingerprinting.jpg",
+          "source": "Mobile Dev Memo"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Warner Music Group plotting to move in to the metaverse",
+          "url": "https://www.theblock.co/post/175070/warner-music-group-is-hiring-a-metaverse-development-director",
+          "title": "Warner Music Group is hiring a metaverse development director",
+          "description": "The U.S. record label wants to build out its partnerships with metaverse and web3 gaming brands through this new role. ",
+          "image": "https://www.tbstat.com/wp/uploads/2022/07/20220725_Metaverse_Book-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at 7 ways to discount your game",
+          "url": "https://newsletter.gamediscover.co/p/discounting-your-games-7-clear-rules",
+          "title": "Discounting your games: 7 clear rules!",
+          "description": "Players like buying games when they're cheaper, we hear.",
+          "image": "https://substackcdn.com/image/youtube/w_728,c_limit/ujXZr5rASoI",
+          "source": "newsletter.gamediscover.co"
+        },
+        {
+          "caption": "A look at taking the uncertainty out of game funding with alternate sources",
+          "url": "https://venturebeat.com/games/take-the-uncertainty-out-of-game-funding-with-alternate-sources-better-pitches-and-more/",
+          "title": "Take the uncertainty out of game funding with alternate sources, better pitches and more",
+          "description": "In this VB Live event, leading industry pros share tips and best practices on finding the right investor, pitching, negotiating and more.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1347196308.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Amber Studios getting an additional $20M",
+          "url": "https://www.pocketgamer.biz/news/79837/amber-studios-acquires-additional-20m-of-investment-to-expand-company/",
+          "title": "Amber Studios acquires additional $20m of investment to expand company",
+          "description": "Amber Studios, a mobile game development company founded in Bucharest, Romania back in 2014 has seen a large new investment of $20m USD. This money comes at...",
+          "image": "https://media.pocketgamer.biz/2021/5/110325/amber-logo-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Gamurs raising $12M",
+          "url": "https://www.gamesindustry.biz/gamurs-raises-12m-to-use-predominantly-for-acquisitions",
+          "title": "Gamurs raises $12m to use \"predominantly\" for acquisitions",
+          "description": "Media network Gamurs has raised $12 million in a series A round. The round was co-led by LA Dodgers Ownership Group's i…",
+          "image": "https://assets.reedpopcdn.com/Gamurs.jpeg/BROK/thumbnail/1200x630/Gamurs.jpeg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}

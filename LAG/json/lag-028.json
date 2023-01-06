@@ -1,0 +1,119 @@
+{
+  "heading": "Look at Gaming #28",
+  "subheading": "",
+  "message_id": 38,
+  "number": 28,
+  "date": "Wed Aug 10 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Microsoft accusing Sony of paying devs to avoid Game Pass",
+          "url": "https://www.gamesindustry.biz/microsoft-accuses-sony-of-paying-devs-to-stay-off-game-pass",
+          "title": "Microsoft accuses Sony of paying devs to stay off Game Pass",
+          "description": "Microsoft has claimed that Sony has been paying developers to keep their work off subscription services like its own Ga…",
+          "image": "https://assets.reedpopcdn.com/gamepass_OshxanZ.jpg/BROK/thumbnail/1200x630/gamepass_OshxanZ.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at President Biden signing the CHIPS & Science Act to boost semiconductor prod in US",
+          "url": "https://www.gamedeveloper.com/business/president-biden-signs-chips-and-science-act-to-boost-semiconductor-production-in-the-u-s-",
+          "title": "U.S. to \"surge\" semiconductor production to tackle supply chain issues",
+          "description": "Ongoing supply issues have resulted in console makers struggling to meet demand.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt90b0f1e4cce90856/62f39ffac180ff0ed5b3d7e3/Semiconductor.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Unity revenues.  Q2 Rev = $297M",
+          "url": "https://www.gamesindustry.biz/unity-revenues-up-modestly-as-losses-mount-in-q2",
+          "title": "Unity revenues up modestly as losses mount in Q2",
+          "description": "Unity's Q2 earnings showed that its non-gaming business is growing, and so are its net losses",
+          "image": "https://assets.reedpopcdn.com/unity-logo_teCooZK.jpg/BROK/thumbnail/1200x630/unity-logo_teCooZK.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Chinese youth playing less due to restrictions",
+          "url": "https://www.gamesindustry.biz/study-finds-chinese-youth-playing-less-in-wake-of-restrictions",
+          "title": "Study finds Chinese youth playing less in wake of restrictions",
+          "description": "Niko Partners' new 2022 China Youth Gamers report reveals that after 2021's gaming restrictions were implemented, 54% o…",
+          "image": "https://assets.reedpopcdn.com/youth-gaming-01.jpg/BROK/thumbnail/1200x630/youth-gaming-01.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at EA & Square Enix earnings by @naavik_co",
+          "url": "https://naavik.co/digest/ea-squareenix-have-mixed-reviews",
+          "title": "EA & Square Enix Have Mixed Earnings — Naavik",
+          "description": "EA and Square Enix both had a mixed earnings season, teasing various new \nstrategies and having some success with others. In this edition, we examine \nboth companies and tease a new game deconstruction on Zen Match.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/62f3711d6064e43edfe3973b/1660121376909/IaUhJjW8.png?format=1500w",
+          "source": "Naavik"
+        },
+        {
+          "caption": "A look at 93% game devs saying in-game ads are critical part of revenue",
+          "url": "https://venturebeat.com/games/meta-audience-network-93-of-mobile-game-devs-consider-in-game-ads-to-be-critical/",
+          "title": "Meta Audience Network: 93% of mobile game devs consider in-game ads to be critical",
+          "description": "The vast majority of mobile developers consider ads critical to successful monetization, with 93% of developers using in-game ads.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/meta-audience-network.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Sony's worries about Call of Duty",
+          "url": "https://www.gamesindustry.biz/is-sony-right-to-be-worried-about-call-of-duty",
+          "title": "Is Sony right to be worried about Call of Duty?",
+          "description": "Sony concerned about CoD",
+          "image": "https://assets.reedpopcdn.com/MWII-2022-red.jpg/BROK/thumbnail/1200x630/MWII-2022-red.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Microsoft accusing Sony of paying devs to avoid Game Pass",
+          "url": "https://www.gamesindustry.biz/microsoft-accuses-sony-of-paying-devs-to-stay-off-game-pass",
+          "title": "Microsoft accuses Sony of paying devs to stay off Game Pass",
+          "description": "Microsoft has claimed that Sony has been paying developers to keep their work off subscription services like its own Ga…",
+          "image": "https://assets.reedpopcdn.com/gamepass_OshxanZ.jpg/BROK/thumbnail/1200x630/gamepass_OshxanZ.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at MZ founder's new stealth game studio backed by Paradigm",
+          "url": "https://twitter.com/gabrielleydon/status/1555183685527146497?s=20&t=tCdDta6oBmoenX2VQbkVmQ",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at if your game falls under main'ing, trending, or sampling",
+          "url": "https://www.gamedeveloper.com/blogs/is-your-game-built-for-main--ing-trending-or-sampling-",
+          "title": "Is your game built for 'main'-ing, trending, or sampling?",
+          "description": "What is your game for? Absolutely something.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt43c38bb0c327f7d4/6298fad83e67f920b951f04d/grandtheftautoonlinefeatured.PNG",
+          "source": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

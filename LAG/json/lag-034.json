@@ -1,0 +1,93 @@
+{
+  "heading": "Look at Gaming #34",
+  "subheading": "",
+  "message_id": 44,
+  "number": 34,
+  "date": "Thu Aug 18 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Sony adding \"PlayStation on PC\" to its website",
+          "url": "https://venturebeat.com/games/playstation-on-pc-is-live/",
+          "title": "Sony adds a PlayStation on PC section to its site",
+          "description": "PlayStation on PC is live, listing all of the currently available PlayStation games as as well as what gamers can look forward to.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/playstationpc.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Embracer acquiring IP rights to Lord of the Rings",
+          "url": "https://www.gamesindustry.biz/embracer-to-acquire-lord-of-the-rings-ip-tripwire-limited-run-and-more",
+          "title": "Embracer to acquire Lord of the Rings IP, Tripwire, Limited Run and more",
+          "description": "At a glance: Embracer has announced a number of major acquisitions, including the IP rights to the Lord of the Rings an…",
+          "image": "https://assets.reedpopcdn.com/LOTR_mI13EDW.jpeg/BROK/thumbnail/1200x630/LOTR_mI13EDW.jpeg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Aonic's purchase of Exmox for $100M",
+          "url": "https://www.gamesindustry.biz/aonic-purchases-marketing-company-exmox-for-nearly-100m",
+          "title": "Aonic purchases marketing company Exmox for nearly $100m",
+          "description": "Video game firm Aonic Group announced that it's acquired marketing platform Exmox for nearly $100 million. Founded in 2…",
+          "image": "https://assets.reedpopcdn.com/aonic-001.jpg/BROK/thumbnail/1200x630/aonic-001.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at the M&A market by Quantum Tech Partners",
+          "url": "https://venturebeat.com/games/quantum-tech-partners-gaming-ma-isnt-taking-a-summer-break/",
+          "title": "Quantum Tech Partners: Gaming M&A isn’t taking a summer break",
+          "description": "The folks at Quantum Tech Partners explain what they see in the games industry as relating to M&A and growth.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/transaction-value.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Embracer earnings. Q2 Rev $682M",
+          "url": "https://www.gamesindustry.biz/embracer-net-sales-up-107-for-q1",
+          "title": "Embracer net sales up 107% for Q1",
+          "description": "Embracer Group has released its financial results for Q1 of the fiscal year, reporting a 107% increase in sales revenue…",
+          "image": "https://assets.reedpopcdn.com/embracer_slide.jpg/BROK/thumbnail/1200x630/embracer_slide.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at venture market valuations by @joshchapmn from @konvoyventures",
+          "url": "https://twitter.com/joshchapmn/status/1560253162803539968",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Sony adding \"PlayStation on PC\" to its website",
+          "url": "https://venturebeat.com/games/playstation-on-pc-is-live/",
+          "title": "Sony adds a PlayStation on PC section to its site",
+          "description": "PlayStation on PC is live, listing all of the currently available PlayStation games as as well as what gamers can look forward to.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/playstationpc.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at a new study showing devs still don't like NFTs",
+          "url": "https://www.gamedeveloper.com/business/new-study-developers-nft-skepticism",
+          "title": "Developers still not sure NFTs will matter in games",
+          "description": "A recent study shows that most game developers remain skeptical that NFTs will have any impact on games, if they're even convinced of the technology's use.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt6a62cd4ffc24dadd/62fe843ed3efcb30e2178013/cloud.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

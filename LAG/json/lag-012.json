@@ -1,0 +1,153 @@
+{
+  "heading": "Look at Gaming #12",
+  "subheading": "",
+  "message_id": 21,
+  "number": 12,
+  "date": "Tue Jul 19 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at GDC 2023 Core Concept talks. GDC is one of the TOP conferences in gaming.  Pro-tip: the prev talks could be found at the GDC Vault.  A lot of good content there",
+          "url": "https://www.gamedeveloper.com/gdc/gdc-2023-core-concepts-talk-submissions-are-now-open",
+          "title": "GDC 2023 Core Concepts talk submissions are now open",
+          "description": "GDC is looking for game developers eager to share what works, what should change, and where the future of video games is headed—and here are some tips to get started.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt5c106f9e22f07185/62d6d14b85b9e30eb3f937d4/gdc_face2.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at the M&A Activity in H1 2022 by Drake Star Partners",
+          "url": "https://venturebeat.com/2022/07/19/drake-star-partners-gaming-ma-and-investments-hit-651-deals-worth-107b-in-first-half/",
+          "title": "Drake Star Partners: Gaming M&A and investments hit 651 deals worth $107B in first half",
+          "description": "Game companies are still cutting a lot of deals. The first half of 2022 has seen more than 651 deals with a disclosed value of $107B.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/drake.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at how investment in game companies soared in H1 2022",
+          "url": "https://www.axios.com/2022/07/19/video-game-deals-drakestar-2022",
+          "title": "Investment in game companies soared in first half of 2022",
+          "description": "A lot of it went to blockchain gaming efforts, but far from all.",
+          "image": "https://images.axios.com/Lm0omp7KxIRFQHtVt9tYaq00pfc=/0x49:1600x949/1366x768/2022/07/19/1658264487038.png",
+          "source": "Axios"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at LoL: Wild Rift hitting $500M in lifetime rev.",
+          "url": "https://mobilegamer.biz/league-of-legends-wild-rift-hits-500m-in-lifetime-player-spend/",
+          "title": "League of Legends: Wild Rift hits $500m in lifetime player spend - Mobilegamer.biz",
+          "description": "Fellow Riot title Teamfight Tactics has accumulated $299m to date, with Legends of Runeterra on $24m.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/07/League-of-legends-wild-rift.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at InnoGames' salary transparency report.  It's worth a look.  $87k for expert game developer",
+          "url": "https://www.gamesindustry.biz/articles/2022-07-19-innogames-shares-salary-transparency-report-as-a-matter-of-fairness",
+          "title": "InnoGames shares salary transparency report as \"a matter of fairness\"",
+          "description": "Today German game developer InnoGames revealed a new salary transparency report - becoming the first gaming company in …",
+          "image": "https://assets.reedpopcdn.com/salary101.jpg/BROK/thumbnail/1200x630/salary101.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at a group of Blizzard staffers filing for Union election.  QA is a vital yet almost always underrated and underappreciated division.",
+          "url": "https://www.gamesindustry.biz/articles/2022-07-19-blizzard-albany-staffers-file-for-union-election-with-the-national-labor-relations-board",
+          "title": "A group of Blizzard Albany staffers file for union election with the NLRB",
+          "description": "Today a team of 20 staffers at Blizzard Albany, formerly Vicarious Visions, announced that they have filed for union el…",
+          "image": "https://assets.reedpopcdn.com/BE_headquarters.jpg/BROK/thumbnail/1200x630/BE_headquarters.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Google Play letting app devs used 3rd party payments to comply with EU -- sadly its just for NON-GAMING apps.",
+          "url": "https://www.gamedeveloper.com/business/google-play-will-let-app-devs-use-third-party-payments-to-comply-with-new-eu-rules",
+          "title": "Google Play app devs will soon be able to accept third-party payments",
+          "description": "The Google Play marketplace will be tweaked to let app developers support third-party payments in a bid to comply with the new Digital Markets Act.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt08e8f04dbf2610fd/62d6e2a34ed2830eda9b54a4/Google_Play.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at PlayStation Store's lawsuit for stopping 3rdparty retailers to sell digital codes for PS games.",
+          "url": "https://www.gamedeveloper.com/business/playstation-store-class-action-lawsuit-dismissed",
+          "title": "PlayStation Store's antitrust lawsuit has been dismissed",
+          "description": "The lawsuit filed against Sony in 2019 for blocking third-party retailers from selling PlayStation game codes has been dismissed by a North California judge.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt4c68501b5f3c7bc8/619d232e92eebd45ecab7d21/playstationlogofeatured.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at TenthPlanet, a studio founded by former TikTok gaming leaders",
+          "url": "https://venturebeat.com/2022/07/19/tenthplanet-unveils-two-ambitious-blockchain-games/",
+          "title": "TenthPlanet unveils two ambitious blockchain games",
+          "description": "TenthPlanet, a game studio started by former TikTok gaming leaders, plans to launch some ambitious blockchain games.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/tenth-Tenthplanet_Mech-Angel_Beatrix.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at GDC 2023 Core Concept talks. GDC is one of the TOP conferences in gaming.  Pro-tip: the prev talks could be found at the GDC Vault.  A lot of good content there",
+          "url": "https://www.gamedeveloper.com/gdc/gdc-2023-core-concepts-talk-submissions-are-now-open",
+          "title": "GDC 2023 Core Concepts talk submissions are now open",
+          "description": "GDC is looking for game developers eager to share what works, what should change, and where the future of video games is headed—and here are some tips to get started.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt5c106f9e22f07185/62d6d14b85b9e30eb3f937d4/gdc_face2.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Zebedee, a blockchain game payments system built on Bitcion",
+          "url": "https://venturebeat.com/2022/07/19/zebedee-raised-35m-from-investors-including-square-enix-for-blockchain-game-payments/",
+          "title": "Zebedee raised $35M from investors including Square Enix for blockchain game payments",
+          "description": "Zebedee has raised $35 million in a new round of funding to further develop its Bitcoin-based payment systems for games.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/ZEBEDEE-games.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Nekcom's $8M round with Galaxy Interactive leading",
+          "url": "https://venturebeat.com/2022/07/19/nekcom-raises-8-million-to-fuel-game-development-and-expansion/",
+          "title": "Nekcom raises $8 million to fuel game development and expansion",
+          "description": "Chinese game developer Nekcom announced it has raised $8 million in funding, which it plans to put towards games and international expansion.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/07/Nekcom-Featured.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Stray, a game in which you play as an orange kitty cat navigating thru the underground world in a cyberpunk future",
+          "url": "https://venturebeat.com/2022/07/19/stray-review-kitty-caper-compels-keeps-campaign-cursory/",
+          "title": "Stray review: Kitty caper compels, keeps campaign cursory",
+          "description": "Stray is an enjoyable cat adventure game, with great art design and gameplay that lasts just long enough to be memorable.",
+          "image": "https://venturebeat.com/wp-content/uploads/2021/12/Stray-Annapurna.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

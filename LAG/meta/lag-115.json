@@ -1,0 +1,93 @@
+{
+  "heading": "Look at Gaming #115",
+  "subheading": "",
+  "message_id": 128,
+  "number": 115,
+  "date": "Fri Dec 09 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at PS5 & CoD MW2 help drive Nov spending to $6.3B",
+          "url": "https://www.gamesindustry.biz/ps5-and-modern-warfare-2-help-drive-november-spending-to-63-billion-us-monthly-charts",
+          "title": "PS5 and Modern Warfare 2 help drive November spending to $6.3 billion | US Monthly Charts",
+          "description": "Consumer spending on video games was well over $6 billion in November, marking a 3% increase over the same period in 20…",
+          "image": "https://assets.reedpopcdn.com/ps5_ZXPsTKp.jpg/BROK/thumbnail/1200x630/ps5_ZXPsTKp.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at what the Game Awards tell us about gaming in 2023 by @deantak",
+          "url": "https://venturebeat.com/games/what-the-game-awards-tells-us-about-gaming-in-2023-the-deanbeat/",
+          "title": "What The Game Awards tells us about gaming in 2023 | The DeanBeat",
+          "description": "I know this because I watched all of the ceremonies and trailers at The Game Awards last night.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/12/judas-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at PS5 & CoD MW2 help drive Nov spending to $6.3B",
+          "url": "https://www.gamesindustry.biz/ps5-and-modern-warfare-2-help-drive-november-spending-to-63-billion-us-monthly-charts",
+          "title": "PS5 and Modern Warfare 2 help drive November spending to $6.3 billion | US Monthly Charts",
+          "description": "Consumer spending on video games was well over $6 billion in November, marking a 3% increase over the same period in 20…",
+          "image": "https://assets.reedpopcdn.com/ps5_ZXPsTKp.jpg/BROK/thumbnail/1200x630/ps5_ZXPsTKp.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Riot Games suing NetEase over allged Valorant clone",
+          "url": "https://www.gamedeveloper.com/business/riot-games-suing-netease-over-alleged-i-valorant-i-clone-i-hyper-front-i-",
+          "title": "Riot Games suing NetEase over alleged Valorant clone Hyper Front",
+          "description": "Riot Games has filed a lawsuit against Chinese company NetEase for creating what it claims is a Valorant clone.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt9f1cf5040a5f30b7/6393326a7af6ab52bc0e68b3/Valorant.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Cross-Platform strategies by @naavik_co",
+          "url": "https://www.youtube.com/watch?v=raZN3cTbTXY&ab_channel=Naavik",
+          "title": "Is Cross-Platform The New Golden Strategy? Spoilers: No - The Metacast by Naavik",
+          "description": "Should studios lean away from an all-in mobile strategy and pursue cross-platform? What is the impact of Intel’s vision to revive Moore’s Law? We dive into t...",
+          "image": "https://i.ytimg.com/vi/raZN3cTbTXY/maxresdefault.jpg",
+          "source": "YouTube"
+        },
+        {
+          "caption": "A look at battle passes",
+          "url": "https://www.gamesindustry.biz/battle-passes-are-everywhere-but-few-of-them-are-good-opinion",
+          "title": "Battle passes are everywhere – but few of them are good | Opinion",
+          "description": "Monetisation isn&rsquo;t really a topic that gets most gamers&rsquo; blood pumping &ndash; at least not in a good way &…",
+          "image": "https://assets.reedpopcdn.com/Overwatch-2_4lPiv5i.jpeg/BROK/thumbnail/1200x630/Overwatch-2_4lPiv5i.jpeg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Unity 2022.2 inside the new tech",
+          "url": "https://www.gamesindustry.biz/unity-20222-inside-the-new-tech-stream-update",
+          "title": "Unity 2022.2: Inside the new Tech Stream update",
+          "description": "Game tech has come a long way since Unity&rsquo;s inception 18 years ago. It&rsquo;s being used by a wider array of cre…",
+          "image": "https://assets.reedpopcdn.com/MegaCity_X4ZpP64.jpg/BROK/thumbnail/1200x630/MegaCity_X4ZpP64.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at PUBG mobile earning $9B in lifetime rev",
+          "url": "https://gamedevreports.substack.com/p/sensor-tower-pubg-mobile-earned-9b?utm_source=post-email-title&publication_id=358110&post_id=89543080&isFreemail=true&utm_medium=email",
+          "title": "Sensor Tower: PUBG Mobile earned $9B lifetime",
+          "description": "Solid result.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4b92fe1-103d-4b5d-a810-401cc0d81826_1280x720.jpeg",
+          "source": "gamedevreports.substack.com"
+        }
+      ]
+    }
+  ]
+}

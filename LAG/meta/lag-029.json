@@ -1,0 +1,135 @@
+{
+  "heading": "Look at Gaming #29",
+  "subheading": "",
+  "message_id": 39,
+  "number": 29,
+  "date": "Thu Aug 11 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Google's new \"search-and-play\" feature that allows you to play games that you search for in google",
+          "url": "https://www.theverge.com/2022/8/11/23301875/google-search-results-launch-stadia-geforce-now-xcloud-luna-cloud-gaming",
+          "title": "Google is letting some people launch cloud games directly from search results",
+          "description": "If you simply search for the name of a game in Google search, you might now be presented with a “Play” button that can instantly launch the title in Stadia, Amazon Luna, Microsoft Xbox Cloud Gaming, or Nvidia’s GeForce Now.",
+          "image": "https://cdn.vox-cdn.com/thumbor/5JRBpm1X3_Ms0Ez0FkycbPJov0Y=/0x0:2040x1360/1200x628/filters:focal(1017x953:1018x954)/cdn.vox-cdn.com/uploads/chorus_asset/file/19376602/akrales_191113_3779_0284.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at 'Mainstream Gamers' accounting for 32% of 3.2B global gamers.",
+          "url": "https://newzoo.com/insights/articles/the-mainstream-gamer-persona-accounts-for-23-of-the-worlds-3-2-bn-gamers",
+          "title": "The Mainstream Gamer Persona Accounts for 23% of the World’s 3.2 Billion Gamers",
+          "description": "Read the article to explore how Mainstream Gamers think and behave compared to other gamer persona groups.",
+          "image": "https://newzoo.com/wp-content/uploads/2022/08/feat.png",
+          "source": "Newzoo"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Microsoft's defense of CoD",
+          "url": "https://www.gamesindustry.biz/microsoft-xbox-exclusive-call-of-duty-would-simply-not-be-profitable",
+          "title": "Microsoft: Xbox-exclusive Call of Duty \"would simply not be profitable\"",
+          "description": "Microsoft has said that following its acquisition of Activision Blizzard, making Call of Duty an Xbox exclusive \"would …",
+          "image": "https://assets.reedpopcdn.com/mw2-campaign.jpg/BROK/thumbnail/1200x630/mw2-campaign.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at Stadia bringing back the play-before-you-buy model",
+          "url": "https://www.gamedeveloper.com/the-cloud/stadia-is-testing-a-new-game-trial-system-tied-to-achievements",
+          "title": "Stadia is testing a new game trial system tied to achievements",
+          "description": "Google Stadia is testing a new form of Click To Play game trials that allow players to play until they complete a specific achievement.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt2d0dd2a40411759f/62f5425a4449ef0f244f6c4a/stadialogofeatured.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Google's new \"search-and-play\" feature that allows you to play games that you search for in google",
+          "url": "https://www.theverge.com/2022/8/11/23301875/google-search-results-launch-stadia-geforce-now-xcloud-luna-cloud-gaming",
+          "title": "Google is letting some people launch cloud games directly from search results",
+          "description": "If you simply search for the name of a game in Google search, you might now be presented with a “Play” button that can instantly launch the title in Stadia, Amazon Luna, Microsoft Xbox Cloud Gaming, or Nvidia’s GeForce Now.",
+          "image": "https://cdn.vox-cdn.com/thumbor/5JRBpm1X3_Ms0Ez0FkycbPJov0Y=/0x0:2040x1360/1200x628/filters:focal(1017x953:1018x954)/cdn.vox-cdn.com/uploads/chorus_asset/file/19376602/akrales_191113_3779_0284.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Fortnite adding Dragon Ball Z character(s).  More crossover Ips",
+          "url": "https://www.theverge.com/2022/8/11/23301844/goku-dragon-ball-z-fortnite-new-crossover-teaser",
+          "title": "Goku’s maybe getting a gun... in Fortnite",
+          "description": "Epic Games teased that Dragon Ball characters might soon be coming to Fortnite.",
+          "image": "https://cdn.vox-cdn.com/thumbor/AEOU8_upJQWmFBYVk4VFlhfyIsA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23938957/1236808296.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at an interview with @Loopifyyy, founder of @TheTreeverse",
+          "url": "https://twitter.com/gamingathedge/status/1557375544135761922?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at @fractional_art collab with @parallelNFT",
+          "url": "https://twitter.com/andy8052/status/1557433547606089728?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        },
+        {
+          "caption": "A look at @immutable X partnering with @CrossTheAges tcg",
+          "url": "https://twitter.com/immutable/status/1557396833344770048?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
+          "title": "",
+          "description": "",
+          "image": "",
+          "source": "Twitter"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at the Secrets to successfully outsourcing your art",
+          "url": "https://www.deconstructoroffun.com/thisweekingames/outsourcing",
+          "title": "Deconstructor of Fun",
+          "description": "",
+          "image": "http://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1606121085794-SVE3WUSXZ556Z1NMKU16/text2.png?format=1500w",
+          "source": "Deconstructor of Fun"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Rumbleverse -- a melee brawler royale",
+          "url": "https://venturebeat.com/games/rumbleverse-slams-onto-the-scene-with-melee-mayhem/",
+          "title": "Rumbleverse slams onto the scene with melee mayhem",
+          "description": "Rumbleverse, the new game from Iron Galaxy, is a unique take on the battle royale. You see, Rumbleverse is a melee brawler royale.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/Rumbleverse_Gameplay_1080.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Rec Room's new original game \"Showdown\"",
+          "url": "https://venturebeat.com/games/rec-room-announces-showdown-its-newest-original-game/",
+          "title": "Rec Room announces Showdown, its newest original game",
+          "description": "Rec Room has revealed its latest original game, a Western-styled 3v3 shooter room called Showdown, which launches on August 18.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/08/showdown_main_image.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "heading": "Look at Gaming #45",
+  "subheading": "",
+  "message_id": 55,
+  "number": 45,
+  "date": "Fri Sep 02 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at ChromeOS gaming overlay, putting touch on your PC",
+          "url": "https://www.theverge.com/2022/9/2/23333400/google-chromeos-touch-android-games-keyboard-controls",
+          "title": "A new ChromeOS gaming overlay puts touch-based Android games on your PC",
+          "description": "Now Chromebook users can try out keyboard support for a few Android games with touchscreen-only controls. The new feature is in early alpha testing starting with ChromeOS 105.",
+          "image": "https://cdn.vox-cdn.com/thumbor/EJTKyOcxa5QUKFgOiEjkk5PlznU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10673529/acastro_180416_1777_chrome_0001.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Garena's $1B quarter loss",
+          "url": "https://www.gamesindustry.biz/after-1bn-quarter-loss-garena-parent-company-halts-projects-and-lays-off-some-staff",
+          "title": "After a $1bn quarter loss, Garena's parent company halts projects and lays off some staff",
+          "description": "After a $1 billion loss in its lastest quarterly financials report, tech firm Sea is halting its game livestream servic…",
+          "image": "https://assets.reedpopcdn.com/Garena.jpg/BROK/thumbnail/1200x630/Garena.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Nintendo removing gacha from Mario Kart Tour",
+          "url": "https://www.gamedeveloper.com/business/nintendo-is-removing-i-mario-kart-tour-i-s-gacha-mechanic",
+          "title": "Mario Kart Tour's in-game gacha Pipe is being removed",
+          "description": "Nintendo has announced the removal of Mario Kart Tour's gacha mechanic, to be replaced by a rotating in-game shop beginning in October.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltc17f7c544ac419cd/63125501a962b5016568a450/gacha.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at what could be Steam's next biggest game",
+          "url": "https://newsletter.gamediscover.co/p/plus-what-next-quarters-hype-says",
+          "title": "Plus: what next quarter's 'hype' says about Steam's biggest games",
+          "description": "We let everyone take a look at the start of this one.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F206f0e21-ffeb-43f0-9156-168960d4cb07_1000x806.jpeg",
+          "source": "newsletter.gamediscover.co"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Microsoft keeping CoD on PlayStation for more years to come",
+          "url": "https://www.theverge.com/2022/9/2/23334619/microsoft-sony-call-of-duty-playstation-letter-commitment-activision-blizzard",
+          "title": "Microsoft will keep Call of Duty on PlayStation for ‘several more years’ beyond existing deal",
+          "description": "Microsoft has signed an agreement to Sony that it will keep Call of Duty on PlayStation. The popular game will stay on PlayStation for “several more years” beyond Sony’s existing deal.",
+          "image": "https://cdn.vox-cdn.com/thumbor/bi4-vboX8wJbvdm-rQsOpLxNeKw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986617/acastro_STK097_03.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Meta acquiring a haptic VR startup Lofelt",
+          "url": "https://www.gamesindustry.biz/meta-acquires-haptic-vr-start-up-lofelt",
+          "title": "Meta acquires haptic VR start-up Lofelt",
+          "description": "Meta's streak of acquisitions in the VR space continues, as the Wall Street Journal today reported that the company has…",
+          "image": "https://assets.reedpopcdn.com/quest_2_MzH0lm5.png/BROK/thumbnail/1200x630/quest_2_MzH0lm5.png",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at if Netflix could command premium advertising?  By @eric_seufert",
+          "url": "https://mobiledevmemo.com/can-netflix-command-premium-advertising-pricing/",
+          "title": "Can Netflix command premium advertising pricing? | Mobile Dev Memo by Eric Seufert",
+          "description": "Can Netflix command premium advertising pricing?. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/03/netflix_logo.jpg",
+          "source": "Mobile Dev Memo"
+        },
+        {
+          "caption": "A look at ChromeOS gaming overlay, putting touch on your PC",
+          "url": "https://www.theverge.com/2022/9/2/23333400/google-chromeos-touch-android-games-keyboard-controls",
+          "title": "A new ChromeOS gaming overlay puts touch-based Android games on your PC",
+          "description": "Now Chromebook users can try out keyboard support for a few Android games with touchscreen-only controls. The new feature is in early alpha testing starting with ChromeOS 105.",
+          "image": "https://cdn.vox-cdn.com/thumbor/EJTKyOcxa5QUKFgOiEjkk5PlznU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10673529/acastro_180416_1777_chrome_0001.jpg",
+          "source": "The Verge"
+        }
+      ]
+    }
+  ]
+}

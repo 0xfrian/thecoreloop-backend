@@ -1,0 +1,98 @@
+{
+  "heading": "Look at Gaming #32",
+  "subheading": "",
+  "message_id": 42,
+  "number": 32,
+  "date": "Tue Aug 16 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Liquidity Pools written by yours truly (disclaimer: it's paywall'd)",
+          "url": "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools",
+          "title": "Naavik",
+          "description": "",
+          "image": "http://images.squarespace-cdn.com/content/v1/5f031aa98cea4c639ef3f14f/a47ce693-0b25-45bb-8ba5-4ad303034aa8/Naavik+-+Square+-+White+on+Black.png?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at 10 years of Clash of Clans",
+          "url": "https://mobilegamer.biz/ten-years-of-clash-of-clans-milestones-missteps-and-barbarian-drool/",
+          "title": "Ten years of Clash of Clans: milestones, missteps and Barbarian drool - Mobilegamer.biz",
+          "description": "Game lead Stuart McGaw and artist Arto Tervo talk us through the last decade.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2022/08/Supercell-Stuart-McGaw-Arto-Tervo-.jpg",
+          "source": "Mobilegamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at a PlayStation PC Launcher",
+          "url": "https://www.theverge.com/2022/8/16/23307990/playstation-pc-launcher-references-spider-man-remastered-rumors",
+          "title": "PlayStation PC launcher references spotted in Spider-Man Remastered for PC",
+          "description": "Sony could be preparing a new PlayStation PC launcher. References to a PC launcher and PSN integration have been discovered in the PC port of Spider-Man Remastered.",
+          "image": "https://cdn.vox-cdn.com/thumbor/r6ALDspbA3tmkX1LehR1Z0LvmOg=/0x0:917x610/1200x628/filters:focal(459x305:460x306)/cdn.vox-cdn.com/uploads/chorus_asset/file/22325648/playstation_logo_black_background.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Illuvium by @theblockres",
+          "url": "https://www.theblockresearch.com/illuvium-initial-look-at-game-design-163701",
+          "title": "Illuvium: Initial Look at Game Design",
+          "description": "Illuvium is a digital collectible card game (CCG) with a similar premise to the original Pokémon game. Players can explore, battle, and collect",
+          "image": "https://www.tbstat.com/wp/uploads/2022/08/20220801_illuvium-Research-1200x675.jpg",
+          "source": "The Block"
+        },
+        {
+          "caption": "A look at Web3 Game publishing, growth & UA @naavik_co",
+          "url": "https://www.youtube.com/watch?v=BMND8UxKRXk&ab_channel=Naavik",
+          "title": "A Deep Dive into Web3 Game Publishing, Growth & UA - The Metacast by Naavik",
+          "description": "On this week’s Crypto Corner, we take a deep dive into Web3 Publishing and Growth. Quinn Campbell, VP of Growth at Sky Mavis, and Jon Hook, CMO at PlayEmber,...",
+          "image": "https://i.ytimg.com/vi/BMND8UxKRXk/maxresdefault.jpg",
+          "source": "YouTube"
+        },
+        {
+          "caption": "A look at Liquidity Pools written by yours truly (disclaimer: it's paywall'd)",
+          "url": "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools",
+          "title": "Naavik",
+          "description": "",
+          "image": "http://images.squarespace-cdn.com/content/v1/5f031aa98cea4c639ef3f14f/a47ce693-0b25-45bb-8ba5-4ad303034aa8/Naavik+-+Square+-+White+on+Black.png?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at how to get more utility out of your game music",
+          "url": "https://www.gamedeveloper.com/blogs/utility-for-modular-game-music-composing-for-lineage-m-gdc-2022-",
+          "title": "Utility for Modular Game Music (Composing for Lineage M: GDC 2022)",
+          "description": "How to extend the in-game utility of music by virtue of a modular system, as used in Lineage M: The Elmor (from the GDC 2022 lecture by composer Winifred Phillips).",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt0c5edf4ecf57d2f7/62fc149b71da2831d4ab55ed/ln_gdc-modular_purple_winifred-phillips.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at social media marketing tips by Riot Games",
+          "url": "https://www.gamedeveloper.com/marketing/solid-social-media-game-marketing-tips-from-riot-games",
+          "title": "Solid social media game marketing tips from Riot Games",
+          "description": "Riot Games' Amanda Jackson shares meaningful methods for making the most out social media marketing.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt036b2d6f90bebf48/62e2fd221d3fc26d7e84a128/teamfighttacticskeyartfeatured.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

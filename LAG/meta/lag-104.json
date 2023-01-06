@@ -1,0 +1,95 @@
+{
+  "heading": "Look at Gaming #104",
+  "subheading": "HAPPY THANKSGIVIN' EVERYONE!  We're so thankful to have your support.  Onward and upward!  ❤️ ❤️\n",
+  "message_id": 115,
+  "number": 104,
+  "date": "Thu Nov 24 2022",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Korean exchanges to delist Wemade's native token",
+          "url": "https://www.theblock.co/post/189787/korean-exchanges-delist-wemade-native-token-wemix",
+          "title": "Korean exchanges to delist gaming company Wemade's native token",
+          "description": "Top South Korean exchanges will take gaming company Wemade's wemix token off their books on Dec. 8, a little over a month since they issued an investment warning against the token.",
+          "image": "https://www.tbstat.com/wp/uploads/2022/09/20220928_Coin_Generic-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Sony basically saying Battlefield will never be good enough to be like CoD",
+          "url": "https://www.theverge.com/2022/11/24/23476746/sony-battlefield-roast-microsoft-activision-blizzard-acquisition-competition-markets-authority",
+          "title": "Sony throws Battlefield under the bus as it fights Microsoft’s Activision purchase",
+          "description": "As Sony fights tooth and nail to get regulators to block Microsoft’s acquisition of Activision Blizzard, Battlefield is getting caught in the crossfire. Sony says it can’t compete Call of Duty.",
+          "image": "https://cdn.vox-cdn.com/thumbor/sYWDfw06FLnxJXyDFVIot761NSc=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/22460965/bfv_standard_16x9.png",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Microsoft trying to convince regulators that CoD isn't all that",
+          "url": "https://www.gamedeveloper.com/business/microsoft-says-call-of-duty-isn-t-that-important-actually",
+          "title": "Microsoft says Call of Duty isn't that important, actually",
+          "description": "In a bid to convince regulators to approve its Activision Blizzard deal, Microsoft has claimed that Call of Duty isn't all that.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt20b56c3a714b9752/637f8a791753db0f087570ab/Modern_Warfare_II_copy.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Korean exchanges to delist Wemade's native token",
+          "url": "https://www.theblock.co/post/189787/korean-exchanges-delist-wemade-native-token-wemix",
+          "title": "Korean exchanges to delist gaming company Wemade's native token",
+          "description": "Top South Korean exchanges will take gaming company Wemade's wemix token off their books on Dec. 8, a little over a month since they issued an investment warning against the token.",
+          "image": "https://www.tbstat.com/wp/uploads/2022/09/20220928_Coin_Generic-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at how to deal with Online Hate: a crisis management handbook",
+          "url": "https://www.gamesindustry.biz/dealing-with-online-hate-a-crisis-management-handbook-for-video-game-developers",
+          "title": "Dealing with online hate: A crisis management handbook for video game developers",
+          "description": "Games are an inherently passionate medium. For many creators, the very point of video games is to make their audience a…",
+          "image": "https://assets.reedpopcdn.com/HN2.png/BROK/thumbnail/1200x630/HN2.png",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Fenix Games raising $150M",
+          "url": "https://venturebeat.com/games/fenix-games-raises-150m-for-blockchain-game-publishing/",
+          "title": "Fenix Games raises $150M for blockchain game publishing",
+          "description": "Fenix Games has raised $150 million to create a new kind of publisher for blockchain gaming.",
+          "image": "https://venturebeat.com/wp-content/uploads/2022/11/fenix-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Hungry Shark franchise hitting 1B downloads",
+          "url": "https://www.gamesindustry.biz/hungry-shark-franchise-hits-1bn-downloads-news-in-brief",
+          "title": "Hungry Shark franchise hits 1bn downloads | News-in-brief",
+          "description": "The resource for people who make and sell games.",
+          "image": "https://assets.reedpopcdn.com/Hungry-Shark.png/BROK/thumbnail/1200x630/Hungry-Shark.png",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    }
+  ]
+}
