@@ -1,10 +1,18 @@
 // Node Modules
+import axios from "axios";
+import { unfurl } from 'unfurl.js'
+const extractUrls = require("extract-urls");
 import { getLinkPreview } from "link-preview-js";
 
 // Types
 import { LinkPreview } from "../types";
 
-export default async function previewLink(url: string): Promise<any> {
+// Helper function
+function replaceAll(s: string, search: string, replace: string) {
+  return s.split(search).join(replace);
+}
+
+export async function link_preview_js(url: string): Promise<LinkPreview> {
   const options: any = {
     headers: { 
       'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
@@ -50,10 +58,83 @@ export default async function previewLink(url: string): Promise<any> {
 
       break;
     } catch (error) {
-      console.log(`Error occured while previewing link: ${url}`);
+      console.log(`Error while previewing link: ${url}`);
       console.log(error);
     }
   }
+
   return link_preview;
+}
+
+export async function unfurl_js(url: string): Promise<LinkPreview> {
+  // Initialize <LinkPreview> object
+  let link_preview: LinkPreview = {
+    url: url,
+    title: "",
+    description: "",
+    image: "",
+    source: "",
+  };
+
+  // Obtain metadata
+  const { title, description, open_graph, oEmbed }: any = await unfurl(url);
+
+  // Assign <LinkPreview> properties
+  if (title) link_preview.title = title;
+  if (description) link_preview.description = description; 
+  if (open_graph) {
+    if (!link_preview.description) link_preview.description = open_graph.description;
+    if (open_graph.images && open_graph.images.length > 0) link_preview.image = open_graph.images[0].url;
+    if (open_graph.siteName) link_preview.source = open_graph.siteName;
+  }
+  if (oEmbed) {
+    if (!link_preview.image) {
+      if (oEmbed.thumbnails && oEmbed.thumbnails.length > 0) link_preview.image = oEmbed.thumbnails[0].url;
+    } 
+    if (!link_preview.source) {
+      if (oEmbed.provider_name) link_preview.source = oEmbed.provider_name;
+    }
+  }
+
+  // Handle Tweets differently: 
+  if (url.includes("https://twitter.com/")) {
+    // Change title to OpenGraph version
+    if (open_graph.title) link_preview.title = open_graph.title;
+
+    // If source not found, then default to "Twitter"
+    if (!link_preview.source) link_preview.source = "Twitter";
+
+    // If image not found, then generate thumbnail from first link in description (if any)
+    if (link_preview.description && !link_preview.image) {
+      const urls: string[] = extractUrls(link_preview.description);
+      if (urls.length > 0) {
+        const first_url: string = urls[0];  // Generate thumbnail using first link
+        const thumbnail: string = (await unfurl_js(first_url)).image;
+        if (thumbnail) link_preview.image = thumbnail;
+      }
+    }
+
+    // If image still not found, then default to Twitter logo
+    if (!link_preview.image) link_preview.image = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png";
+  }
+
+  return link_preview;
+}
+
+export async function embedTweet(tweet: string): Promise<any> {
+  const endpoint: string = `https://publish.twitter.com/oembed?url=${tweet}`;
+  const options: any = {
+    data: {
+      dnt: "false",
+      theme: "dark",
+      omit_script: "true",
+      hide_thread: "true",
+    },
+  };
+
+  const response: any = await axios.get(endpoint, options);
+  const html_snippet: string = replaceAll(response.data.html.replace("class", "className"), "<br>", "<br />");
+
+  return html_snippet;
 }
 
