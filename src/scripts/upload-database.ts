@@ -1,50 +1,39 @@
 // Enable environmental variables
 require('dotenv').config();
 
+// Node Modules
+import fs from "fs";
+import path from "path";
+
 // Local modules
-import { parseLAG, attachMetadata } from "../modules/lag";
 import { 
   createMongoDBClient,  
   createLAG, 
-  updateLAG,
   deleteLAGCollection,
 } from "../modules/mongodb";
 
 // Types 
 import { MongoClient } from "mongodb";
-import { TelegramMessage, LAG } from "../types";
+import { LAG } from "../types";
 
 async function main() {
+  // Connect to MongoDB
   console.log("Connecting to MongoDB . . . ");
   const mongodb_uri: string = process.env.MONGODB_URI!;
-  const client_mongodb: MongoClient = await createMongoDBClient(mongodb_uri);
+  const client: MongoClient = await createMongoDBClient(mongodb_uri);
 
+  // Reset LAG Collection
   console.log("Resetting LAG Collection . . . ");
-  await deleteLAGCollection(client_mongodb);
+  await deleteLAGCollection(client);
 
-  console.log("Uploading LAG posts . . . ");
-  for (let i = 0; i < messages.length; i++) {
-    const message: TelegramMessage = messages[i];
-    try {
-      const lag: LAG = parseLAG(message);
-      const lag_meta: LAG = await attachMetadata(lag);
-      await createLAG(client_mongodb, lag_meta);
-      console.log(`  Uploaded: ${lag.heading}`);
-    } catch (error) {
-      if (message.text.includes("We hit Telegram's text limit today")) {
-        const combined_message: TelegramMessage = {
-          text: messages[i-1].text + "\n" + messages[i].text,
-          id: messages[i-1].id,
-        };
-        const lag: LAG = parseLAG(combined_message);
-        const lag_meta: LAG = await attachMetadata(lag);
-        await updateLAG(client_mongodb, lag.number, lag_meta);
-        console.log(`  Updated: ${lag.heading}`);
-      }
-      else console.log(`  ${error}`);
-    }
+  console.log("Uploading LAG Collection . . . ");
+  const filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
+  for (const filename of filenames) {
+    const filepath: string = path.join(__dirname, "../../LAG/meta/", filename);
+    const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
+    console.log(`  LAG #${lag.number} . . . `);
+    await createLAG(client, lag);
   }
-  console.log();
 }
 
 main()

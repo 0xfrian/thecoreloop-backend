@@ -25,7 +25,25 @@ async function main() {
   console.log("Reading messages from 'thecoreloop' channel . . . ");
   const messages: TelegramMessage[] = await readMessages(client_telegram, "thecoreloop");
   for (let i = 0; i < messages.length; i++) {
-    const message: TelegramMessage = messages[i];
+    let message: TelegramMessage = messages[i];
+
+    // Console-log first line of message
+    console.log(`  Message #${message.id}: "${message.text.split("\n")[0]}"`);
+
+    let multi_message: boolean = false;
+    if (message.text.includes("We hit Telegram's text limit today")) {
+      // In the case of a LAG post spanning across 2 messages . . . 
+      multi_message = true;
+
+      // Assign previous message
+      const prev_message: TelegramMessage = messages[i-1];
+
+      // Redefine message, combining text together and assuming previous message ID
+      message = {
+        text: prev_message.text + "\n" + message.text,
+        id: prev_message.id,
+      };
+    }
 
     // Instantiate <LAG> object
     let lag: LAG = {
@@ -40,7 +58,8 @@ async function main() {
     try {
       // Parse LAG out of Telegram message
       lag = parseLAG(message);
-      console.log(`  LAG #${lag.number} found!`);
+      if (!multi_message) console.log(`    ﬌ LAG #${lag.number} found!`);
+      else console.log(`    ﬌ extension of LAG #${lag.number} found!`);
 
       // Write LAG to .json file
       const filepath_json: string = path.join(__dirname, "../../LAG/json/", `lag-${String(lag.number).padStart(3, "0")}.json`);
@@ -49,7 +68,7 @@ async function main() {
         JSON.stringify(lag, null, 2),
       );
     } catch (error) {
-      continue;
+      console.log(`    ﬌ ${error}`);
     }
   }
 
@@ -62,7 +81,7 @@ async function main() {
       const lag: LAG = JSON.parse(fs.readFileSync(filepath_json, { encoding: "utf-8" }));
       lag_number = lag.number;
 
-      if (lag_number <= 91) continue;
+      if (lag_number != 124) continue;
 
       console.log(`  LAG #${lag.number} . . . `);
       const lag_meta: LAG = await attachMetadata(lag, true);

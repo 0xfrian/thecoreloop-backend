@@ -106,7 +106,7 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
 
       // Assign image (default: Twitter Logo)
       link_preview.image = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png";
-      if (open_graph.images && open_graph.images.length > 0) link_preview.image = open_graph.images[0];
+      if (open_graph.images && open_graph.images.length > 0) link_preview.image = open_graph.images[0].url;
       // If image not found, then generate thumbnail from first link in description (if any)
       if (!link_preview.image && link_preview.description) {
         const urls: string[] = extractUrls(link_preview.description);
@@ -134,7 +134,7 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
 
       // Use OpenGraph for description, image, and source
       if (open_graph) {   
-        if (!link_preview.description) link_preview.description = open_graph.description;
+        if (!link_preview.description && open_graph.description) link_preview.description = open_graph.description;
         if (open_graph.images && open_graph.images.length > 0) link_preview.image = open_graph.images[0].url;
         if (open_graph.site_name) link_preview.source = open_graph.site_name;
       }
