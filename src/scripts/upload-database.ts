@@ -3,7 +3,6 @@ require('dotenv').config();
 
 // Local modules
 import { parseLAG, attachMetadata } from "../modules/lag";
-import { createTelegramClient, readMessages  } from "../modules/telegram";
 import { 
   createMongoDBClient,  
   createLAG, 
@@ -13,19 +12,9 @@ import {
 
 // Types 
 import { MongoClient } from "mongodb";
-import { TelegramClient } from "telegram";
 import { TelegramMessage, LAG } from "../types";
 
 async function main() {
-  console.log("Connecting to Telegram . . . ");
-  const string_session: string = process.env.TELEGRAM_STRING_SESSION!;
-  const client_telegram: TelegramClient  = await createTelegramClient(string_session);
-  console.log();
-
-  console.log("Reading messages from 'thecoreloop' channel . . . ");
-  const messages: TelegramMessage[] = await readMessages(client_telegram, "thecoreloop");
-  console.log();
-
   console.log("Connecting to MongoDB . . . ");
   const mongodb_uri: string = process.env.MONGODB_URI!;
   const client_mongodb: MongoClient = await createMongoDBClient(mongodb_uri);
@@ -33,7 +22,7 @@ async function main() {
   console.log("Resetting LAG Collection . . . ");
   await deleteLAGCollection(client_mongodb);
 
-  console.log("Uploading LAG posts to MongoDB . . . ");
+  console.log("Uploading LAG posts . . . ");
   for (let i = 0; i < messages.length; i++) {
     const message: TelegramMessage = messages[i];
     try {

@@ -1,6 +1,6 @@
 // Local Modules
 import { Date } from "./date";
-import previewLink from "./link-preview";
+import { unfurl_js } from "../modules/link-preview";
 
 // Types
 import { 
@@ -25,13 +25,21 @@ export const CATEGORIES: StringMap = {
   "GAME & STATS RELEASES": "👾 Game & Stats Releases 🎮",
 };
 export const LAG_EXCEPTIONS: number[] = [1, 2, 3, 56, 57, 58, 59, 60, 62];
+export const BLACKLIST_ARTICLES: string[] = [
+  "https://www.deconstructoroffun.com/newsletter/bdtxbgs", // LAG #6
+  "https://www.deconstructoroffun.com/newsletter/wthigo",  // LAG #7
+  "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/", // LAG #26
+  "https://twitter.com/andy8052/status/1557433547606089728?s=28&t=JmDdB-7dX5cQbUZuTYeIUA", // LAG #29
+  "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools", // LAG #32
+  "https://www.pocketgamer.biz/news/80008/newzoos-latest-report-offers-sterling-insight-into-cloud-gaming/", // LAG #82
+];
 
 export function parseLAG(message: TelegramMessage): LAG {
   const lag: LAG = {
     heading: "",
     subheading: "",
     message_id: message.id,
-    number: 0,
+    number: -1,
     date: "",
     content: [],
   };
@@ -265,32 +273,71 @@ function parseTextByCategory(raw_text: string, line_start: string): string {
   return special_insights_section;
 }
 
-export async function attachMetadata(lag: LAG): Promise<LAG> {
+export async function attachMetadata(lag: LAG, debug: boolean=false): Promise<LAG> {
+  // Instantiate new <LAG> object to be filled with metadata
   const lag_meta: LAG = lag;
 
+  // Instantiate content array 
   const content_meta: ArticleGroup[] = [];
+
+  // Iterate through each category
   for (const article_group of lag.content) {
+    // Skip SPECIAL INSIGHTS category section
+    if (article_group.category.toLowerCase().includes("special insights")) continue;
+
+    // Instantiate <ArticleGroup> object
     const article_group_meta: ArticleGroup = {
       category: article_group.category,
       articles: [],
     };
 
+    // Optional debug logging
+    if (debug) console.log(`    ${article_group.category}`);
+
+    // Iterate through each article within category
     for (const article of article_group.articles) {
-      const link_preview: LinkPreview = await previewLink(article.url);
-      const article_meta: Article = {
-        ...article, 
-        title: link_preview.title,
-        description: link_preview.description,
-        image: link_preview.image,
-        source: link_preview.source,
+      // Optional debug logging
+      if (debug) console.log(`    ﬌ ${article.url}`);
+
+      // Instantiate <LinkPreview> object
+      let link_preview: LinkPreview = {
+        url: article.url,
+        title: "",
+        description: "",
+        image: "",
+        source: "",
       };
 
+      // Instantiate <Article> object
+      let article_meta: Article = {
+        ...article
+      };
+
+      try {
+        // Fetch metadata
+        link_preview = await unfurl_js(article.url);
+        
+        // Assign link-preview properties to article object
+        article_meta = {
+          ...article,  // Append existing properties (url and caption)
+          title: link_preview.title,
+          description: link_preview.description,
+          image: link_preview.image,
+          source: link_preview.source,
+        };
+      } catch (error) {
+        if (debug) console.log(`        ${error}`);
+      }
+
+      // Append to articles array
       article_group_meta.articles.push(article_meta);
     }
 
+    // Append to content array
     content_meta.push(article_group_meta);
   }
 
+  // Assign content array to content property
   lag_meta.content = content_meta;
 
   return lag_meta;

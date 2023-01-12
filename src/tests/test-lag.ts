@@ -6,7 +6,7 @@ import fs from "fs";
 import path from "path";
 
 // Local modules
-import previewLink from "../modules/link-preview";
+import { unfurl_js } from "../modules/link-preview";
 import { parseLAG, attachMetadata } from "../modules/lag";
 import { createTelegramClient, readMessages  } from "../modules/telegram";
 import { 
@@ -50,8 +50,8 @@ async function main() {
         };
 
         for (const article of article_group.articles) {
-          console.log(`    Previewing: ${article.url}`);
-          const link_preview: LinkPreview = await previewLink(article.url);
+          console.log(`    ${article.url}`);
+          const link_preview: LinkPreview = await unfurl_js(article.url);
           const article_meta: Article = {
             ...article, 
             title: link_preview.title,
@@ -68,7 +68,7 @@ async function main() {
 
       lag_meta.content = content_meta;
 
-      const filepath: string = path.join(__dirname, "../../LAG/", `lag-${String(lag.number).padStart(3, "0")}.json`);
+      const filepath: string = path.join(__dirname, "../../LAG/meta/", `lag-${String(lag.number).padStart(3, "0")}.json`);
       console.log(`Writing file: ${filepath}`);
       fs.writeFileSync(
         filepath,

@@ -30,7 +30,8 @@ export interface Article {
 
 // Link-Preview 
 export interface LinkPreview {
-  url: string | URL; 
+  [index: string]: string;
+  url: string; 
   title: string; 
   description: string;
   image: string;

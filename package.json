@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build-database": "ts-node ./src/scripts/build-database.ts",
     "build-archive": "ts-node ./src/scripts/build-archive.ts",
     "check-archive": "ts-node ./src/scripts/check-archive.ts",
     "test-lag": "ts-node ./src/tests/test-lag.ts",
@@ -33,6 +34,7 @@
     "mongodb": "^4.13.0",
     "path": "^0.12.7",
     "telegram": "^2.15.5",
+    "treeify": "^1.1.0",
     "ts-node": "^10.9.1",
     "typescript": "^4.9.4",
     "unfurl.js": "^6.1.0"

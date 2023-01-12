@@ -47,6 +47,21 @@ export async function createTelegramClient(string_session: string = ""): Promise
   return client;
 }
 
+// Get participants of given Telegram channel
+export async function getParticipants(client: TelegramClient, channel: string): Promise<any> {
+  const response: any = await client.invoke(
+    new Api.channels.GetParticipants({ 
+      channel: channel,
+      // filter: new Api.ChannelParticipantsSearch({ q: "" }),
+      filter: new Api.ChannelParticipantsRecent(),
+      limit: 200,
+      offset: 100,
+    })
+  );
+
+  return response;
+}
+
 // Read Telegram message(s)
 export async function readMessages(client: TelegramClient, channel: string): Promise<TelegramMessage[]> {
   // Construct array of <InputMessageID> objects representing Telegram message IDs
@@ -56,10 +71,12 @@ export async function readMessages(client: TelegramClient, channel: string): Pro
 
   // Read Telegram messages
   // - TODO: Assign more specific type to response variable
-  const response: any = await client.invoke(new Api.channels.GetMessages({ 
-    channel: channel,
-    id: message_ids,
-  }));
+  const response: any = await client.invoke(
+    new Api.channels.GetMessages({ 
+      channel: channel,
+      id: message_ids,
+    })
+  );
 
   // Parse text content from non-empty Telegram messages
   // - TODO: Assign more specific type to message variable

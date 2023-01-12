@@ -6,84 +6,79 @@ import fs from "fs";
 import path from "path";
 
 // Local modules
-import previewLink from "../modules/link-preview";
 import { parseLAG, attachMetadata } from "../modules/lag";
 import { createTelegramClient, readMessages  } from "../modules/telegram";
 
 // Types 
 import { TelegramClient } from "telegram";
-import { TelegramMessage, LAG, Article, ArticleGroup, LinkPreview } from "../types";
+import { TelegramMessage, LAG } from "../types";
 
 async function main() {
+
+  // Connect to Telegram
   console.log("Connecting to Telegram . . . ");
   const string_session: string = process.env.TELEGRAM_STRING_SESSION!;
   const client_telegram: TelegramClient  = await createTelegramClient(string_session);
   console.log();
 
+  // Read Telegram messages
   console.log("Reading messages from 'thecoreloop' channel . . . ");
   const messages: TelegramMessage[] = await readMessages(client_telegram, "thecoreloop");
-  console.log();
-
-  console.log("Parsing LAG posts . . . ");
   for (let i = 0; i < messages.length; i++) {
     const message: TelegramMessage = messages[i];
+
+    // Instantiate <LAG> object
+    let lag: LAG = {
+      heading: "",
+      subheading: "",
+      message_id: message.id,
+      number: -1,
+      date: "",
+      content: [],
+    };
+
     try {
-      const lag: LAG = parseLAG(message);
+      // Parse LAG out of Telegram message
+      lag = parseLAG(message);
+      console.log(`  LAG #${lag.number} found!`);
 
-      console.log(`  Processing: ${lag.heading}`);
-      const lag_meta: LAG = lag;
-      const content_meta: ArticleGroup[] = [];
-      for (const article_group of lag.content) {
-        // Skip special insights section
-        if (article_group.category.includes("SPECIAL INSIGHTS")) continue;
-
-        console.log(`    ${article_group.category}: `);
-        const article_group_meta: ArticleGroup = {
-          category: article_group.category,
-          articles: [],
-        };
-
-        for (const article of article_group.articles) {
-          console.log(`    Previewing: ${article.url}`);
-          const link_preview: LinkPreview = await previewLink(article.url);
-          const article_meta: Article = {
-            ...article, 
-            title: link_preview.title,
-            description: link_preview.description,
-            image: link_preview.image,
-            source: link_preview.source,
-          };
-
-          article_group_meta.articles.push(article_meta);
-        }
-
-        content_meta.push(article_group_meta);
-      }
-
-      lag_meta.content = content_meta;
-
-      const filepath: string = path.join(__dirname, "../../LAG/json/", `lag-${String(lag.number).padStart(3, "0")}.json`);
-      const filepath_meta: string = path.join(__dirname, "../../LAG/meta/", `lag-${String(lag.number).padStart(3, "0")}.json`);
-      console.log(`  Writing file: ${filepath}`);
+      // Write LAG to .json file
+      const filepath_json: string = path.join(__dirname, "../../LAG/json/", `lag-${String(lag.number).padStart(3, "0")}.json`);
       fs.writeFileSync(
-        filepath,
+        filepath_json,
         JSON.stringify(lag, null, 2),
       );
-      console.log(`  Writing file: ${filepath_meta}`);
+    } catch (error) {
+      continue;
+    }
+  }
+
+  console.log("\nFetching metadata for LAG posts . . . ");
+  const lag_filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
+  for (const filename of lag_filenames) {
+    let lag_number: number = 0;
+    try {
+      const filepath_json: string = path.join(__dirname, "../../LAG/json/", filename);
+      const lag: LAG = JSON.parse(fs.readFileSync(filepath_json, { encoding: "utf-8" }));
+      lag_number = lag.number;
+
+      if (lag_number <= 91) continue;
+
+      console.log(`  LAG #${lag.number} . . . `);
+      const lag_meta: LAG = await attachMetadata(lag, true);
+      const filepath_meta: string = path.join(__dirname, "../../LAG/meta/", `lag-${String(lag_meta.number).padStart(3, "0")}.json`);
       fs.writeFileSync(
         filepath_meta,
         JSON.stringify(lag_meta, null, 2),
       );
-      console.log();
     } catch (error) {
-      console.log(`    ${error}`);
+      console.log(`  Something went wrong while processing: LAG #${lag_number}`);
+      console.log(error);
     }
   }
-  console.log();
 }
 
 main()
   .then(() => process.exit(0));
-
 
 
