@@ -2,32 +2,7 @@
   {
     "lag_number": 4,
     "date": "Wed Jun 29 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://www.drakestar.com/hubfs/Research/Global%20Gaming%20Industry%20Update%20%7C%20Q1%202022.pdf",
-            "missing": [
-              "title",
-              "description"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://www.drakestar.com/hubfs/Research/Global%20Gaming%20Industry%20Update%20%7C%20Q1%202022.pdf",
-            "missing": [
-              "title",
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 5,
@@ -37,47 +12,12 @@
   {
     "lag_number": 6,
     "date": "Mon Jul 04 2022",
-    "missing_content": [
-      {
-        "category": "🌈 Platforms 🏔",
-        "articles": [
-          {
-            "url": "https://www.deconstructoroffun.com/thisweekingames/bdtxbgs",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 7,
     "date": "Wed Jul 06 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://www.deconstructoroffun.com/thisweekingames/wthigo",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://www.deconstructoroffun.com/thisweekingames/wthigo",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 8,
@@ -92,21 +32,7 @@
   {
     "lag_number": 10,
     "date": "Fri Jul 15 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://twitter.com/SuckerPunchProd/status/1548034687049748480",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 11,
@@ -131,156 +57,17 @@
   {
     "lag_number": 15,
     "date": "Fri Jul 22 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://twitter.com/0xkapital_k/status/1550655795083128833?s=21&t=rjq6GQLWJDECfOdwCVcVLg",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://www.theesa.com/wp-content/uploads/2022/06/2022-Essential-Facts-About-the-Video-Game-Industry.pdf",
-            "missing": [
-              "title",
-              "description"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://twitter.com/0xkapital_k/status/1550655795083128833?s=21&t=rjq6GQLWJDECfOdwCVcVLg",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/Delphi_Digital/status/1550141782301843458",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 16,
     "date": "Mon Jul 25 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/AxieInfinity/status/1551562146261225472",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/webaverse/status/1551575739476377602",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/ParallelNFT/status/1551686644457259015",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/NonFungibleFilm/status/1551590962987560960",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/CL207/status/1551598109947359232",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/staratlas/status/1551602683630432257",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/hosseeb/status/1551657284081635328",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 17,
     "date": "Tue Jul 26 2022",
-    "missing_content": [
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://www.npd.com/news/infographics/2022/uncover-digital-gaming-buyer-behavior/",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/ballmatthew/status/1552043728776400896",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 18,
@@ -290,63 +77,7 @@
   {
     "lag_number": 19,
     "date": "Thu Jul 28 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://twitter.com/CoachDorntastic/status/1552358470141214720?s=20&t=TVr7_OHGuyW2x3EuBb3XAA",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/0xKepler/status/1552607056514846720",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/0xRyze/status/1552713612254662656?s=20&t=3COLPbTORGBoUvxtYDZ3Og",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/0xtaetaehoho/status/1552707320848625670?s=20&t=3COLPbTORGBoUvxtYDZ3Og",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "💰 Fundraising 🧧",
-        "articles": [
-          {
-            "url": "https://twitter.com/MapleLeafCap/status/1552597192372027392",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 20,
@@ -356,51 +87,7 @@
   {
     "lag_number": 21,
     "date": "Mon Aug 01 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://streamhatchet.com/2022/08/01/nike-is-the-most-prominent-apparel-brand-among-twitch-streamers/",
-            "missing": [
-              "title",
-              "description",
-              "image",
-              "source"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/Loopifyyy/status/1554183684714029059",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/naavik_co/status/1554076477268041728",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/Nifty_Island/status/1554218706451853312",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 22,
@@ -425,249 +112,37 @@
   {
     "lag_number": 26,
     "date": "Mon Aug 08 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/",
-            "missing": [
-              "title",
-              "description",
-              "image",
-              "source"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/webbemotional/status/1556231561879736321?s=28&t=mtqDSxcxL_j1eRy3BXzD2Q",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/harry_forj/status/1556236503138947072?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/messaricrypto/status/1556316429057769478?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/hyperloot_",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 27,
     "date": "Tue Aug 09 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/ancient8_gg/status/1556632018892767233?s=28&t=FMUfG6yWU-Shd2lnPZJCJg",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/magiceden/status/1557038366826397696?s=28&t=FMUfG6yWU-Shd2lnPZJCJg",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/Immutable/status/1556989617319976960",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 28,
     "date": "Wed Aug 10 2022",
-    "missing_content": [
-      {
-        "category": "👾 Game & Stats Releases 🎮",
-        "articles": [
-          {
-            "url": "https://twitter.com/gabrielleydon/status/1555183685527146497?s=20&t=tCdDta6oBmoenX2VQbkVmQ",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 29,
     "date": "Thu Aug 11 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/gamingathedge/status/1557375544135761922?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/andy8052/status/1557433547606089728?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/immutable/status/1557396833344770048?s=28&t=JmDdB-7dX5cQbUZuTYeIUA",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "🧠 Knowledge Hub 📚",
-        "articles": [
-          {
-            "url": "https://www.deconstructoroffun.com/thisweekingames/outsourcing",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 30,
     "date": "Fri Aug 12 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/guildfiglobal/status/1557957062205657089?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/apecoin/status/1557815401375055874?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/blackpoolhq/status/1558050961133821953?s=28&t=fGR7SZIBEZaWKcMKAcRYDw",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 31,
     "date": "Mon Aug 15 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/jpatten__/status/1557765647978856449",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/FOGDAO/status/1558104681565392896",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 32,
     "date": "Tue Aug 16 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 33,
@@ -677,21 +152,7 @@
   {
     "lag_number": 34,
     "date": "Thu Aug 18 2022",
-    "missing_content": [
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://twitter.com/joshchapmn/status/1560253162803539968",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 35,
@@ -701,74 +162,12 @@
   {
     "lag_number": 36,
     "date": "Mon Aug 22 2022",
-    "missing_content": [
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://twitter.com/geoffkeighley/status/1560741947937095682",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/harry_forj/status/1561573214479958016",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/aradtski/status/1561451068265037825",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 37,
     "date": "Tue Aug 23 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://twitter.com/nlevine19/status/1561554428791885824?s=20&t=DuiBC136HErjJuTfa0Quzw",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/Blockworks_/status/1561666150991335431",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 38,
@@ -778,66 +177,12 @@
   {
     "lag_number": 39,
     "date": "Thu Aug 25 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/Cov_duk/status/1561962575855702018",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 40,
     "date": "Fri Aug 26 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://twitter.com/ballmatthew/status/1562899937225949185",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://twitter.com/ballmatthew/status/1562899937225949185",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/_calmdonut/status/1563141724427341826",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 41,
@@ -852,21 +197,7 @@
   {
     "lag_number": 43,
     "date": "Wed Aug 31 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/guildfiglobal/status/1564587531932299264?s=21&t=qyWRZRQmyYDMEChJVb7WJQ",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 44,
@@ -891,34 +222,7 @@
   {
     "lag_number": 48,
     "date": "Wed Sep 07 2022",
-    "missing_content": [
-      {
-        "category": "🌊 MARKET ☎️",
-        "articles": [
-          {
-            "url": "https://twitter.com/konvoyventures/status/1567603787078008837",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/Welcome_to_Nor/status/1567589313671761920",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 49,
@@ -928,21 +232,7 @@
   {
     "lag_number": 50,
     "date": "Fri Sep 09 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/dbsbank/status/1568085536677445633?s=20&t=O7lS17aNe9Q17wwJXYtSdQ",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 51,
@@ -1072,19 +362,7 @@
   {
     "lag_number": 82,
     "date": "Tue Oct 25 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://www.pocketgamer.biz/news/80008/newzoos-latest-report-offers-sterling-insight-into-cloud-gaming/",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 83,
@@ -1139,64 +417,12 @@
   {
     "lag_number": 93,
     "date": "Wed Nov 09 2022",
-    "missing_content": [
-      {
-        "category": "🌈 Platforms 🏔",
-        "articles": [
-          {
-            "url": "https://twitter.com/Tocelot/status/1590387985073442816",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/ballmatthew/status/1590361553462665216",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 94,
     "date": "Thu Nov 10 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/andrewchen/status/1590874178156392457",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/Fwiz/status/1590864364470693889",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          },
-          {
-            "url": "https://twitter.com/gabrielleydon/status/1590836064775974912",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 95,
@@ -1211,21 +437,7 @@
   {
     "lag_number": 97,
     "date": "Tue Nov 15 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/crypto/status/1592388785647816705",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 98,
@@ -1265,21 +477,7 @@
   {
     "lag_number": 105,
     "date": "Fri Nov 25 2022",
-    "missing_content": [
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/WolvesDAO/status/1595507507849351168",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 106,
@@ -1294,34 +492,7 @@
   {
     "lag_number": 108,
     "date": "Wed Nov 30 2022",
-    "missing_content": [
-      {
-        "category": "🔦 Spotlight 🌟",
-        "articles": [
-          {
-            "url": "https://twitter.com/accel_capital/status/1597984106318823425",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      },
-      {
-        "category": "✨ Web 3️⃣ + Meta 🌎",
-        "articles": [
-          {
-            "url": "https://twitter.com/accel_capital/status/1597984106318823425",
-            "missing": [
-              "title",
-              "description",
-              "image"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 109,
@@ -1331,19 +502,7 @@
   {
     "lag_number": 110,
     "date": "Fri Dec 02 2022",
-    "missing_content": [
-      {
-        "category": "💎 Deep Dives 🔎",
-        "articles": [
-          {
-            "url": "https://mailchi.mp/konvoy/new-quest-postsecondary-education-jason?e=a1780084a7",
-            "missing": [
-              "description"
-            ]
-          }
-        ]
-      }
-    ]
+    "missing_content": []
   },
   {
     "lag_number": 111,
@@ -1412,17 +571,37 @@
   },
   {
     "lag_number": 124,
-    "date": "Wed Jan 04 2022",
+    "date": "Wed Jan 04 2023",
     "missing_content": []
   },
   {
     "lag_number": 125,
-    "date": "Thu Jan 05 2022",
+    "date": "Thu Jan 05 2023",
     "missing_content": []
   },
   {
     "lag_number": 126,
-    "date": "Fri Jan 06 2022",
+    "date": "Fri Jan 06 2023",
+    "missing_content": []
+  },
+  {
+    "lag_number": 127,
+    "date": "Mon Jan 09 2023",
+    "missing_content": []
+  },
+  {
+    "lag_number": 128,
+    "date": "Tue Jan 10 2023",
+    "missing_content": []
+  },
+  {
+    "lag_number": 129,
+    "date": "Wed Jan 11 2023",
+    "missing_content": []
+  },
+  {
+    "lag_number": 130,
+    "date": "Thu Jan 12 2023",
     "missing_content": []
   }
 ]

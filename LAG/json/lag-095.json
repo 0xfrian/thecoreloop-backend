@@ -6,15 +6,20 @@
   "date": "Fri Nov 11 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nDid you know that the battle royale genre actually started as a PUBG mod?  KRAFTON, publisher of PUBG Mobile is rocking strong with lifetime rev of $407M and 109M downloads.  Japan has the highest revenue of $260M but India has the highest downloads of 64M.\n\nMy Dashboard:\nhttps://appmagic.rocks/dashboards/636ef775674f6??promoCode=636e7c52a0c41\n\n(First Come, First Served.  The dashboard is available for the first few users.  Make sure you turn NOTIF on if you missed this one).\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at a way to make it easier to find game jobs, especially with the recent turmoil / layoffs",
-          "url": "https://venturebeat.com/games/making-it-easier-to-find-game-jobs-in-the-economic-downturn/",
-          "title": "Making it easier to find game jobs in the economic downturn (updated)",
-          "description": "With the 11,000 layoffs at Meta (Facebook) and the 3,500 at Twitter in the past week, the downturn afflicting the tech industry is getting serious. There are games-related layoffs at the big companies as well, and it seems the game industry will not be immune from these (hopefully temporary) setbacks. But I have found some […]",
-          "image": "https://venturebeat.com/wp-content/uploads/2017/02/esa-report.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/making-it-easier-to-find-game-jobs-in-the-economic-downturn/"
         }
       ]
     },
@@ -23,35 +28,19 @@
       "articles": [
         {
           "caption": "A look at how mobile games headwinds affected Take-Two and EA",
-          "url": "https://www.youtube.com/watch?v=iprW0zL3iIg",
-          "title": "How Mobile Gaming Headwinds Affected Take-Two and EA - The Metacast by Naavik",
-          "description": "What can we learn from Take-Two and EA’s earnings? Are we observing an increase in VC capital deployment? We dive into the latest game business news with Aar...",
-          "image": "https://i.ytimg.com/vi/iprW0zL3iIg/maxresdefault.jpg",
-          "source": "YouTube"
+          "url": "https://www.youtube.com/watch?v=iprW0zL3iIg"
         },
         {
           "caption": "A look at Krafton profiting $171.5M in Q3.  revenue of $328.5M",
-          "url": "https://www.gamesindustry.biz/krafton-profits-up-to-1715-million-despite-lowest-quarter-since-2020",
-          "title": "Krafton profits up to $171.5 million despite lowest quarter since 2020",
-          "description": "Krafton, the Korea-based publisher behind PlayerUnknown's Battlegrounds, released its Q3 financial results alongside ne…",
-          "image": "https://assets.reedpopcdn.com/pubg_india_launch.jpg/BROK/thumbnail/1200x630/pubg_india_launch.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/krafton-profits-up-to-1715-million-despite-lowest-quarter-since-2020"
         },
         {
           "caption": "A look at whether or not mobile games can weather the storm by Data.Ai",
-          "url": "https://www.pocketgamer.biz/asia/special-report/80170/can-mobile-games-weather-the-economic-downturn/",
-          "title": "Can mobile games weather the economic downturn?",
-          "description": "As the global economy faces turmoil, which games are growing? And where do they fit in the app market? data.ai investigates",
-          "image": "https://media.pocketgamer.biz/2022/3/115582/dataailogo-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/special-report/80170/can-mobile-games-weather-the-economic-downturn/"
         },
         {
           "caption": "A look at a way to make it easier to find game jobs",
-          "url": "https://venturebeat.com/games/making-it-easier-to-find-game-jobs-in-the-economic-downturn/",
-          "title": "Making it easier to find game jobs in the economic downturn (updated)",
-          "description": "With the 11,000 layoffs at Meta (Facebook) and the 3,500 at Twitter in the past week, the downturn afflicting the tech industry is getting serious. There are games-related layoffs at the big companies as well, and it seems the game industry will not be immune from these (hopefully temporary) setbacks. But I have found some […]",
-          "image": "https://venturebeat.com/wp-content/uploads/2017/02/esa-report.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/making-it-easier-to-find-game-jobs-in-the-economic-downturn/"
         }
       ]
     },
@@ -60,11 +49,7 @@
       "articles": [
         {
           "caption": "A look at what Player Powered means",
-          "url": "https://www.gamedeveloper.com/design/what-does-player-powered-mean-knowing-what-success-looks-like-and-the-importance-of-having-a-mission",
-          "title": "What does \"player powered\" mean?",
-          "description": "OtherSide Entertainment CCO Warren Spector discusses what it means to develop \"player-powered\" games, and what defines success under that game dev criteria.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt8317db6b404e2235/636e91f02c5ea63105c7dddc/OtherSide_Entertainment_Argos.jpeg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/design/what-does-player-powered-mean-knowing-what-success-looks-like-and-the-importance-of-having-a-mission"
         }
       ]
     },
@@ -73,27 +58,15 @@
       "articles": [
         {
           "caption": "A look at removing the stigma from NFTs",
-          "url": "https://venturebeat.com/games/removing-the-stigma-from-nfts/",
-          "title": "Removing the stigma from NFTs",
-          "description": "In the 'How to Talk About NFTs Without Getting Everyone Mad at You' discussion, our panelists discuss how to navigate the road to acceptance.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/NFT2.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/removing-the-stigma-from-nfts/"
         },
         {
           "caption": "A look at Star Atlash runway being sliced in half because of FTX",
-          "url": "https://www.theblock.co/post/186241/star-atlas-cash-runway-sliced-in-half-by-ftx-catastrophe",
-          "title": "Star Atlas cash runway sliced in half by FTX catastrophe",
-          "description": "Star Atlas is the latest crypto company to get hit by the FTX collapse.",
-          "image": "https://www.tbstat.com/wp/uploads/2022/09/star-atlas-1auxm.webp",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/186241/star-atlas-cash-runway-sliced-in-half-by-ftx-catastrophe"
         },
         {
           "caption": "A look at Animoca Brands saying it has limited exposure to FTX",
-          "url": "https://www.theblock.co/post/186085/animoca-brands-reveals-limited-ftx-exposure-after-sbfs-empire-collapses",
-          "title": "Animoca Brands exposes balance sheet after SBF’s empire collapses",
-          "description": "Yat Siu also condemned the irresponsible actions of crypto industry leaders \"continue to abuse their disproportionate power.\"",
-          "image": "https://www.tbstat.com/wp/uploads/2022/06/22020616_Animoca_Brands1-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/186085/animoca-brands-reveals-limited-ftx-exposure-after-sbfs-empire-collapses"
         }
       ]
     }

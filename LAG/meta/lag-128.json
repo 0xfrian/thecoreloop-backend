@@ -1,0 +1,95 @@
+{
+  "heading": "Look at Gaming #128",
+  "subheading": "",
+  "message_id": 144,
+  "number": 128,
+  "date": "Tue Jan 10 2023",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Steam hitting 10M concurrent in-game users. 33M concurrent online users",
+          "url": "https://www.gamedeveloper.com/business/steam-tops-10-million-concurrent-in-game-users-for-the-first-time",
+          "title": "Steam tops 10 million concurrent in-game users for the first time",
+          "description": "Steam continued its trend of breaking concurrent user records over this weekend, but this time there was an added twist.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltd9b7fe0b9dc11ac1/621cbb4c4da1f047066b3936/Steam_Header.png",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at whether the Chinese mobile gaming industry can bounce back in 2023",
+          "url": "https://www.pocketgamer.biz/feature/80563/can-the-chinese-mobile-gaming-industry-bounce-back-in-2023/",
+          "title": "Can the Chinese mobile gaming industry bounce back in 2023? | Pocket Gamer.biz | PGbiz",
+          "description": "As 2023 begins, a gloomy year for the Chinese mobile gaming industry passes into the rear-view mirror. We already covered the difficulties China faced last y...",
+          "image": "https://media.pocketgamer.biz/2022/11/119403/urbanchina-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at addictive game design for monetization purposes",
+          "url": "https://newsletter.gamediscover.co/p/where-does-the-drive-to-monetize",
+          "title": "Where does the drive to monetize 'compulsion loops' in games end?",
+          "description": "Also: Derek Yu on assessing risk in making games & more.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb02287d-4f71-45f0-95b2-430f11f8c9de_800x531.jpeg",
+          "source": "Simon Carless"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔",
+      "articles": [
+        {
+          "caption": "A look at Steam hitting 10M concurrent in-game users. 33M concurrent online users",
+          "url": "https://www.gamedeveloper.com/business/steam-tops-10-million-concurrent-in-game-users-for-the-first-time",
+          "title": "Steam tops 10 million concurrent in-game users for the first time",
+          "description": "Steam continued its trend of breaking concurrent user records over this weekend, but this time there was an added twist.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltd9b7fe0b9dc11ac1/621cbb4c4da1f047066b3936/Steam_Header.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Apple preparing Reality Pro headset",
+          "url": "https://www.gamedeveloper.com/business/report-apple-preparing-reality-pro-headset-for-fall-2023-release-",
+          "title": "Report: Apple preparing Reality Pro headset for fall 2023 release",
+          "description": "Apple will reportedly reveal its Reality Pro mixed reality headset in June ahead of a planned fall 2023 release. ",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt997d1dd5dfd504e0/63bc4ec068885450c780a2fe/apple.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at Sequels vs. Updates, what's better?",
+          "url": "https://www.pocketgamer.biz/feature/80566/sequels-vs-updates-when-should-developers-stick-with-what-works/",
+          "title": "Sequels vs. Updates: When should developers stick with what works? | Pocket Gamer.biz | PGbiz",
+          "description": "Gaming isn't just a hobby. It's a thriving industry which generates billions of dollars to the economy and represents countless hours of hard work",
+          "image": "https://media.pocketgamer.biz/2022/11/119489/angry-birds-melody-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Stumble Guys hitting $80M lifetime rev and 270M downloads",
+          "url": "https://mobilegamer.biz/stumble-guys-leaps-over-80m-lifetime-revenue-270m-downloads/",
+          "title": "Stumble Guys leaps over $80m lifetime revenue, 270m downloads - Mobilegamer.biz",
+          "description": "Kitka Games’ debut was downloaded more than Roblox and Candy Crush Saga in 2022.",
+          "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2023/01/Stumble-Guys.jpg?fit=1393%2C678&ssl=1",
+          "source": "Mobilegamer.biz"
+        }
+      ]
+    }
+  ]
+}

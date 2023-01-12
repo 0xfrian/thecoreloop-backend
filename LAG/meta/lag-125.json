@@ -3,7 +3,7 @@
   "subheading": "",
   "message_id": 140,
   "number": 125,
-  "date": "Thu Jan 05 2022",
+  "date": "Thu Jan 05 2023",
   "content": [
     {
       "category": "🔦 Spotlight 🌟",
@@ -24,7 +24,7 @@
         {
           "caption": "A look at the CES 2023 tech trends",
           "url": "https://venturebeat.com/games/ces-2023-tech-trends-to-watch/",
-          "title": "CES 2023 tech trends to watch",
+          "title": "CES 2023 tech trends to watch | VentureBeat",
           "description": "Steve Koenig, vice president of research at the CTA, point out the key trends to watch at the CES 2023 tech trade show.",
           "image": "https://venturebeat.com/wp-content/uploads/2023/01/ces-trends.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -33,7 +33,7 @@
           "caption": "A look at Naavik's 2023 mini predictions",
           "url": "https://naavik.co/digest/2023-mini-preditions",
           "title": "Naavik’s 2023 Mini-Predictions — Naavik",
-          "description": "This week’s issue is a bit different. To kick off 2023, we’ve gathered \npredictions from across the Naavik team to forecast how this year may \nchange the gaming industry as a whole. Do you have a bold prediction of \nyour own?",
+          "description": "This week’s issue is a bit different. To kick off 2023, we’ve gathered \r\npredictions from across the Naavik team to forecast how this year may \r\nchange the gaming industry as a whole. Do you have a bold prediction of \r\nyour own?",
           "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63b55017198b4f1b06bbc200/1672826906256/LSRnuXJx.png?format=1500w",
           "source": "Naavik"
         },
@@ -64,13 +64,13 @@
           "title": "Deep dive: Steam's top-grossing releases of 2022",
           "description": "Also: more on that 'Fortnite vs. kids' FTC fine, and lots more news...",
           "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3705f7bf-38af-4590-9b73-fb63cdcbbc84_1000x523.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "source": "Simon Carless"
         },
         {
           "caption": "A look at what's next after battle royale for mobile shooters",
           "url": "https://naavik.co/deep-dives/genre-report-shooter-preview",
-          "title": "What’s Next After Battle Royale? — Mobile Shooters — Naavik",
-          "description": "In this preview of Naavik Pro’s inaugural mobile F2P genre report series, \nwe tackle the Shooters market. This report covers the big picture genre \ndata, digs into the key subgenres, discusses how the market has changed \nover the past year, and makes predictions on where it goes next.",
+          "title": "What’s Next After Battle Royale? — Mobile F2P Shooters Genre Report — Naavik",
+          "description": "In Naavik Pro’s inaugural mobile F2P genre report series, we tackle the \r\nShooters market. It covers the big picture genre data, digs into the key \r\nsubgenres, discusses how the market has changed over the past year, and \r\nmakes predictions on where it goes next.",
           "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63b55767e60ca92d6259c8f1/1672828781777/H74YJz3o.png?format=1500w",
           "source": "Naavik"
         }
@@ -82,7 +82,7 @@
         {
           "caption": "A look at Sony Playstation VR launching with atleast 30 titles",
           "url": "https://venturebeat.com/games/sony-playstation-vr-will-launch-with-at-least-30-titles/",
-          "title": "Sony Playstation VR will launch with at least 30 titles",
+          "title": "Sony Playstation VR will launch with at least 30 titles | VentureBeat",
           "description": "Sony PlayStation chief Jim Ryan said the PlayStation VR will launch with at least 30 titles, including a newly announced VR version of Gran Turismo.",
           "image": "https://venturebeat.com/wp-content/uploads/2023/01/psvr-2.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -90,7 +90,7 @@
         {
           "caption": "A look at Oorbit partnering with LG to bring metaverse platform to TVs",
           "url": "https://venturebeat.com/games/oobit-partners-with-lg-to-bring-interoperable-metaverse-platform-to-tvs/",
-          "title": "Oorbit partners with LG to bring interoperable metaverse platform to TVs",
+          "title": "Oorbit partners with LG to bring interoperable metaverse platform to TVs | VentureBeat",
           "description": "Oorbit, which operates a metaverse platform, has partnered with LG Electronics to bring interoperable virtual worlds to LG TVs.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/12/Oorbit-6.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -98,7 +98,7 @@
         {
           "caption": "A look at Nvidia cloud gaming service coming to cars",
           "url": "https://www.gamesindustry.biz/nvidia-cloud-gaming-service-heading-to-vehicles",
-          "title": "Nvidia cloud gaming service heading to vehicles",
+          "title": "Nvidia cloud gaming service heading to vehicles | GamesIndustry.biz",
           "description": "Nvidia has announced that its cloud gaming service, GeForce Now, will come to vehicles. Hyundai Motor Group, BYD, and P…",
           "image": "https://assets.reedpopcdn.com/Nvidia-vehicles-000.jpg/BROK/thumbnail/1200x630/Nvidia-vehicles-000.jpg",
           "source": "GamesIndustry.biz"
@@ -106,7 +106,7 @@
         {
           "caption": "A look at Samsung adds 1000 games to OLED 4K TVs",
           "url": "https://venturebeat.com/games/samsung-gaming-hub-adds-1000-cloud-games-to-oled-4k-tvs-and-freestyle-models/",
-          "title": "Samsung Gaming Hub adds 1,000 cloud games to OLED 4K TVs and Freestyle models",
+          "title": "Samsung Gaming Hub adds 1,000 cloud games to OLED 4K TVs and Freestyle models | VentureBeat",
           "description": "Samsung is doubling down on cloud gaming by adding its Samsung Gaming Hub to its OLED 4K TV and Freestyle televisions.",
           "image": "https://venturebeat.com/wp-content/uploads/2023/01/samsung-s95c.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -119,7 +119,7 @@
         {
           "caption": "A look at consumer & business interest in metaverse growing",
           "url": "https://venturebeat.com/games/consumer-and-business-interest-in-the-metaverse-is-growing-accenture/",
-          "title": "Consumer and business interest in the metaverse is growing | Accenture",
+          "title": "Consumer and business interest in the metaverse is growing | Accenture | VentureBeat",
           "description": "Consumers and businesses are getting more interested in the metaverse, according to a report by Accenture.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/12/acc-metaverse.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -145,7 +145,7 @@
         {
           "caption": "A look at Genshin Impact surpassing $4B",
           "url": "https://www.pocketgamer.biz/news/80535/genshin-impact-surpasses-4bn-in-lifetime-revenue/",
-          "title": "Genshin Impact surpasses $4bn in lifetime revenue",
+          "title": "Genshin Impact surpasses $4bn in lifetime revenue | Pocket Gamer.biz | PGbiz",
           "description": "According to reports from multiple outlets, including the South China Morning Post, Genshin Impact, the free-roaming gacha title from developers MiHoYo has s...",
           "image": "https://media.pocketgamer.biz/2022/9/118558/genshin-impact-barbara-r225x225.jpg",
           "source": "pocketgamer.biz"

@@ -6,15 +6,20 @@
   "date": "Mon Dec 05 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nSorry!  This research piece is taking longer than expected but I will share it with you guys soon!  Promise!!\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at Mobile games bucking the mobile games recession",
-          "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession",
-          "title": "Bucking the Recession — Deconstructor of Fun",
-          "description": "What the current market state actually looks like? Which game categories \nface the most challenges in this climate? Who’s seeing the greatest success \ndespite the headwinds?",
-          "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/638dccd73d94e901f8d6651f/1671415756631/Screenshot+2022-12-05+at+13.20.23.png?format=1500w",
-          "source": "Deconstructor of Fun"
+          "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession"
         }
       ]
     },
@@ -23,27 +28,15 @@
       "articles": [
         {
           "caption": "A look at web3 cloud gaming ecosystem",
-          "url": "https://newzoo.com/insights/articles/cloud-gaming-ecosystem-diagram-2022",
-          "title": "Cloud Gaming Ecosystem Diagram 2022 | Newzoo Infographics",
-          "description": "This infographic shows the global cloud gaming ecosystem's key players and stakeholders in 2022. Download it for free here!",
-          "image": "https://newzoo.com/wp-content/uploads/2022/10/CloudGamingEcosystem.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/cloud-gaming-ecosystem-diagram-2022"
         },
         {
           "caption": "A look at data.ai & deconstructor of fun mobile gaming in 2022",
-          "url": "https://gamedevreports.substack.com/p/dataai-and-deconstructor-of-fun-mobile",
-          "title": "data.ai & Deconstructor of Fun: Mobile Gaming market in 2022 and beyond",
-          "description": "The market is declining but panic aside.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe378f7c9-5c94-45ce-bdc9-372c579ff3e2_1280x886.jpeg",
-          "source": "gamedevreports.substack.com"
+          "url": "https://gamedevreports.substack.com/p/dataai-and-deconstructor-of-fun-mobile"
         },
         {
           "caption": "A look at Mobil games bucking the mobile games recession",
-          "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession",
-          "title": "Bucking the Recession — Deconstructor of Fun",
-          "description": "What the current market state actually looks like? Which game categories \nface the most challenges in this climate? Who’s seeing the greatest success \ndespite the headwinds?",
-          "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/638dccd73d94e901f8d6651f/1671415756631/Screenshot+2022-12-05+at+13.20.23.png?format=1500w",
-          "source": "Deconstructor of Fun"
+          "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession"
         }
       ]
     },
@@ -52,19 +45,11 @@
       "articles": [
         {
           "caption": "a look at Fall Guys data",
-          "url": "https://newzoo.com/insights/articles/fall-guy-data-newzoo-expert-spotlight",
-          "title": "Fall Guys Data – Newzoo Expert Spotlight | Newzoo",
-          "description": "Looking for the latest data on Fall Guys? Download the infographic for its June performance including MAU, monthly revenue growth, and more!",
-          "image": "https://newzoo.com/wp-content/uploads/2022/07/Expert-Spotlight-GameSeries-2022.07.14-Fall-Guys.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/fall-guy-data-newzoo-expert-spotlight"
         },
         {
           "caption": "A look at the biggest discovery competition",
-          "url": "https://newsletter.gamediscover.co/p/new-games-biggest-discovery-competition",
-          "title": "New games' biggest discovery competition? Old games!",
-          "description": "Also: Valve tells devs about Wolfire suit discovery, lotsa discovery news...",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3bee2b10-0679-4f01-86cb-25494cf4d558_1000x542.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/new-games-biggest-discovery-competition"
         }
       ]
     },
@@ -73,11 +58,7 @@
       "articles": [
         {
           "caption": "A look at web3 fantasy sport\\",
-          "url": "https://www.theblockresearch.com/sorare-the-web3-fantasy-sports-phenomenon-191802",
-          "title": "Sorare: The Web3 Fantasy Sports Phenomenon",
-          "description": "World cups are the ideal arena for group flow experiences. As rival clans fervently cheer on their teams, they rally around their favorite superstars in a",
-          "image": "https://www.tbstat.com/wp/uploads/2022/11/20221128_Sorare_Research-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblockresearch.com/sorare-the-web3-fantasy-sports-phenomenon-191802"
         }
       ]
     },
@@ -86,19 +67,11 @@
       "articles": [
         {
           "caption": "A look at PUBG hitting $9B in lifetime user spending",
-          "url": "https://venturebeat.com/games/pubg-mobile-9-billion-lifetime-spending-pubgm-sensor-tower/",
-          "title": "PUBG Mobile hits $9B in lifetime consumer spending",
-          "description": "PUBG Mobile spending has just crossed $9 billion, a few months ahead of the game's fifth anniversary according to Sensor Tower data.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/PUBGM.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/pubg-mobile-9-billion-lifetime-spending-pubgm-sensor-tower/"
         },
         {
           "caption": "A look at Genshin Impact earning $3.7B in Mobile in first 2 years",
-          "url": "https://venturebeat.com/games/genshin-impact-earned-3-7-billion-mobile-first-2-years-sensor-tower/",
-          "title": "Genshin Impact earned $3.7B on mobile in first 2 years",
-          "description": "Genshin Impact was the third highest grossing game on mobile globally in its first two years according to spending data from Sensor Tower.",
-          "image": "https://venturebeat.com/wp-content/uploads/2020/11/genshin.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/genshin-impact-earned-3-7-billion-mobile-first-2-years-sensor-tower/"
         }
       ]
     }

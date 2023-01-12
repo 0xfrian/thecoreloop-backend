@@ -6,15 +6,20 @@
   "date": "Mon Nov 14 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nDid you know Finland's top income earners are in the gaming industry?  Some of the top publishers are Supercell, Rovio, Metacore Games Oy, Seriously Digital Entertainment, and Kitka Games.  In 2022 YTD, the total revenue from these 5 publishers is $1.35B with 500M downloads.\n\nMy Dashboard:\nhttps://appmagic.rocks/dashboards/636ef775674f6?promoCode=636e7c52a0c41\n\n(First Come, First Served.  The dashboard is available for the first few users.  Make sure you turn NOTIF on if you missed this one).\n\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at VR hitting its second wind with $3.2B rev and 46M headsets by 2024",
-          "url": "https://newzoo.com/insights/trend-reports/vr-games-market-report",
-          "title": "VR Games Market Report 2022 | Newzoo Trend Report",
-          "description": "This report looks at VR's latest developments in gaming, metaverse, and beyond, with rich data and games analysis. Get your free copy now.",
-          "image": "https://newzoo.com/wp-content/uploads/2022/10/VR_GamesMarketReport_EN.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/trend-reports/vr-games-market-report"
         }
       ]
     },
@@ -23,19 +28,11 @@
       "articles": [
         {
           "caption": "A look at VR hitting its second wind with $3.2B rev and 46M headsets by 2024",
-          "url": "https://newzoo.com/insights/trend-reports/vr-games-market-report",
-          "title": "VR Games Market Report 2022 | Newzoo Trend Report",
-          "description": "This report looks at VR's latest developments in gaming, metaverse, and beyond, with rich data and games analysis. Get your free copy now.",
-          "image": "https://newzoo.com/wp-content/uploads/2022/10/VR_GamesMarketReport_EN.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/trend-reports/vr-games-market-report"
         },
         {
           "caption": "A look at Finland's highest earners, who are surprisingly concentrated in the gaming industry",
-          "url": "https://www.pocketgamer.biz/news/80172/finlands-highest-earners-are-in-the-gaming-industry-with-supercell-founder-ilkka-paananen-leading-the-charge/",
-          "title": "Finland’s highest earners are in the gaming industry, with Supercell founder Ilkka Paananen leading the charge",
-          "description": "Income tax data released by Finland&rsquo;s Tax Administration has revealed the highest earners in the country, with Supercell founder and CEO Ilkka Paanenen...",
-          "image": "https://media.pocketgamer.biz/2022/11/119297/supercell-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80172/finlands-highest-earners-are-in-the-gaming-industry-with-supercell-founder-ilkka-paananen-leading-the-charge/"
         }
       ]
     },
@@ -44,19 +41,11 @@
       "articles": [
         {
           "caption": "A look at Apple's Pro-Privacy Bet",
-          "url": "https://www.konvoy.vc/newsletter/apples-pro-privacy-bet",
-          "title": "Apple's Pro-Privacy Bet",
-          "description": "We believe that Apple’s efforts on the privacy side are positioning them for the launch of their own internal ads business",
-          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/6372752f1031f701f7a123aa_apple%20pro-privacy.jpg",
-          "source": "www.konvoy.vc"
+          "url": "https://www.konvoy.vc/newsletter/apples-pro-privacy-bet"
         },
         {
           "caption": "A look at a positive outlook for Roblox",
-          "url": "https://naavik.co/digest/a-positive-outlook-for-roblox",
-          "title": "A Positive Outlook For Roblox — Naavik",
-          "description": "Roblox reported earnings this week — it’s a two-sided story with lots to \nlike like DAU growth and a bit to be weary of like operating cost increases \namong macroenvironment changes. We also round out earnings for Nexon, \nSquare Enix, and Unity.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/6370bcff627d7e7712b329bb/1668332804989/VcF66_hg.jpeg?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/a-positive-outlook-for-roblox"
         }
       ]
     },
@@ -65,27 +54,15 @@
       "articles": [
         {
           "caption": "A look at Nike debuting web3 wearables",
-          "url": "https://www.theblock.co/post/186733/nike-to-debut-its-own-platform-for-web3-wearables",
-          "title": "Nike to debut its own platform for web3 wearables",
-          "description": "Sports brand Nike is already one of the most successful brands in web3. Now it's going to sell virtual shoes on its own platform.",
-          "image": "https://www.tbstat.com/wp/uploads/2022/10/20221021_Nike-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/186733/nike-to-debut-its-own-platform-for-web3-wearables"
         },
         {
           "caption": "A look at Japan's Line messaging service launching web3 game platform Game Dosi",
-          "url": "https://venturebeat.com/games/japans-line-messaging-service-launches-web3-game-platform-game-dosi/",
-          "title": "Japan’s Line messaging service launches Web3 game platform Game Dosi",
-          "description": "Line Next announced today that it hs created a teaser website for Game Dosi, a Web3-based game platform. Line Next is the U.S. division of Line, a big mobile messaging service that competes with What’s App, WeChat, and Kakao. Line is pretty ubiquitous in Japan. Line Corp. is a Tokyo-based subsidiary of Z Holdings, which […]",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/line-game.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/japans-line-messaging-service-launches-web3-game-platform-game-dosi/"
         },
         {
           "caption": "A look at Web3 gaming need to away from speculation",
-          "url": "https://venturebeat.com/games/web3-gaming-needs-to-get-away-from-speculation/",
-          "title": "Web3 gaming needs to get away from speculation",
-          "description": "Speculation mechanics are a Sword of Damocles over the burgeoning Web3 gaming world. If we don't get out from under it, we might be doomed.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/05/freeverse-5.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/web3-gaming-needs-to-get-away-from-speculation/"
         }
       ]
     },
@@ -94,35 +71,19 @@
       "articles": [
         {
           "caption": "A look at Steam sales estimates: why popularity matters",
-          "url": "https://newsletter.gamediscover.co/p/steam-sales-estimates-why-game-popularity",
-          "title": "Steam sales estimates: why game popularity matters!",
-          "description": "Also: how games with big gameplay shifts add hook, and lots more.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85c3fb67-d78d-4374-b61f-75a3df66c28a_800x450.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/steam-sales-estimates-why-game-popularity"
         },
         {
           "caption": "A look at marketing your game without a publisher",
-          "url": "https://www.gamedeveloper.com/marketing/learn-how-to-market-your-game-without-a-publisher-in-this-free-webinar",
-          "title": "Learn How To Market Your Game Without A Publisher In This Free Webinar",
-          "description": "No More Robots founder Mike Rose will share marketing tips you can use to hype up your game in this upcoming free Game Developer Talks webinar.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt680fee7ada64a07d/63725c9bb59fab4f04cc70ea/GD_20Webinar_20Mike_202.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/marketing/learn-how-to-market-your-game-without-a-publisher-in-this-free-webinar"
         },
         {
           "caption": "A look at why 7 days may be too late to retarget mobile gamers",
-          "url": "https://www.pocketgamer.biz/comment-and-opinion/80155/why-day-7-may-be-too-late-to-retarget-mobile-gamers/",
-          "title": "Why day seven may be too late to retarget mobile gamers",
-          "description": "User acquisition and retention are skills that every game creator needs to know. Remerge's Director of Account Management provides insight into the crucial first few",
-          "image": "https://media.pocketgamer.biz/2022/11/119314/remerge-toya-photo-500x500-1-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/comment-and-opinion/80155/why-day-7-may-be-too-late-to-retarget-mobile-gamers/"
         },
         {
           "caption": "A look at Stillfront's Strategy, Synergies & Future with @naavik_co",
-          "url": "https://www.youtube.com/watch?v=j-1GSjyv9fA&ab_channel=Naavik",
-          "title": "Alexis Bonte: Stillfront’s Strategy, Synergies & Future - The Metacast by Naavik",
-          "description": "In this episode, Alexis Bonte – COO of Stillfront Group – joins Naavik co-founder Aaron Bush to discuss:#1 His journey as an entrepreneur and executive, and ...",
-          "image": "https://i.ytimg.com/vi/j-1GSjyv9fA/maxresdefault.jpg",
-          "source": "YouTube"
+          "url": "https://www.youtube.com/watch?v=j-1GSjyv9fA&ab_channel=Naavik"
         }
       ]
     },
@@ -131,19 +92,11 @@
       "articles": [
         {
           "caption": "A look at Big Pixel Studios raising $4.6M",
-          "url": "https://www.pocketgamer.biz/news/80179/landmark-games-raise-46m-investment-for-co-op-mobile-game/",
-          "title": "Big Pixel Studios veterans' Landmark Games raise $4.6m investment for co-op mobile game",
-          "description": "According to multiple reports Landmark Games have announced that they have secured a $4.6m investment into their company to expand their studio to around 20...",
-          "image": "https://media.pocketgamer.biz/2022/11/119313/landmark2-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80179/landmark-games-raise-46m-investment-for-co-op-mobile-game/"
         },
         {
           "caption": "A look at Astrid Entertainment raising \"high seven-figure pre-seed",
-          "url": "https://www.gamesindustry.biz/former-amazon-and-fox-exec-announces-new-developer-astrid-entertainment",
-          "title": "Former Amazon and Fox exec announces new developer Astrid Entertainment",
-          "description": "Media executive Sharon Tal Yguado has announced the creation of her games studio, Astrid Entertainment. The new develop…",
-          "image": "https://assets.reedpopcdn.com/Astrid_art.png/BROK/thumbnail/1200x630/Astrid_art.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/former-amazon-and-fox-exec-announces-new-developer-astrid-entertainment"
         }
       ]
     },
@@ -152,11 +105,7 @@
       "articles": [
         {
           "caption": "A look at Candy Crush Saga's 10th anniversary with 3B downloads",
-          "url": "https://www.pocketgamer.biz/news/80180/candy-crush-at-10-years-old-new-features-and-over-three-billion-downloads/",
-          "title": "Candy Crush Saga on its 10th Anniversary: New features and over three billion downloads",
-          "description": "Candy Crush is an iconic feature of mobile and smartphone gaming as a whole, one of the earliest puzzle games to achieve worldwide success and which also pop...",
-          "image": "https://media.pocketgamer.biz/2022/11/119316/candycrush2-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80180/candy-crush-at-10-years-old-new-features-and-over-three-billion-downloads/"
         }
       ]
     }

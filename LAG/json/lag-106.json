@@ -6,15 +6,20 @@
   "date": "Mon Nov 28 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nWe all know anime-themed mobile games have taken the world by storm.  But some parts of the world are more receptive to Anime art style than others.  Today, I'm doing a comparison between the top 5 Anime style art games for the East vs. West.\n\nYTD 2022\nEast: $2.36B rev ÷ 24M download = $98  RpD\nvs.\nWest: $575M rev ÷ 15.15M download = $38 RpD\n\nThe East has magnitudes more powerful monetization mechanics and/or high spending behaviors.  The West clearly isn't keeping up with their eastern counterparts.  Though the top game in both regions (Fate/Grand Order) is the same, the RpD is $419 vs. $118.\n\nFirst come, first served.  Free trial views of my dashboards:\nEast — https://appmagic.rocks/dashboards/638586f042457?promoCode=6373c4a8c9901\nWest — https://appmagic.rocks/dashboards/638586c3cec05?promoCode=6373c4a8c9901\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at how generative AI could create assets for metaverse",
-          "url": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-          "title": "How generative AI could create assets for the metaverse | Jensen Huang",
-          "description": "Jensen Huang, CEO of Nvidia, believes that generative AI will help make the metaverse happen by allowing developers to test virtually.",
-          "image": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/"
         }
       ]
     },
@@ -23,43 +28,23 @@
       "articles": [
         {
           "caption": "A look at female gamers by @newzoohq",
-          "url": "https://newzoo.com/insights/articles/shining-the-spotlight-on-female-gamers",
-          "title": "Shining the Spotlight on Female Gamers | Newzoo",
-          "description": "How many females playing games in 2022? How do they behave? Which platform do they prefer? Download this free infographic to find out!",
-          "image": "https://newzoo.com/wp-content/uploads/2022/09/FemaleGamers.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/shining-the-spotlight-on-female-gamers"
         },
         {
           "caption": "A look at the esports ecosystem @newzoohq",
-          "url": "https://newzoo.com/insights/articles/esports-ecosystem-infographic-2022",
-          "title": "Esports Ecosystem Inforgraphic 2022 | Newzoo Infographics",
-          "description": "The Global Esports Ecosystem Diagram features the ecosystem's key players and stakeholders in 2022, get it for free here!",
-          "image": "https://newzoo.com/wp-content/uploads/2022/09/Esports-Ecosystem-1.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/esports-ecosystem-infographic-2022"
         },
         {
           "caption": "A look at the metaverse ecosystem diagram",
-          "url": "https://newzoo.com/insights/articles/metaverse-ecosystem-infographic-2022",
-          "title": "Metaverse Ecosystem Diagram 2022 | Newzoo",
-          "description": "Our latest Metaverse Ecosystem Diagram features the ecosystem's key players and stakeholders in 2022, get it for free here!",
-          "image": "https://newzoo.com/wp-content/uploads/2022/07/Metaverse-Ecosystem-Diagram-2022.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/metaverse-ecosystem-infographic-2022"
         },
         {
           "caption": "A look at the Asia Games Market Report",
-          "url": "https://nikopartners.com/asia-games-market-report/",
-          "title": "Asia Games Market Report",
-          "description": "What you’ll learn from this report: \n\nAsia is the most important region for gaming in the world, representing a major opportunity for game developers and publishers, hardware and device makers, infrastructure providers, and investors. High consumer demand for games, esports, tournaments, and streaming, coupled with growing disposable income, improvements in infrastructure, and",
-          "image": "https://nikopartners.com/wp-content/uploads/2020/02/NIKO_logo-main_RGB@1x-1.png",
-          "source": "Niko"
+          "url": "https://nikopartners.com/asia-games-market-report/"
         },
         {
           "caption": "A look at Cyberpunk 2077 driving CD Projekt best Q3 ever.  Q3 rev $54M",
-          "url": "https://www.gamedeveloper.com/business/-i-cyberpunk-2077-i-drove-cd-projekt-to-its-best-q3-ever",
-          "title": "Cyberpunk 2077 drove CD Projekt to its best Q3 ever",
-          "description": "In its third quarter financial results, CD Projekt reported that the resurgence of Cyberpunk 2077 led the charge for the best profits in company history.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltc207d703f8a93553/63177e6185cf2f4e70777a6e/femv.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/business/-i-cyberpunk-2077-i-drove-cd-projekt-to-its-best-q3-ever"
         }
       ]
     },
@@ -68,43 +53,23 @@
       "articles": [
         {
           "caption": "A look at the future of UGC",
-          "url": "https://www.youtube.com/watch?v=3_pxZvvR6vk&ab_channel=Naavik",
-          "title": "Future of UGC (and does it need the blockchain?) - The Metacast by Naavik",
-          "description": "“UGC Gaming is Gaming 3.0” says Uri Marchand, CEO and co-founder of Overwolf, a software platform that powers one of the biggest modding communities in the w...",
-          "image": "https://i.ytimg.com/vi/3_pxZvvR6vk/maxresdefault.jpg",
-          "source": "YouTube"
+          "url": "https://www.youtube.com/watch?v=3_pxZvvR6vk&ab_channel=Naavik"
         },
         {
           "caption": "A look at Video games & the fractalization of attention",
-          "url": "https://newsletter.gamediscover.co/p/video-games-and-the-fractalization",
-          "title": "Video games & the fractalization of attention",
-          "description": "Also: the latest Xbox Activision shenanigans, & lots more news.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd77783-e809-47c6-a384-da87b1f22a28_800x420.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/video-games-and-the-fractalization"
         },
         {
           "caption": "A look at how generative AI could create assets for metaverse",
-          "url": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-          "title": "How generative AI could create assets for the metaverse | Jensen Huang",
-          "description": "Jensen Huang, CEO of Nvidia, believes that generative AI will help make the metaverse happen by allowing developers to test virtually.",
-          "image": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/"
         },
         {
           "caption": "A look at what are cozy games",
-          "url": "https://www.gamesindustry.biz/what-makes-a-cozy-game-cozy",
-          "title": "What are cozy games, and what makes them cozy?",
-          "description": "Cozy games are nothing new, but their recent flourishing &ndash; and the increased desire of developers to broaden the …",
-          "image": "https://assets.reedpopcdn.com/animal-crossing-new-horizons-sunset.jpg/BROK/thumbnail/1200x630/animal-crossing-new-horizons-sunset.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/what-makes-a-cozy-game-cozy"
         },
         {
           "caption": "A look at why Marvel Snap became a hit",
-          "url": "https://www.deconstructoroffun.com/blog/2022/11/24/marvel-snap-the-one-deconstruction-to-rule-them-all",
-          "title": "Why Marvel Snap became a hit and for how long will it remain one? — Deconstructor of Fun",
-          "description": "Marvel Snap from the team behind Hearthstone is a hit game. But will it \nlast the test of time?",
-          "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/637fb245c9738519a59acc00/1669625113285/snap.jpeg?format=1500w",
-          "source": "Deconstructor of Fun"
+          "url": "https://www.deconstructoroffun.com/blog/2022/11/24/marvel-snap-the-one-deconstruction-to-rule-them-all"
         }
       ]
     },
@@ -113,11 +78,7 @@
       "articles": [
         {
           "caption": "A look at Solana Labs announcing they still have a lot of capital in social media & gaming fund",
-          "url": "https://www.theblock.co/post/190060/solanas-flagship-gaming-and-social-media-funds-have-been-only-partially-deployed",
-          "title": "Solana’s flagship gaming and social media funds have been only partially deployed",
-          "description": "At Breakpoint last year, Solana Labs announced two funds totalling $250 million. Yet only a small portion has actually been deployed.",
-          "image": "https://www.tbstat.com/wp/uploads/2022/08/20220804_Solana-3-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/190060/solanas-flagship-gaming-and-social-media-funds-have-been-only-partially-deployed"
         }
       ]
     },
@@ -126,11 +87,7 @@
       "articles": [
         {
           "caption": "A look at Game Metrics and why they matter",
-          "url": "https://kevurugames.com/blog/what-are-game-metrics-and-why-do-they-matter/",
-          "title": "What Are Game Metrics and Why Do They Matter? | Kevuru Games",
-          "description": "No matter how boring and dry the word metrics may sound, all self-respecting game developers need to reckon with them to understand what latent seething processes occur with the game after it has successfully hit the market and how to act so that it starts to make a profit. And here the question arises. What …",
-          "image": "https://kevurugames.com/kevuru.png",
-          "source": "Kevuru Games"
+          "url": "https://kevurugames.com/blog/what-are-game-metrics-and-why-do-they-matter/"
         }
       ]
     }

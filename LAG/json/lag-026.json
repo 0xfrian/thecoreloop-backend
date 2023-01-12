@@ -10,11 +10,7 @@
       "articles": [
         {
           "caption": "A look at GamesIndustry.biz's podcast on the fiscal year @GIBiz",
-          "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast",
-          "title": "A flat start to the fiscal year | Podcast",
-          "description": "The GamesIndustry.biz Podcast is back, with the team once again gathering around their mics to discuss the biggest stor…",
-          "image": "https://assets.reedpopcdn.com/cod-twitter.jpg/BROK/thumbnail/1200x630/cod-twitter.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast"
         }
       ]
     },
@@ -23,27 +19,15 @@
       "articles": [
         {
           "caption": "A look at the changing price of video games",
-          "url": "https://www.gamesindustry.biz/are-video-games-really-more-expensive",
-          "title": "Are video games really more expensive?",
-          "description": "In general, we like to think we know how much something is worth. The decision is based less on logic and more on emoti…",
-          "image": "https://assets.reedpopcdn.com/dollar-1443244_1920.jpg/BROK/thumbnail/1200x630/dollar-1443244_1920.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/are-video-games-really-more-expensive"
         },
         {
           "caption": "A look at Take-Two's earnings.  $1.1B in revenue",
-          "url": "https://www.gamedeveloper.com/business/take-two-delays-marvel-s-midnight-suns",
-          "title": "Take-Two delays Marvel's Midnight Suns",
-          "description": "Take-Two capped off its first quarter of fiscal year 2023 with the delay of Marvel's Midnight Suns and info about how its acquisition of Zynga is going.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt762341278ba47d8b/62f18178c628410f19be12c7/midnightsunsspidermanmakomorifeatured.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/business/take-two-delays-marvel-s-midnight-suns"
         },
         {
           "caption": "A look at GamesIndustry.biz's podcast on the fiscal year @GIBiz",
-          "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast",
-          "title": "A flat start to the fiscal year | Podcast",
-          "description": "The GamesIndustry.biz Podcast is back, with the team once again gathering around their mics to discuss the biggest stor…",
-          "image": "https://assets.reedpopcdn.com/cod-twitter.jpg/BROK/thumbnail/1200x630/cod-twitter.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast"
         }
       ]
     },
@@ -52,19 +36,11 @@
       "articles": [
         {
           "caption": "A look at how Nintendo could level up by @naavik_co",
-          "url": "https://naavik.co/digest/hardware-aside-how-nintendo-can-level-up",
-          "title": "How Nintendo Can Level Up — Naavik",
-          "description": "As many gaming companies are seeing, Activision also saw a major decline in \nnet bookings this quarter. We look into their underlying metrics and \nchallenges ahead.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/62ef6d8e010ae8217badfb2c/1659858322292/_8aPM_Do.png?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/hardware-aside-how-nintendo-can-level-up"
         },
         {
           "caption": "A look at the State of Anime Gaming 2022",
-          "url": "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": ""
+          "url": "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/"
         }
       ]
     },
@@ -73,27 +49,15 @@
       "articles": [
         {
           "caption": "A look at only 1% of Netflix users downloaded its game",
-          "url": "https://www.gamedeveloper.com/business/only-one-percent-of-netflix-users-have-downloaded-its-games",
-          "title": "Only one percent of Netflix users have downloaded its games",
-          "description": "According to a third-party analytics firm, Netflix's games have only been downloaded 23.3 million times by 1.7 million daily users since 2021.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltcf80de10ea394725/618172907875d162341b03b4/Netflix_Games.png",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/business/only-one-percent-of-netflix-users-have-downloaded-its-games"
         },
         {
           "caption": "A look at Unity & Microsoft announced Azure cloud partnership",
-          "url": "https://venturebeat.com/2022/08/08/unity-and-microsoft-announced-azure-cloud-partnership/",
-          "title": "Unity and Microsoft announced Azure cloud partnership",
-          "description": "Unity and Microsoft announced a new partnership that will benefit developers, and Unity is also making Azure its cloud solution.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/08/Unity-Microsoft.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/2022/08/08/unity-and-microsoft-announced-azure-cloud-partnership/"
         },
         {
           "caption": "A look at Konvoy's take on FTC's scrutiny of Supernatural @konvoyventures",
-          "url": "https://www.konvoy.vc/newsletter/ftc-scrutiny-of-supernatural-is-misguided",
-          "title": "FTC Scrutiny of Supernatural is Misguided",
-          "description": "The FTC’s scrutiny of Meta’s Within acquisition is inconsistent with the FTC’s track record we have seen within gaming",
-          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/62f120ad2ebe98558b8b34d7_unnamed.jpg",
-          "source": "www.konvoy.vc"
+          "url": "https://www.konvoy.vc/newsletter/ftc-scrutiny-of-supernatural-is-misguided"
         }
       ]
     },
@@ -102,35 +66,19 @@
       "articles": [
         {
           "caption": "A look at Webb intergrating web2 x web3",
-          "url": "https://twitter.com/webbemotional/status/1556231561879736321?s=28&t=mtqDSxcxL_j1eRy3BXzD2Q",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/webbemotional/status/1556231561879736321?s=28&t=mtqDSxcxL_j1eRy3BXzD2Q"
         },
         {
           "caption": "A look at @animoncabarnds' portfolio projects",
-          "url": "https://twitter.com/harry_forj/status/1556236503138947072?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/harry_forj/status/1556236503138947072?s=28&t=AtQh9aG0jgT9SZHCBI5w6A"
         },
         {
           "caption": "A look at @DecentralGames Q2 report by @messariCrypto",
-          "url": "https://twitter.com/messaricrypto/status/1556316429057769478?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/messaricrypto/status/1556316429057769478?s=28&t=AtQh9aG0jgT9SZHCBI5w6A"
         },
         {
           "caption": "A look at HyperLoot.  The CC0 wars.",
-          "url": "https://twitter.com/hyperloot_",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/hyperloot_"
         }
       ]
     },
@@ -139,11 +87,7 @@
       "articles": [
         {
           "caption": "A look at using influencers for your game",
-          "url": "https://www.gamedeveloper.com/blogs/avoiding-ineffective-or-scam-discovery-interactions-with-influencers",
-          "title": "Avoiding ineffective (or scam!) discovery interactions with influencer",
-          "description": "A surprisingly complex situation, explained.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt8bd4ced5dbd0b617/62f19c63ce6f4a0ee9e63871/brigadorfeatured.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/blogs/avoiding-ineffective-or-scam-discovery-interactions-with-influencers"
         }
       ]
     },
@@ -152,11 +96,7 @@
       "articles": [
         {
           "caption": "A look at a Tekken teaser(!!)",
-          "url": "https://www.gameinformer.com/2022/08/08/is-bandai-namco-teasing-the-next-tekken",
-          "title": "Is Bandai Namco Teasing The Next Tekken?",
-          "description": "The next King of Iron Fist tournament may be on the horizon.",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/08/08/803bcb98/tekken_kazuya_trailer_evo_2022.jpg",
-          "source": "Game Informer"
+          "url": "https://www.gameinformer.com/2022/08/08/is-bandai-namco-teasing-the-next-tekken"
         }
       ]
     }

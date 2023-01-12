@@ -6,15 +6,20 @@
   "date": "Wed Dec 07 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nHey everyone!  Since the year is almost over, I wanted to do an analysis of the most downloaded game in 2022, then compare that with the top 5 in the prior years.  Garena & Subway Surfers are in the top 5 all the way back until 2018.  If we expanded the the list to top 10, we see a few more new titles penetrating into the \"forever-franchise\" tier but getting to the top versus staying at the top are two very different things.  In 2015, Clash of Clans was 2nd on the list, then 8th, then 8th again then 26th, then not even the top 100 by 2019.  Keep in mind that Clash of Clans still received 3.5M downloads per month on avg in 2022.\n\nTop 5 2022\n1. Subway Surfers | 267M\n2. Garena | 248M\n3. Stumble Guys | 211M\n4. Roblox | 173M\n5. Candy Crush Saga | 157M\n\n-----------------------\n\nTop 5 2021\n1. Garena | 249M\n2. Subway Surfers | 187M\n3. Bridge race | 175M\n4. Roblox | 174M\n5. Ludo King 160M\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at mobile games market in 2022 by Data.AI and Deconstructor of Fun",
-          "url": "https://www.pocketgamer.biz/asia/special-report/80368/mobile-games-generate-15-billion-revenue-and-11-billion-downloads-every-week-in-2022/",
-          "title": "$1.5 billion revenue and 1.1 billion downloads weekly - how healthy is the mobile games market?",
-          "description": "The new data.ai and Deconstructor of Fun report - Mobile Gaming 2022 and Beyond: Defying Economic Headwinds reveals the year’s key trends",
-          "image": "https://media.pocketgamer.biz/2022/3/115582/dataailogo-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/special-report/80368/mobile-games-generate-15-billion-revenue-and-11-billion-downloads-every-week-in-2022/"
         }
       ]
     },
@@ -23,27 +28,15 @@
       "articles": [
         {
           "caption": "A look at Microsoft reaching 10-year deal with Nintendo for CoD",
-          "url": "https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement",
-          "title": "Microsoft reaches 10-year deal with Nintendo for Call of Duty",
-          "description": "Microsoft is putting the pressure on Sony to accept a 10-year Call of Duty deal. Nintendo has agreed a deal to bring Call of Duty to Nintendo consoles for the first time, providing Microsoft’s Activision Blizzard acquisition closes.",
-          "image": "https://cdn.vox-cdn.com/thumbor/GalKF0fR2wjfO31X1lrEiIQFVtA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg",
-          "source": "The Verge"
+          "url": "https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement"
         },
         {
           "caption": "A look at Game of the Year nominees",
-          "url": "https://streamhatchet.com/2022/12/07/blog-game-of-the-year-nominees-live-streaming-performance-2022/",
-          "title": "Game of the Year Nominees: Live Streaming Performance",
-          "description": "Will Elden Ring, the Game of the Year nominee with the highest first-week live streaming viewership, take home this year's award?",
-          "image": "https://streamhatchet.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-07-at-3.29.08-PM.png",
-          "source": "Stream Hatchet"
+          "url": "https://streamhatchet.com/2022/12/07/blog-game-of-the-year-nominees-live-streaming-performance-2022/"
         },
         {
           "caption": "A look at mobile games market in 2022 by Data.AI and Deconstructor of Fun",
-          "url": "https://www.pocketgamer.biz/asia/special-report/80368/mobile-games-generate-15-billion-revenue-and-11-billion-downloads-every-week-in-2022/",
-          "title": "$1.5 billion revenue and 1.1 billion downloads weekly - how healthy is the mobile games market?",
-          "description": "The new data.ai and Deconstructor of Fun report - Mobile Gaming 2022 and Beyond: Defying Economic Headwinds reveals the year’s key trends",
-          "image": "https://media.pocketgamer.biz/2022/3/115582/dataailogo-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/special-report/80368/mobile-games-generate-15-billion-revenue-and-11-billion-downloads-every-week-in-2022/"
         }
       ]
     },
@@ -52,11 +45,7 @@
       "articles": [
         {
           "caption": "A look at using generative AI for ad creatives by @eric_seufert",
-          "url": "https://mobiledevmemo.com/abandoning-intuition-using-generative-ai-for-advertising-creative/",
-          "title": "Abandoning intuition: using Generative AI for advertising creative | Mobile Dev Memo by Eric Seufert",
-          "description": "Abandoning intuition: using Generative AI for advertising creative. Mobile marketing and advertising, freemium monetization strategy, and marketing science.",
-          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/12/MDM_generative_AI_marketing_creative.jpg",
-          "source": "Mobile Dev Memo"
+          "url": "https://mobiledevmemo.com/abandoning-intuition-using-generative-ai-for-advertising-creative/"
         }
       ]
     },
@@ -65,19 +54,11 @@
       "articles": [
         {
           "caption": "A look at Xbox bringing gaming soundscapes to the Calm app for meditation & sleeping",
-          "url": "https://www.theverge.com/2022/12/7/23497994/xbox-calm-app-video-game-soundscape-sleeping-announcement",
-          "title": "Xbox and Calm have released gaming soundscapes for sleeping",
-          "description": "Microsoft has announced a partnership between Xbox and Calm, a popular sleep, meditation, and relaxation app, that will bring video game-themed soundscapes to the Calm app for the first time. ",
-          "image": "https://cdn.vox-cdn.com/thumbor/vtlLq_cmJ5Qq4LB4oo9_8078Tl4=/0x0:1772x1036/1200x628/filters:focal(886x518:887x519)/cdn.vox-cdn.com/uploads/chorus_asset/file/24272845/image__2_.png",
-          "source": "The Verge"
+          "url": "https://www.theverge.com/2022/12/7/23497994/xbox-calm-app-video-game-soundscape-sleeping-announcement"
         },
         {
           "caption": "A look at the Microsoft 10-year CoD deal with Nintendo",
-          "url": "https://hitpoints.substack.com/p/165-annual-leave",
-          "title": "#165: Share button",
-          "description": "Offering Call Of Duty to Nintendo is a PR masterstroke that might tip the balance in the battle for Activision Blizzard, without really changing a thing.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb809ee9f-d15a-47ee-a5a7-f6ff31ece1ff_4000x2250.png",
-          "source": "hitpoints.substack.com"
+          "url": "https://hitpoints.substack.com/p/165-annual-leave"
         }
       ]
     },
@@ -86,27 +67,15 @@
       "articles": [
         {
           "caption": "A look at the best methods for forecasting game sales",
-          "url": "https://kitfoxgames.medium.com/how-many-copies-will-dwarf-fortress-sell-9f30180f45c8",
-          "title": "How Many Copies Will Dwarf Fortress Sell?",
-          "description": "This analysis was performed by a 3rd party economist, systemchalk, out of professional courtesy and curiosity. Kitfox hosts their analysis with permission in a spirit of knowledge-sharing and…",
-          "image": "https://miro.medium.com/max/727/1*KHmX8OueaKWgT6r90seckw.png",
-          "source": "Medium"
+          "url": "https://kitfoxgames.medium.com/how-many-copies-will-dwarf-fortress-sell-9f30180f45c8"
         },
         {
           "caption": "A look at the technical logistics of designing a diverse character creatory story",
-          "url": "https://www.gamedeveloper.com/art/how-to-make-a-diverse-character-creator",
-          "title": "How to make a diverse character creator: a Witchy Life Story interview",
-          "description": "There are multiple technical, social and practical considerations to make. Here's a look at how Sundew Studios did it.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt2c2346ed64e1f138/638faddc59bb8911853b592c/Snapshot_5.PNG",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/art/how-to-make-a-diverse-character-creator"
         },
         {
           "caption": "A look at humor in games",
-          "url": "https://www.gamesindustry.biz/humor-in-games-keeping-it-funny-when-going-global",
-          "title": "Humor in games: keeping it funny when going global",
-          "description": "Humor is a fundamental component of games. It's a great way to grab your players' attention and keep them hooked.Whethe…",
-          "image": "https://assets.reedpopcdn.com/Humor-Localization.-Alconost.png/BROK/thumbnail/1200x630/Humor-Localization.-Alconost.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/humor-in-games-keeping-it-funny-when-going-global"
         }
       ]
     },
@@ -115,11 +84,7 @@
       "articles": [
         {
           "caption": "A look at Ganker raising $4.25M",
-          "url": "https://venturebeat.com/games/gankster-funding-4-25m-esports-competitive-gaming-platform/",
-          "title": "Gankster raises $4.25M for comprehensive esports platform",
-          "description": "Gankster, an all-in-one esports and competitive gaming organizing platform, has raised $4.25M in seed funding.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/Founding-Team.jpeg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/gankster-funding-4-25m-esports-competitive-gaming-platform/"
         }
       ]
     },
@@ -128,11 +93,7 @@
       "articles": [
         {
           "caption": "A look at Genshin Impact hitting $4B in rev and PUBG Mobile hitting $9B",
-          "url": "https://www.pocketgamer.biz/news/80376/genshin-impact-makes-it-to-4-billion-revenue-as-pubg-mobile-reaches-9-billion/",
-          "title": "Genshin Impact makes it to $4 billion revenue as PUBG Mobile reaches $9 billion",
-          "description": "Genshin Impact has officially reached $4 billion in global revenue and PUBG Mobile has made $9 billion total.",
-          "image": "https://media.pocketgamer.biz/2022/12/119657/genshin-impact-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80376/genshin-impact-makes-it-to-4-billion-revenue-as-pubg-mobile-reaches-9-billion/"
         }
       ]
     }

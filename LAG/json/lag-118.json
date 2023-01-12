@@ -6,15 +6,20 @@
   "date": "Wed Dec 14 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nNo insights today frens!  Let's get straight to the news.\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at whether allowing 3rd-party app stores are good for discovery",
-          "url": "https://newsletter.gamediscover.co/p/third-party-app-stores-are-they-good",
-          "title": "Third-party app stores - are they good for discovery?",
-          "description": "As iOS potentially ramps up to allow alternatives, we take a detailed look.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1893b111-7352-4bde-8f44-d9fbf95a51b9_800x420.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/third-party-app-stores-are-they-good"
         }
       ]
     },
@@ -23,35 +28,19 @@
       "articles": [
         {
           "caption": "A look at Take-Two publishing label leadership discussing latest moves & strategies",
-          "url": "https://www.gamesindustry.biz/private-division-development-fund-reaffirms-labels-small-scale-push",
-          "title": "Private Division Development Fund reaffirms label's small-scale push",
-          "description": "Sign up for the GI Daily here to get the biggest news straight to your inboxThese are busy days at Private Division. Th…",
-          "image": "https://assets.reedpopcdn.com/PD-5th.png/BROK/thumbnail/1200x630/PD-5th.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/private-division-development-fund-reaffirms-labels-small-scale-push"
         },
         {
           "caption": "A look at the 2022 Esports Trounaments in Asia-10 Region by @nikopartners",
-          "url": "https://nikopartners.com/pubg-leads-the-way-in-esports/",
-          "title": "PUBG leads the way in esports for Asia-10",
-          "description": "According to our Esports Tracker, the PUBG IP led the way in esports for the Asia-10 region in 2022. 22.2% of all esports tournaments held in the Asia-10 region featured either PUBG Mobile, PUBG, or Battlegrounds Mobile India (BGMI) as one of their tournament games, which constitute 3 of the 10 most played games",
-          "image": "https://nikopartners.com/wp-content/uploads/2022/12/Niko_infographic-esports-games-used-in-tournaments-2022-scaled.jpg",
-          "source": "Niko"
+          "url": "https://nikopartners.com/pubg-leads-the-way-in-esports/"
         },
         {
           "caption": "A look at some reflection on 2022 and the Macro Headwinds",
-          "url": "https://naavik.co/digest/reflecting-on-2022-macro-headwinds",
-          "title": "Reflecting On 2022’s Macro Headwinds — Naavik",
-          "description": "There were so many developments in the games industry this past week, but a \nfew macro headwinds in particular are worth reflecting on. We take a \nholistic market approach in this review, and also tease our latest game \ndeconstruction of Puzzles & Survival.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63999aaa6622383948012600/1671010988967/Kvmvo-9U.jpeg?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/reflecting-on-2022-macro-headwinds"
         },
         {
           "caption": "A look at the top gaming genres in livestreaming in 2022",
-          "url": "https://streamhatchet.com/2022/12/13/top-gaming-genres-in-livestreaming-2022/",
-          "title": "Top Gaming Genres In Livestreaming 2022",
-          "description": "While Just Chatting tends to dominate among all categories on Twitch, for all genre's combined First Person Shooters take the top spot",
-          "image": "https://streamhatchet.com/wp-content/uploads/2022/12/SOCIAL-43.png",
-          "source": "Stream Hatchet"
+          "url": "https://streamhatchet.com/2022/12/13/top-gaming-genres-in-livestreaming-2022/"
         }
       ]
     },
@@ -60,27 +49,15 @@
       "articles": [
         {
           "caption": "A look at whether allowing 3rd-party app stores are good for discovery",
-          "url": "https://newsletter.gamediscover.co/p/third-party-app-stores-are-they-good",
-          "title": "Third-party app stores - are they good for discovery?",
-          "description": "As iOS potentially ramps up to allow alternatives, we take a detailed look.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1893b111-7352-4bde-8f44-d9fbf95a51b9_800x420.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/third-party-app-stores-are-they-good"
         },
         {
           "caption": "A look at Voodoo announcing a new mobile publishing business model",
-          "url": "https://www.gamesindustry.biz/voodoo-announces-new-mobile-publishing-business-model",
-          "title": "Voodoo announces new mobile publishing business model",
-          "description": "Voodoo has announced a new casual and midcore publishing model for mobile and developers. As reported by PocketGamer.bi…",
-          "image": "https://assets.reedpopcdn.com/illu-hyper-casual-3.png/BROK/thumbnail/1200x630/illu-hyper-casual-3.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/voodoo-announces-new-mobile-publishing-business-model"
         },
         {
           "caption": "A look at the history of privacy legislation by @eric_seufert",
-          "url": "https://mobiledevmemo.com/a-brief-history-of-privacy-legislation/",
-          "title": "A brief history of privacy legislation | Mobile Dev Memo by Eric Seufert",
-          "description": "A brief history of privacy legislation. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
-          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/12/mdm-brief-history-of-digital-privacy-legislation.jpg",
-          "source": "Mobile Dev Memo"
+          "url": "https://mobiledevmemo.com/a-brief-history-of-privacy-legislation/"
         }
       ]
     },
@@ -89,11 +66,7 @@
       "articles": [
         {
           "caption": "A look at Utomik cloud gaming service now available on Android devices",
-          "url": "https://venturebeat.com/games/utomik-cloud-gaming-now-available-on-android-devices/",
-          "title": "Utomik cloud gaming now available on Android devices",
-          "description": "Utomik said its cloud gaming service is now available on Android devices, making Utomik cloud games more accessible to players.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/utomik-android.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/utomik-cloud-gaming-now-available-on-android-devices/"
         }
       ]
     },
@@ -102,35 +75,19 @@
       "articles": [
         {
           "caption": "A look at the Player Types in Web3 by Nami",
-          "url": "https://blog.nami.gg/p/understanding-player-types-and-motivations?sd=pf",
-          "title": "Understanding Player Types & Motivations in Web3 Gaming",
-          "description": "Novel player types have emerged through open economies in web3 gaming. Understanding their motivations & impact through analytics will be crucial for successful developers.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf6892a3-63b8-4602-809a-95831f85dcc6_1600x836.png",
-          "source": "blog.nami.gg"
+          "url": "https://blog.nami.gg/p/understanding-player-types-and-motivations?sd=pf"
         },
         {
           "caption": "A look at the NFT Market Review of 2022",
-          "url": "https://www.theblockresearch.com/nft-market-review-2022-194009",
-          "title": "NFT Market Review 2022",
-          "description": "In 2022, the NFT market ran the gamut of emotions, swinging frantically from irrational exuberance to the depths of despair in the span of a few feverish",
-          "image": "https://www.tbstat.com/wp/uploads/2022/12/NFT_Text-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblockresearch.com/nft-market-review-2022-194009"
         },
         {
           "caption": "A look at FirstLight (Blast Royale devs) figuring out blockchain games",
-          "url": "https://mobilegamer.biz/first-light-is-figuring-out-blockchain-games-on-the-fly-with-blast-royale/",
-          "title": "First Light is figuring out blockchain games on the fly with Blast Royale - Mobilegamer.biz",
-          "description": "Co-CEOs Neil McFarland and Anil Das-Gupta have a refreshing perspective on making blockchain games.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2022/12/First-Light-.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/first-light-is-figuring-out-blockchain-games-on-the-fly-with-blast-royale/"
         },
         {
           "caption": "A look at Tiny Digital Factory launching Aston Martin NFTs",
-          "url": "https://venturebeat.com/games/the-tiny-digital-factory-launches-aston-martin-nfts-for-infinite-drive-racing/",
-          "title": "The Tiny Digital Factory launches Aston Martin NFTs for Infinite Drive Racing",
-          "description": "The Tiny Digital Factory has teamed up with luxury sports car brand Aston Martin on a blockchain game Infinite Drive Racing.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/aston-martin.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/the-tiny-digital-factory-launches-aston-martin-nfts-for-infinite-drive-racing/"
         }
       ]
     },
@@ -139,19 +96,11 @@
       "articles": [
         {
           "caption": "A look at Jarvi Games raising $3M",
-          "url": "https://www.gamesindustry.biz/jarvi-games-raises-3m-in-a-seed-funding-round",
-          "title": "Jarvi Games raises $3m in a seed funding round",
-          "description": "Jarvi Games announced that it has raised $3 million in a seed series funding round. The investment round was led by Pla…",
-          "image": "https://assets.reedpopcdn.com/VO-online.png/BROK/thumbnail/1200x630/VO-online.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/jarvi-games-raises-3m-in-a-seed-funding-round"
         },
         {
           "caption": "A look at Spaceport raising $3.6M",
-          "url": "https://venturebeat.com/games/spaceport-raises-3-6m-for-web3-licensing-protocol/",
-          "title": "Spaceport raises $3.6M for Web3 licensing protocol",
-          "description": "Spaceport has raised $3.6 million for its Web3 licensing protocol that allows seamless monetization of intellectual property.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/spaceport-sp_cover_explore.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/spaceport-raises-3-6m-for-web3-licensing-protocol/"
         }
       ]
     }

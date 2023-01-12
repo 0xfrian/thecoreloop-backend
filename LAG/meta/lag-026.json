@@ -11,7 +11,7 @@
         {
           "caption": "A look at GamesIndustry.biz's podcast on the fiscal year @GIBiz",
           "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast",
-          "title": "A flat start to the fiscal year | Podcast",
+          "title": "A flat start to the fiscal year | Podcast | GamesIndustry.biz",
           "description": "The GamesIndustry.biz Podcast is back, with the team once again gathering around their mics to discuss the biggest stor…",
           "image": "https://assets.reedpopcdn.com/cod-twitter.jpg/BROK/thumbnail/1200x630/cod-twitter.jpg",
           "source": "GamesIndustry.biz"
@@ -24,7 +24,7 @@
         {
           "caption": "A look at the changing price of video games",
           "url": "https://www.gamesindustry.biz/are-video-games-really-more-expensive",
-          "title": "Are video games really more expensive?",
+          "title": "Are video games really more expensive? | GamesIndustry.biz",
           "description": "In general, we like to think we know how much something is worth. The decision is based less on logic and more on emoti…",
           "image": "https://assets.reedpopcdn.com/dollar-1443244_1920.jpg/BROK/thumbnail/1200x630/dollar-1443244_1920.jpg",
           "source": "GamesIndustry.biz"
@@ -40,7 +40,7 @@
         {
           "caption": "A look at GamesIndustry.biz's podcast on the fiscal year @GIBiz",
           "url": "https://www.gamesindustry.biz/a-thorny-start-to-the-fiscal-year-podcast",
-          "title": "A flat start to the fiscal year | Podcast",
+          "title": "A flat start to the fiscal year | Podcast | GamesIndustry.biz",
           "description": "The GamesIndustry.biz Podcast is back, with the team once again gathering around their mics to discuss the biggest stor…",
           "image": "https://assets.reedpopcdn.com/cod-twitter.jpg/BROK/thumbnail/1200x630/cod-twitter.jpg",
           "source": "GamesIndustry.biz"
@@ -54,17 +54,13 @@
           "caption": "A look at how Nintendo could level up by @naavik_co",
           "url": "https://naavik.co/digest/hardware-aside-how-nintendo-can-level-up",
           "title": "How Nintendo Can Level Up — Naavik",
-          "description": "As many gaming companies are seeing, Activision also saw a major decline in \nnet bookings this quarter. We look into their underlying metrics and \nchallenges ahead.",
+          "description": "As many gaming companies are seeing, Activision also saw a major decline in \r\nnet bookings this quarter. We look into their underlying metrics and \r\nchallenges ahead.",
           "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/62ef6d8e010ae8217badfb2c/1659858322292/_8aPM_Do.png?format=1500w",
           "source": "Naavik"
         },
         {
           "caption": "A look at the State of Anime Gaming 2022",
-          "url": "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": ""
+          "url": "https://www.data.ai/en/go/the-state-of-anime-gaming-2022/"
         }
       ]
     },
@@ -82,7 +78,7 @@
         {
           "caption": "A look at Unity & Microsoft announced Azure cloud partnership",
           "url": "https://venturebeat.com/2022/08/08/unity-and-microsoft-announced-azure-cloud-partnership/",
-          "title": "Unity and Microsoft announced Azure cloud partnership",
+          "title": "Unity and Microsoft announced Azure cloud partnership | VentureBeat",
           "description": "Unity and Microsoft announced a new partnership that will benefit developers, and Unity is also making Azure its cloud solution.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/08/Unity-Microsoft.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -103,34 +99,34 @@
         {
           "caption": "A look at Webb intergrating web2 x web3",
           "url": "https://twitter.com/webbemotional/status/1556231561879736321?s=28&t=mtqDSxcxL_j1eRy3BXzD2Q",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "title": "Thomas Webb on Twitter",
+          "description": "“This is something we've been working very hard on.\n\nGiving apartments the power to connect to web2, and web3 apps.\n\nApartment owners can play youtube videos inside their apartments and sync playtime with every other visitor. Allowing for live, synchronised video/audio events.”",
+          "image": "https://pbs.twimg.com/ext_tw_video_thumb/1556230904380522498/pu/img/LRMzKlQwZQxeEcFS.jpg:large",
+          "source": "webbemotional"
         },
         {
           "caption": "A look at @animoncabarnds' portfolio projects",
           "url": "https://twitter.com/harry_forj/status/1556236503138947072?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "title": "Harry Liu @ Forj on Twitter",
+          "description": "“July update on metaverse development from @animocabrands' portfolio projects 🧵”",
+          "image": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png",
+          "source": "harry_forj"
         },
         {
           "caption": "A look at @DecentralGames Q2 report by @messariCrypto",
           "url": "https://twitter.com/messaricrypto/status/1556316429057769478?s=28&t=AtQh9aG0jgT9SZHCBI5w6A",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "title": "Messari on Twitter",
+          "description": "“1/ This report dives deep into @DecentralGames' Q2 presenting a performance analysis, qualitative analysis, and @DecentralGames' roadmap moving forward.\n\nLet’s explore the State of @DecentralGames' Q2 2022 in this report from @NardisNarrative. 🧵”",
+          "image": "https://pbs.twimg.com/media/FZkiNkBXoAEaoJG.jpg:large",
+          "source": "messaricrypto"
         },
         {
           "caption": "A look at HyperLoot.  The CC0 wars.",
           "url": "https://twitter.com/hyperloot_",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "title": "HyperLoot (@hyperloot_) / Twitter",
+          "description": "CC0 character as 2nd-layer visual building block on top of @lootproject. CC0 Wars game is coming.\n\nApps: https://t.co/X3GiTc5n1e\nDiscord: https://t.co/B0CB9mAyXX",
+          "image": "https://pbs.twimg.com/profile_images/1534142516651786241/RGWSonNj_normal.jpg",
+          "source": "https://twitter.com/"
         }
       ]
     },
@@ -153,7 +149,7 @@
         {
           "caption": "A look at a Tekken teaser(!!)",
           "url": "https://www.gameinformer.com/2022/08/08/is-bandai-namco-teasing-the-next-tekken",
-          "title": "Is Bandai Namco Teasing The Next Tekken?",
+          "title": "Is Bandai Namco Teasing The Next Tekken? - Game Informer",
           "description": "The next King of Iron Fist tournament may be on the horizon.",
           "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/08/08/803bcb98/tekken_kazuya_trailer_evo_2022.jpg",
           "source": "Game Informer"

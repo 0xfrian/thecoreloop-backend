@@ -6,15 +6,20 @@
   "date": "Tue Nov 15 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nWe all know South Korea is one of the most gaming-forward nation in the world — and they're living up to that reputation as we recently saw NCSoft partnering with Sui and today Npixel is collaborating with Aptos.  So I wanted to dig into the Korean publisher market to see whats going on.  The top 5 publishers are NCSoft, 37Games, Netmarble, Kakao Games Corp., and Com2uS.  In total for 2022, they generated $3.06B with 122M downloads.  Comparing these figures to yesterday's Finnish publishers, we see that SK publishers know how to crank up that monetization or more likely SK gamers are wiling to simply spend more.\n\nMy Dashboard:\nhttps://appmagic.rocks/dashboards/63744e545122a??promoCode=6373c4af4d57f\n\n(First Come, First Served.  The dashboard is available for the first few users.  Make sure you turn NOTIF on if you missed this one).\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at the 2022 Revenues. Global rev $184B = $92B Mobile + $52B Console + $40B PC",
-          "url": "https://www.axios.com/2022/11/15/global-video-game-market-decline-2022",
-          "title": "Report: Global video game revenue shrinks in 2022, snapping growth streak",
-          "description": "More players than ever, but less money was spent.",
-          "image": "https://images.axios.com/bx0waidKwU1VbcxShoZCj31-BKc=/0x109:4911x2871/1366x768/2022/11/15/1668531951880.jpg",
-          "source": "Axios"
+          "url": "https://www.axios.com/2022/11/15/global-video-game-market-decline-2022"
         }
       ]
     },
@@ -23,27 +28,15 @@
       "articles": [
         {
           "caption": "A look at the 2022 Revenues. Global rev $184B = $92B Mobile + $52B Console + $40B PC",
-          "url": "https://www.axios.com/2022/11/15/global-video-game-market-decline-2022",
-          "title": "Report: Global video game revenue shrinks in 2022, snapping growth streak",
-          "description": "More players than ever, but less money was spent.",
-          "image": "https://images.axios.com/bx0waidKwU1VbcxShoZCj31-BKc=/0x109:4911x2871/1366x768/2022/11/15/1668531951880.jpg",
-          "source": "Axios"
+          "url": "https://www.axios.com/2022/11/15/global-video-game-market-decline-2022"
         },
         {
           "caption": "A look at the Global Cloud Gaming 2022 report by @newzoohq",
-          "url": "https://newzoo.com/insights/trend-reports/newzoo-global-cloud-gaming-report-2022-free-version",
-          "title": "Newzoo 2022 Free Global Cloud Gaming Report | Download Here",
-          "description": "Download our 2022 cloud gaming report, which includes the latest cloud gaming market sizing and forecasts, ecosystem diagram, and more.",
-          "image": "https://newzoo.com/wp-content/uploads/2022/10/mockup-01-1.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/trend-reports/newzoo-global-cloud-gaming-report-2022-free-version"
         },
         {
           "caption": "A look at Thunderful Q3 rev down 5% and profits down 76%",
-          "url": "https://www.gamesindustry.biz/thunderful-q3-revenues-down-5-profits-down-76",
-          "title": "Thunderful Q3 revenues down 5%, profits down 76%",
-          "description": "Thunderful has released its financial results for the three months ended September 30, 2022, which show a decline in bo…",
-          "image": "https://assets.reedpopcdn.com/thunderful_background.jpg/BROK/thumbnail/1200x630/thunderful_background.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/thunderful-q3-revenues-down-5-profits-down-76"
         }
       ]
     },
@@ -52,35 +45,19 @@
       "articles": [
         {
           "caption": "A look at Mobalytics + Overwolf joining forces",
-          "url": "https://venturebeat.com/games/mobalytics-and-overwolf-join-forces-to-expand-competitive-features/",
-          "title": "Mobalytics and Overwolf join forces to expand competitive features",
-          "description": "Mobalytics, a leading in-game coaching tool, will soon be available through Overwolf's all-in-one content discovery platform.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/Overwolf-X-Mobalytics.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/mobalytics-and-overwolf-join-forces-to-expand-competitive-features/"
         },
         {
           "caption": "A look at Epic Games launching Unreal Engine 5.1",
-          "url": "https://venturebeat.com/games/epic-games-launches-unreal-engine-5-1/",
-          "title": "Epic Games launches Unreal Engine 5.1",
-          "description": "Epic Games is releasing Unreal Engine 5.1 today as an update to the game engine that it hopes will be used to build the metaverse.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/epic-lumen.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/epic-games-launches-unreal-engine-5-1/"
         },
         {
           "caption": "A look at Challengermode + PUBG partnering to fund amateur esports tournaments",
-          "url": "https://www.pocketgamer.biz/news/80182/challengermode-and-pubg-partner-to-fund-amateur-esports-tournaments/",
-          "title": "Challengermode and PUBG partner to fund amateur esports tournaments",
-          "description": "PUBG Mobile, the smash-hit battle royale game and Challengermode, esports infrastructure specialists, have today announced their partnership. Their collabora...",
-          "image": "https://media.pocketgamer.biz/2022/5/116585/pubg-mobile-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80182/challengermode-and-pubg-partner-to-fund-amateur-esports-tournaments/"
         },
         {
           "caption": "A look at Red Wing Shoes creating a Builders Program for builders to build virtual homes in Roblox, then building them IRL",
-          "url": "https://venturebeat.com/games/red-wing-shoes-tries-to-get-more-kids-to-design-virtual-homes-in-roblox-that-can-eventually-become-real-homes/",
-          "title": "Red Wing Shoes wants virtual homes designed in Roblox to become real homes",
-          "description": "Red Wing Shoes created the Builders Exchange Program so people can design \"tiny houses\" in the virtual world that could become actual homes.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/red-wing-2.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/red-wing-shoes-tries-to-get-more-kids-to-design-virtual-homes-in-roblox-that-can-eventually-become-real-homes/"
         }
       ]
     },
@@ -89,43 +66,23 @@
       "articles": [
         {
           "caption": "A look at gaming tokens in the Solana ecosystem",
-          "url": "https://twitter.com/crypto/status/1592388785647816705",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/crypto/status/1592388785647816705"
         },
         {
           "caption": "A look at Sony filing patent for NFT & blockchain tech",
-          "url": "https://www.gamedeveloper.com/console/sony-files-patent-for-nfts-and-blockchain-technology",
-          "title": "Sony files new patent focused on blockchain technology",
-          "description": "Sony has filed a recent patent focused on digital assets and blockchain technology, indicating that it may incorporate NFTs in the future.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt4c68501b5f3c7bc8/619d232e92eebd45ecab7d21/playstationlogofeatured.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/console/sony-files-patent-for-nfts-and-blockchain-technology"
         },
         {
           "caption": "A look at Aptos partnering with Npixel (South Korean game studio)",
-          "url": "https://venturebeat.com/games/aptos-partners-with-south-koreas-npixel-on-web3-gaming/",
-          "title": "Aptos partners with South Korea’s Npixel on Web3 gaming",
-          "description": "Aptos, a Layer 1 blockchain, will partner with South Korean gaming studio Npixel to bring Web3 tech to its gaming initiatives platform.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/npixel-ChronoOdyssey_01.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/aptos-partners-with-south-koreas-npixel-on-web3-gaming/"
         },
         {
           "caption": "A look at how to choose a blockchain with @naavikco",
-          "url": "https://www.youtube.com/watch?v=laHgZnfH7kg&ab_channel=Naavik",
-          "title": "How to Choose a Blockchain + FTX!? - The Metacast By Naavik",
-          "description": "Should you build your game on Solana or Polygon? L1, L2, or sidechain? What are the technical, financial, ideological, and game design frameworks a web3 deve...",
-          "image": "https://i.ytimg.com/vi/laHgZnfH7kg/maxresdefault.jpg",
-          "source": "YouTube"
+          "url": "https://www.youtube.com/watch?v=laHgZnfH7kg&ab_channel=Naavik"
         },
         {
           "caption": "A look at Polycade teaming up with Atari to launch web3 games + art",
-          "url": "https://venturebeat.com/games/polycade-teams-up-with-atari-to-launch-web3-games-and-art-collaboration/",
-          "title": "Polycade teams up with Atari to launch Web3 games and art collaboration",
-          "description": "Polycade has made a new kind of arcade machine you can hang on a wall and it has teamed up with Atari to launch a Web3 art collaboration dubbed Polycade Limiteds. Portland, Oregon-based Polycade is creating a cultural crossover collaboration between video games and art, orchestrated by Web3. The collaboration will have prominent contemporary artists […]",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/polycade-3.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/polycade-teams-up-with-atari-to-launch-web3-games-and-art-collaboration/"
         }
       ]
     },
@@ -134,11 +91,7 @@
       "articles": [
         {
           "caption": "A look at the importance of player feedback from Candy Crush GM",
-          "url": "https://www.pocketgamer.biz/interview/80186/todd-green-gm-of-candy-crush-at-king-on-the-importance-of-player-feedback-to-candy-crushs-decade-long-success/",
-          "title": "Todd Green, GM of Candy Crush at King, on the importance of player feedback to the game's decade long success",
-          "description": "\"We’ll have no shortage of good ideas from inside the team but also outside the team from millions of players.\"",
-          "image": "https://media.pocketgamer.biz/2022/11/119324/todd-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/interview/80186/todd-green-gm-of-candy-crush-at-king-on-the-importance-of-player-feedback-to-candy-crushs-decade-long-success/"
         }
       ]
     },
@@ -147,27 +100,15 @@
       "articles": [
         {
           "caption": "A look at Noodle Cat raising $4.1M",
-          "url": "https://www.gamesindustry.biz/ex-epic-devs-raise-41m-for-new-studio-noodle-cat",
-          "title": "Ex-Epic devs raise $4.1m for new studio Noodle Cat",
-          "description": "Noodle Cat Games today announced that it has raised $4.1 million in seed funding as it attempts to build a studio aroun…",
-          "image": "https://assets.reedpopcdn.com/noodlecat.jpg/BROK/thumbnail/1200x630/noodlecat.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/ex-epic-devs-raise-41m-for-new-studio-noodle-cat"
         },
         {
           "caption": "A look at PlayEmber raising $2.3M",
-          "url": "https://www.theblock.co/post/187055/shima-capital-backs-playembers-2-3-million-raise",
-          "title": "Shima Capital backs PlayEmber's $2.3 million raise",
-          "description": "Web3 gaming monetization platform PlayEmber raised $2.3 million from Shima Capital, Big Brain Holdings, Warburg Serres and Huobi Ventures.",
-          "image": "https://www.tbstat.com/wp/uploads/2022/06/20220622_Gaming_GenericCrop-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/187055/shima-capital-backs-playembers-2-3-million-raise"
         },
         {
           "caption": "A look at Yahaha raising $40M",
-          "url": "https://mobilegamer.biz/new-metacore-games-incoming-as-merge-mansion-hits-135m-revenue-30m-installs/",
-          "title": "New Metacore games incoming as Merge Mansion hits $135m revenue, 30m installs - Mobilegamer.biz",
-          "description": "CEO and cofounder Mika Tammenkoski says new casual and midcore games are coming as Metacore builds its portfolio.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2022/11/Metacore-merge-mansion.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/new-metacore-games-incoming-as-merge-mansion-hits-135m-revenue-30m-installs/"
         }
       ]
     },
@@ -176,11 +117,7 @@
       "articles": [
         {
           "caption": "A look at Merge Mansion hitting $135M rev with 30M installs",
-          "url": "https://mobilegamer.biz/new-metacore-games-incoming-as-merge-mansion-hits-135m-revenue-30m-installs/",
-          "title": "New Metacore games incoming as Merge Mansion hits $135m revenue, 30m installs - Mobilegamer.biz",
-          "description": "CEO and cofounder Mika Tammenkoski says new casual and midcore games are coming as Metacore builds its portfolio.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2022/11/Metacore-merge-mansion.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/new-metacore-games-incoming-as-merge-mansion-hits-135m-revenue-30m-installs/"
         }
       ]
     }

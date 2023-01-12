@@ -6,15 +6,20 @@
   "date": "Wed Nov 09 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nDid you know that Roblox mobile app is available in 60 countries and the US is only 22% of the downloads (174M) but the US accounts for 59% of the revenues ($2B).  The revenue per download in the US is $11 vs. $4 globally.\n\nRoblox mobile’s global lifetime rev is $3.3B and downloads are $800M.  The power of UGC.\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at Roblox revenue up 2% but quarterly losses hit $300M",
-          "url": "https://www.gamesindustry.biz/roblox-revenue-up-2-as-quarterly-losses-hit-300-million",
-          "title": "Roblox revenue up 2% as quarterly losses hit $300 million",
-          "description": "Roblox today reported its earnings for the three months ended September 30, and the company continued to show signs of …",
-          "image": "https://assets.reedpopcdn.com/roblox-codes-main-promo-image.jpg/BROK/thumbnail/1200x630/roblox-codes-main-promo-image.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/roblox-revenue-up-2-as-quarterly-losses-hit-300-million"
         }
       ]
     },
@@ -23,43 +28,23 @@
       "articles": [
         {
           "caption": "A look at Chinese regulations on the gaming market in China",
-          "url": "https://newzoo.com/insights/articles/how-chinese-games-regulations-are-disrupting-the-games-market-inside-china-and-out",
-          "title": "How Chinese Regulations Are Disrupting the Games Market Inside China and Out | Newzoo",
-          "description": "This article features high-level insights from our new report on China’s games market regulations. Read more and get the free report here.",
-          "image": "https://newzoo.com/wp-content/uploads/2022/11/feat.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/how-chinese-games-regulations-are-disrupting-the-games-market-inside-china-and-out"
         },
         {
           "caption": "A look at FTX's downfall and its effect on esports & gaming",
-          "url": "https://venturebeat.com/games/ftx-binance-acquisition-gaming-esports-sponsorship-implications/",
-          "title": "Binance to acquire FTX: implications for games and esports",
-          "description": "Binance plans to acquire rival FTX. Both cryptocurrency exchanges have invested into gaming and esports, but what will the consequences be?",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/TSM-FTX.jpeg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/ftx-binance-acquisition-gaming-esports-sponsorship-implications/"
         },
         {
           "caption": "A look at Nexon revenue jumping 28% YoY",
-          "url": "https://www.gamesindustry.biz/nexon-revenues-jump-28-year-over-year",
-          "title": "Nexon revenues jump 28% year-over-year",
-          "description": "Nexon today reported its results for the third quarter (three months ended September 30), and the publisher saw revenue…",
-          "image": "https://assets.reedpopcdn.com/nexonq3.jpg/BROK/thumbnail/1200x630/nexonq3.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/nexon-revenues-jump-28-year-over-year"
         },
         {
           "caption": "A look at Roblox revenue up 2% but quarterly losses hit $300M",
-          "url": "https://www.gamesindustry.biz/roblox-revenue-up-2-as-quarterly-losses-hit-300-million",
-          "title": "Roblox revenue up 2% as quarterly losses hit $300 million",
-          "description": "Roblox today reported its earnings for the three months ended September 30, and the company continued to show signs of …",
-          "image": "https://assets.reedpopcdn.com/roblox-codes-main-promo-image.jpg/BROK/thumbnail/1200x630/roblox-codes-main-promo-image.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/roblox-revenue-up-2-as-quarterly-losses-hit-300-million"
         },
         {
           "caption": "A look at Take-Two underperforming in Mobile",
-          "url": "https://naavik.co/digest/zynga-props-up-take-two-earnings",
-          "title": "Take-Two Underperforms in Mobile — Naavik",
-          "description": "Take-Two’s acquisition of Zynga seems to be playing out in terms of Net \nBookings numbers, propping up the company in the near-term. Can this halo \neffect last long term? We analyze the company’s latest earnings report and \ntease our latest mini game deconstruction series.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/636b70a082cf9825b9665e23/1667985572673/3QpMHi9A.jpeg?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/zynga-props-up-take-two-earnings"
         }
       ]
     },
@@ -68,27 +53,15 @@
       "articles": [
         {
           "caption": "A look at Sony developing Horizon MMO with NCSoft",
-          "url": "https://www.gamedeveloper.com/console/sony-reportedly-creating-i-horizon-i-mmo-with-ncsoft",
-          "title": "Sony and NCSoft reportedly co-developing Horizon Zero Dawn MMO",
-          "description": "A recent job listing from developer NCSoft indicates that it's working with Sony on creating an MMO for the Horizon franchise.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt5d1c7fca547e63b5/6266dedb8942a3570ebb51ae/horizonforbiddenwestnewfeatured.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/console/sony-reportedly-creating-i-horizon-i-mmo-with-ncsoft"
         },
         {
           "caption": "A look at @tocelot (GP of a16z Games) thread on TikTok as a platform",
-          "url": "https://twitter.com/Tocelot/status/1590387985073442816",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/Tocelot/status/1590387985073442816"
         },
         {
           "caption": "A look at Matthew Balls Nintendo Switch users age distro and game titles",
-          "url": "https://twitter.com/ballmatthew/status/1590361553462665216",
-          "title": "",
-          "description": "",
-          "image": "",
-          "source": "Twitter"
+          "url": "https://twitter.com/ballmatthew/status/1590361553462665216"
         }
       ]
     },
@@ -97,11 +70,7 @@
       "articles": [
         {
           "caption": "Anything World raising $7.5M",
-          "url": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-          "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
-          "description": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/anything-Environments_Forest_3_colour_full.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/"
         }
       ]
     }

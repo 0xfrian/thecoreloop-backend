@@ -6,15 +6,20 @@
   "date": "Wed Nov 23 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nNo insights today guys!  Spending the day with family!\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at Netflix making a triple-A PC game",
-          "url": "https://mobilegamer.biz/netflix-is-making-a-triple-a-pc-game-at-its-new-la-studio/",
-          "title": "Netflix is making a triple-A PC game at its new LA studio - Mobilegamer.biz",
-          "description": "Former Overwatch lead Chacko Sonny is likely to be leading the project, which is hiring folks with experience on first/third person shooters and live service games.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2022/11/Netflix-LA-2.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/netflix-is-making-a-triple-a-pc-game-at-its-new-la-studio/"
         }
       ]
     },
@@ -23,35 +28,19 @@
       "articles": [
         {
           "caption": "A look at Huuuge Games EBITDA up 38.7%.  Q3 rev $77.5M",
-          "url": "https://www.pocketgamer.biz/news/80262/huuuge-games-saw-a-157-percent-decrease-in-net-revenue-in-q3-while-adjusted-ebitda-rose-387-percent/",
-          "title": "Huuuge Games: EBITDA up 38.7% and ARPDAU up 15.7% as active players spend more",
-          "description": "Huuuge Games has released its latest financial report, delving into the company's performance over the third quarter of 2022.",
-          "image": "https://media.pocketgamer.biz/2022/11/119463/huuuge-games-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80262/huuuge-games-saw-a-157-percent-decrease-in-net-revenue-in-q3-while-adjusted-ebitda-rose-387-percent/"
         },
         {
           "caption": "A look at mobile advertisers",
-          "url": "https://www.pocketgamer.biz/news/80258/daily-active-users-and-downloads-both-saw-year-on-year-increases-in-q3-despite-a-downturn-in-the-market/",
-          "title": "Bucking the downturn: Q3 Daily Active Users and Downloads are both on the up",
-          "description": "SocialPeta have released a new report delving into advertising in various genres in Q3 2022, as well as the state of mobile game marketing over the quarter....",
-          "image": "https://media.pocketgamer.biz/2022/11/119454/socialpeta-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80258/daily-active-users-and-downloads-both-saw-year-on-year-increases-in-q3-despite-a-downturn-in-the-market/"
         },
         {
           "caption": "A look at the esports winter coming -- seek diversification",
-          "url": "https://venturebeat.com/games/esports-winter-is-coming-diversify-to-survive/",
-          "title": "The Esports Winter is coming. Diversify to survive",
-          "description": "At Gamesbeat Summit Next, FaZe's Erik Anderson, Gen.G's Arnold Hur, and Vindex's Ryan Fitzpatrick shared how they'll survive esports winter.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/lol-16-getty-riot-.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/esports-winter-is-coming-diversify-to-survive/"
         },
         {
           "caption": "A look at profitable earnings and painful breakup of Activision Blizzard and NetEase",
-          "url": "https://naavik.co/digest/profitable-earnings-painful-breakups",
-          "title": "Profitable Earnings, Painful Breakups — Naavik",
-          "description": "With Blizzard choosing not to renew their partnership with NetEase, the \ncompany’s earnings report wasn’t the only headline-making story this week. \nWe analyze NetEase’s strategy moving forward.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/637de812f233a3425801f2cf/1669195798473/5G5PQsxk.png?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/profitable-earnings-painful-breakups"
         }
       ]
     },
@@ -60,11 +49,7 @@
       "articles": [
         {
           "caption": "A look at what in-game advertising have on your studio",
-          "url": "https://www.pocketgamer.biz/asia/news/80261/what-impact-could-in-game-advertising-have-on-your-studio/",
-          "title": "What impact could in-game advertising have on your studio?",
-          "description": "Sign up now for a free webinar exploring the impact of in-game ads, featuring strategies and practical tips from industry experts including Anzu, Unity and Wildlife ",
-          "image": "https://media.pocketgamer.biz/2022/11/119464/anzu-in-game-ads-webinar-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/news/80261/what-impact-could-in-game-advertising-have-on-your-studio/"
         }
       ]
     },
@@ -73,19 +58,11 @@
       "articles": [
         {
           "caption": "A look at Netflix making a triple-A PC game",
-          "url": "https://mobilegamer.biz/netflix-is-making-a-triple-a-pc-game-at-its-new-la-studio/",
-          "title": "Netflix is making a triple-A PC game at its new LA studio - Mobilegamer.biz",
-          "description": "Former Overwatch lead Chacko Sonny is likely to be leading the project, which is hiring folks with experience on first/third person shooters and live service games.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2022/11/Netflix-LA-2.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/netflix-is-making-a-triple-a-pc-game-at-its-new-la-studio/"
         },
         {
           "caption": "A look at Microsoft & Sony attempting to woo China's mobile devs with new investments",
-          "url": "https://www.pocketgamer.biz/asia/news/80256/console-gaming-is-on-the-rise-in-china-as-mobile-gaming-takes-a-hit/",
-          "title": "Microsoft and Sony attempt to woo China's mobile devs with new investments",
-          "description": "China is one of the world&rsquo;s biggest gaming markets, with mobile gaming leading the pack. However, recent restrictions on young gaming",
-          "image": "https://media.pocketgamer.biz/2022/11/119451/china-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/news/80256/console-gaming-is-on-the-rise-in-china-as-mobile-gaming-takes-a-hit/"
         }
       ]
     },
@@ -94,11 +71,7 @@
       "articles": [
         {
           "caption": "A look at if it is a good time to be an indie dev",
-          "url": "https://www.gamesindustry.biz/is-it-a-good-time-to-be-an-indie-dev",
-          "title": "Is it a good time to be an indie dev?",
-          "description": "When we meet with Jason Della Rocca at this year's Megamigs, it is in the wake of a number of grim headlines about the …",
-          "image": "https://assets.reedpopcdn.com/Jason-Della-Rocca.jpeg/BROK/thumbnail/1200x630/Jason-Della-Rocca.jpeg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/is-it-a-good-time-to-be-an-indie-dev"
         }
       ]
     },
@@ -107,19 +80,11 @@
       "articles": [
         {
           "caption": "A look at Pokemon Scarlet & Violet selling 10M units (~$600M assuming $60 per unit)",
-          "url": "https://venturebeat.com/games/pokemon-scarlet-and-violet-hit-10m-in-sales-in-first-three-days/",
-          "title": "Pokémon Scarlet and Violet hit 10M in sales in first three days",
-          "description": "The latest Pokémon titles to hit the stores are selling exceptionally well if Nintendo's sales figures are to be believed.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/08/Scarlet-Violet.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/pokemon-scarlet-and-violet-hit-10m-in-sales-in-first-three-days/"
         },
         {
           "caption": "A look at God of War Ragnarok selling 5M units",
-          "url": "https://www.gamesindustry.biz/god-of-war-ragnarok-has-sold-5m-units-since-its-release-news-in-brief",
-          "title": "God of War Ragnarok has sold 5m units since its release  | News-in-brief",
-          "description": "The resource for people who make and sell games.",
-          "image": "https://assets.reedpopcdn.com/GoW-R_uukcLu0.png/BROK/thumbnail/1200x630/GoW-R_uukcLu0.png",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/god-of-war-ragnarok-has-sold-5m-units-since-its-release-news-in-brief"
         }
       ]
     }

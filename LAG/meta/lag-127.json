@@ -1,0 +1,114 @@
+{
+  "heading": "Look at Gaming #127",
+  "subheading": "",
+  "message_id": 143,
+  "number": 127,
+  "date": "Mon Jan 09 2023",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the future of publishing",
+          "url": "https://www.gamesindustry.biz/the-future-of-publishing-playable-futures-podcast",
+          "title": "The future of publishing | Playable Futures Podcast | GamesIndustry.biz",
+          "description": "The latest of our Playable Futures series tackles the industry's foundational duo - publisher and developer - and looks…",
+          "image": "https://assets.reedpopcdn.com/Podcast-16x9-Multi-2_KaxoEqD.jpg/BROK/thumbnail/1200x630/Podcast-16x9-Multi-2_KaxoEqD.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at US VC Investments and exits plummeting in 2022",
+          "url": "https://venturebeat.com/games/vc-investments-and-exits-plummeted-in-2022-nvca/",
+          "title": "U.S. VC investments and exits plummeted in 2022 | NVCA | VentureBeat",
+          "description": "Check out all the on-demand sessions from the Intelligent Security Summit here. The deal count in 2022 for the full year was 15,852, down 14% from 18,521 in 2021. And deal value was $238.3 billion, down 30% from $344.7 billion a year earlier, according to a report by Pitchbook and the National Venture Capital Association […]",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/pitchbook.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Epic's FTC deal highlights",
+          "url": "https://www.gamesindustry.biz/new-years-resolution-2023-sell-to-people-who-want-to-buy-this-week-in-business",
+          "title": "New Year's Resolution 2023: Sell to people who want to buy | This Week in Business | GamesIndustry.biz",
+          "description": "The beginning of the year is a good time to reflect on our day-to-day lives and where we could – perhaps should &…",
+          "image": "https://assets.reedpopcdn.com/fortnite_megadrop.jpeg/BROK/thumbnail/1200x630/fortnite_megadrop.jpeg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at the future of in-game audio ads",
+          "url": "https://www.youtube.com/watch?v=QhFvP1cLQbA&ab_channel=Naavik",
+          "title": "Christian Facey: The Future of In-Game Audio Ads - Naavik Gaming Podcast - YouTube",
+          "description": "In this episode, Christian Facey – co-founder and CEO of Audiomob – joins Naavik co-founder Aaron Bush to discuss:#1 The current state of audio ads, and how ...",
+          "image": "https://i.ytimg.com/vi/QhFvP1cLQbA/maxresdefault.jpg",
+          "source": "YouTube"
+        },
+        {
+          "caption": "A look at the MENA market by @konvoyventures",
+          "url": "https://www.konvoy.vc/newsletter/all-eyes-on-mena",
+          "title": "All Eyes on MENA",
+          "description": "Savvy Gaming Group will struggle to fulfill its goal of establishing Saudi Arabia as a hub for innovation and gaming",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/63b8bbd34b168e636dee3e89_newsletter%201.6.2023.png",
+          "source": "www.konvoy.vc"
+        },
+        {
+          "caption": "A look at the top 10 mobile games industry trends",
+          "url": "https://www.pocketgamer.biz/feature/80530/the-top-10-mobile-games-industry-trends-for-2023-and-beyond/",
+          "title": "The Top 10 mobile games industry trends for 2023 and beyond | Pocket Gamer.biz | PGbiz",
+          "description": "It’s the start of a brand new year and time to start looking ahead at what's to come in 2023. And the good news is that the mobile games market remain...",
+          "image": "https://media.pocketgamer.biz/2023/1/120027/crystal-ball-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at D&D's Open Game License by @naavik_co",
+          "url": "https://naavik.co/digest/ogl-debacle",
+          "title": "D&D’s Open Game License Debacle — Naavik",
+          "description": "Wizards of the Coast kicked off 2022 by announcing five in-development game \r\ncancelations. We take a look at the reasons behind this and the Open Game \r\nLicense debacle taking place across the D&D ecosystem.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63ba8aa91af837411e422d37/1673169627835/43d-LNCF.png?format=1500w",
+          "source": "Naavik"
+        },
+        {
+          "caption": "A look at the future of publishing",
+          "url": "https://www.gamesindustry.biz/the-future-of-publishing-playable-futures-podcast",
+          "title": "The future of publishing | Playable Futures Podcast | GamesIndustry.biz",
+          "description": "The latest of our Playable Futures series tackles the industry's foundational duo - publisher and developer - and looks…",
+          "image": "https://assets.reedpopcdn.com/Podcast-16x9-Multi-2_KaxoEqD.jpg/BROK/thumbnail/1200x630/Podcast-16x9-Multi-2_KaxoEqD.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Pudgy Penguin's comeback story",
+          "url": "https://www.theblockresearch.com/pudgy-penguins-case-study-of-a-comeback-199836",
+          "title": "Pudgy Penguins: Case Study of A Comeback",
+          "description": "Persistence and a compelling vision can create a powerful recipe for success. Although this apparently straightforward equation seems like a reliable",
+          "image": "https://www.tbstat.com/wp/uploads/2023/01/20230105_Aztec_Research-1200x675.jpg",
+          "source": "The Block"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at over 10M downloads for Meta Quest app in 2022",
+          "url": "https://www.gamedeveloper.com/extended-reality/over-10-million-people-downloaded-the-meta-quest-app-in-2022",
+          "title": "Over 10 million people downloaded the Meta Quest app in 2022",
+          "description": "A new report from Omdia looks at download trends of the The Meta Quest app in 2022, which was up overall by 27% on 2021.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt812f12574216687d/63b858b19d2de17aa34a8fea/meta_quest_2.jpeg",
+          "source": "Game Developer"
+        }
+      ]
+    }
+  ]
+}

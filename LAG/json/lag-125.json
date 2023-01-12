@@ -3,18 +3,23 @@
   "subheading": "",
   "message_id": 140,
   "number": 125,
-  "date": "Thu Jan 05 2022",
+  "date": "Thu Jan 05 2023",
   "content": [
+    {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nSorry no insights today frens.  Let's get straight to the news.\n\n",
+          "url": ""
+        }
+      ]
+    },
     {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at 2023 predictions for mobile by @eric_seufert",
-          "url": "https://mobiledevmemo.com/2023-predictions-for-mobile-gaming/",
-          "title": "2023 predictions for mobile gaming | Mobile Dev Memo by Eric Seufert",
-          "description": "2023 predictions for mobile gaming. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
-          "image": "https://mobiledevmemo.com/wp-content/uploads/2023/01/out-0.png",
-          "source": "Mobile Dev Memo"
+          "url": "https://mobiledevmemo.com/2023-predictions-for-mobile-gaming/"
         }
       ]
     },
@@ -23,35 +28,19 @@
       "articles": [
         {
           "caption": "A look at the CES 2023 tech trends",
-          "url": "https://venturebeat.com/games/ces-2023-tech-trends-to-watch/",
-          "title": "CES 2023 tech trends to watch",
-          "description": "Steve Koenig, vice president of research at the CTA, point out the key trends to watch at the CES 2023 tech trade show.",
-          "image": "https://venturebeat.com/wp-content/uploads/2023/01/ces-trends.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/ces-2023-tech-trends-to-watch/"
         },
         {
           "caption": "A look at Naavik's 2023 mini predictions",
-          "url": "https://naavik.co/digest/2023-mini-preditions",
-          "title": "Naavik’s 2023 Mini-Predictions — Naavik",
-          "description": "This week’s issue is a bit different. To kick off 2023, we’ve gathered \npredictions from across the Naavik team to forecast how this year may \nchange the gaming industry as a whole. Do you have a bold prediction of \nyour own?",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63b55017198b4f1b06bbc200/1672826906256/LSRnuXJx.png?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/digest/2023-mini-preditions"
         },
         {
           "caption": "A look at top 2022 mobile game publishers ranked by downloads",
-          "url": "https://mobilegamer.biz/2022s-top-mobile-game-publishers-ranked-by-downloads/",
-          "title": "2022’s top mobile game publishers, ranked by downloads - Mobilegamer.biz",
-          "description": "Who came out on top in hypercasual last year? Find out in Appmagic’s full-year 2022 data.",
-          "image": "https://mobilegamer.biz/wp-content/uploads/2023/01/2022-top-publishers-by-downloads-lead.jpg",
-          "source": "Mobilegamer.biz"
+          "url": "https://mobilegamer.biz/2022s-top-mobile-game-publishers-ranked-by-downloads/"
         },
         {
           "caption": "A look at 2023 predictions for mobile by @eric_seufert",
-          "url": "https://mobiledevmemo.com/2023-predictions-for-mobile-gaming/",
-          "title": "2023 predictions for mobile gaming | Mobile Dev Memo by Eric Seufert",
-          "description": "2023 predictions for mobile gaming. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
-          "image": "https://mobiledevmemo.com/wp-content/uploads/2023/01/out-0.png",
-          "source": "Mobile Dev Memo"
+          "url": "https://mobiledevmemo.com/2023-predictions-for-mobile-gaming/"
         }
       ]
     },
@@ -60,19 +49,11 @@
       "articles": [
         {
           "caption": "A look at Steam's top-grossing releases of 2022",
-          "url": "https://newsletter.gamediscover.co/p/deep-dive-steams-top-grossing-releases",
-          "title": "Deep dive: Steam's top-grossing releases of 2022",
-          "description": "Also: more on that 'Fortnite vs. kids' FTC fine, and lots more news...",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3705f7bf-38af-4590-9b73-fb63cdcbbc84_1000x523.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "url": "https://newsletter.gamediscover.co/p/deep-dive-steams-top-grossing-releases"
         },
         {
           "caption": "A look at what's next after battle royale for mobile shooters",
-          "url": "https://naavik.co/deep-dives/genre-report-shooter-preview",
-          "title": "What’s Next After Battle Royale? — Mobile Shooters — Naavik",
-          "description": "In this preview of Naavik Pro’s inaugural mobile F2P genre report series, \nwe tackle the Shooters market. This report covers the big picture genre \ndata, digs into the key subgenres, discusses how the market has changed \nover the past year, and makes predictions on where it goes next.",
-          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63b55767e60ca92d6259c8f1/1672828781777/H74YJz3o.png?format=1500w",
-          "source": "Naavik"
+          "url": "https://naavik.co/deep-dives/genre-report-shooter-preview"
         }
       ]
     },
@@ -81,35 +62,19 @@
       "articles": [
         {
           "caption": "A look at Sony Playstation VR launching with atleast 30 titles",
-          "url": "https://venturebeat.com/games/sony-playstation-vr-will-launch-with-at-least-30-titles/",
-          "title": "Sony Playstation VR will launch with at least 30 titles",
-          "description": "Sony PlayStation chief Jim Ryan said the PlayStation VR will launch with at least 30 titles, including a newly announced VR version of Gran Turismo.",
-          "image": "https://venturebeat.com/wp-content/uploads/2023/01/psvr-2.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/sony-playstation-vr-will-launch-with-at-least-30-titles/"
         },
         {
           "caption": "A look at Oorbit partnering with LG to bring metaverse platform to TVs",
-          "url": "https://venturebeat.com/games/oobit-partners-with-lg-to-bring-interoperable-metaverse-platform-to-tvs/",
-          "title": "Oorbit partners with LG to bring interoperable metaverse platform to TVs",
-          "description": "Oorbit, which operates a metaverse platform, has partnered with LG Electronics to bring interoperable virtual worlds to LG TVs.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/Oorbit-6.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/oobit-partners-with-lg-to-bring-interoperable-metaverse-platform-to-tvs/"
         },
         {
           "caption": "A look at Nvidia cloud gaming service coming to cars",
-          "url": "https://www.gamesindustry.biz/nvidia-cloud-gaming-service-heading-to-vehicles",
-          "title": "Nvidia cloud gaming service heading to vehicles",
-          "description": "Nvidia has announced that its cloud gaming service, GeForce Now, will come to vehicles. Hyundai Motor Group, BYD, and P…",
-          "image": "https://assets.reedpopcdn.com/Nvidia-vehicles-000.jpg/BROK/thumbnail/1200x630/Nvidia-vehicles-000.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/nvidia-cloud-gaming-service-heading-to-vehicles"
         },
         {
           "caption": "A look at Samsung adds 1000 games to OLED 4K TVs",
-          "url": "https://venturebeat.com/games/samsung-gaming-hub-adds-1000-cloud-games-to-oled-4k-tvs-and-freestyle-models/",
-          "title": "Samsung Gaming Hub adds 1,000 cloud games to OLED 4K TVs and Freestyle models",
-          "description": "Samsung is doubling down on cloud gaming by adding its Samsung Gaming Hub to its OLED 4K TV and Freestyle televisions.",
-          "image": "https://venturebeat.com/wp-content/uploads/2023/01/samsung-s95c.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/samsung-gaming-hub-adds-1000-cloud-games-to-oled-4k-tvs-and-freestyle-models/"
         }
       ]
     },
@@ -118,11 +83,7 @@
       "articles": [
         {
           "caption": "A look at consumer & business interest in metaverse growing",
-          "url": "https://venturebeat.com/games/consumer-and-business-interest-in-the-metaverse-is-growing-accenture/",
-          "title": "Consumer and business interest in the metaverse is growing | Accenture",
-          "description": "Consumers and businesses are getting more interested in the metaverse, according to a report by Accenture.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/acc-metaverse.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/consumer-and-business-interest-in-the-metaverse-is-growing-accenture/"
         }
       ]
     },
@@ -131,11 +92,7 @@
       "articles": [
         {
           "caption": "A look at using AI bots as game dev tools with modl.ai",
-          "url": "https://www.gamedeveloper.com/programming/using-ai-bots-as-game-development-tools-not-replacements-with-modl-ai",
-          "title": "Using AI bots as game development tools, not replacements with modl.ai",
-          "description": "As AI tools have quickly become a controversial topic in the game industry, modl.ai aims to make AI tools that support developers, not supplant them.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltd5035fb34d57dae0/63b5adfb6b80075c43c51664/modl_ai_cover.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/programming/using-ai-bots-as-game-development-tools-not-replacements-with-modl-ai"
         }
       ]
     },
@@ -144,11 +101,7 @@
       "articles": [
         {
           "caption": "A look at Genshin Impact surpassing $4B",
-          "url": "https://www.pocketgamer.biz/news/80535/genshin-impact-surpasses-4bn-in-lifetime-revenue/",
-          "title": "Genshin Impact surpasses $4bn in lifetime revenue",
-          "description": "According to reports from multiple outlets, including the South China Morning Post, Genshin Impact, the free-roaming gacha title from developers MiHoYo has s...",
-          "image": "https://media.pocketgamer.biz/2022/9/118558/genshin-impact-barbara-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80535/genshin-impact-surpasses-4bn-in-lifetime-revenue/"
         }
       ]
     }

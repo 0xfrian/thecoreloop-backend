@@ -12,7 +12,7 @@
           "caption": "A look at Mobile games bucking the mobile games recession",
           "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession",
           "title": "Bucking the Recession — Deconstructor of Fun",
-          "description": "What the current market state actually looks like? Which game categories \nface the most challenges in this climate? Who’s seeing the greatest success \ndespite the headwinds?",
+          "description": "What the current market state actually looks like? Which game categories \r\nface the most challenges in this climate? Who’s seeing the greatest success \r\ndespite the headwinds?",
           "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/638dccd73d94e901f8d6651f/1671415756631/Screenshot+2022-12-05+at+13.20.23.png?format=1500w",
           "source": "Deconstructor of Fun"
         }
@@ -35,13 +35,13 @@
           "title": "data.ai & Deconstructor of Fun: Mobile Gaming market in 2022 and beyond",
           "description": "The market is declining but panic aside.",
           "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe378f7c9-5c94-45ce-bdc9-372c579ff3e2_1280x886.jpeg",
-          "source": "gamedevreports.substack.com"
+          "source": "Dmitriy Byshonkov"
         },
         {
           "caption": "A look at Mobil games bucking the mobile games recession",
           "url": "https://www.deconstructoroffun.com/blog/2022/12/5/bucking-the-recession",
           "title": "Bucking the Recession — Deconstructor of Fun",
-          "description": "What the current market state actually looks like? Which game categories \nface the most challenges in this climate? Who’s seeing the greatest success \ndespite the headwinds?",
+          "description": "What the current market state actually looks like? Which game categories \r\nface the most challenges in this climate? Who’s seeing the greatest success \r\ndespite the headwinds?",
           "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/638dccd73d94e901f8d6651f/1671415756631/Screenshot+2022-12-05+at+13.20.23.png?format=1500w",
           "source": "Deconstructor of Fun"
         }
@@ -64,7 +64,7 @@
           "title": "New games' biggest discovery competition? Old games!",
           "description": "Also: Valve tells devs about Wolfire suit discovery, lotsa discovery news...",
           "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3bee2b10-0679-4f01-86cb-25494cf4d558_1000x542.jpeg",
-          "source": "newsletter.gamediscover.co"
+          "source": "Simon Carless"
         }
       ]
     },
@@ -87,7 +87,7 @@
         {
           "caption": "A look at PUBG hitting $9B in lifetime user spending",
           "url": "https://venturebeat.com/games/pubg-mobile-9-billion-lifetime-spending-pubgm-sensor-tower/",
-          "title": "PUBG Mobile hits $9B in lifetime consumer spending",
+          "title": "PUBG Mobile hits $9B in lifetime consumer spending | VentureBeat",
           "description": "PUBG Mobile spending has just crossed $9 billion, a few months ahead of the game's fifth anniversary according to Sensor Tower data.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/12/PUBGM.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -95,7 +95,7 @@
         {
           "caption": "A look at Genshin Impact earning $3.7B in Mobile in first 2 years",
           "url": "https://venturebeat.com/games/genshin-impact-earned-3-7-billion-mobile-first-2-years-sensor-tower/",
-          "title": "Genshin Impact earned $3.7B on mobile in first 2 years",
+          "title": "Genshin Impact earned $3.7B on mobile in first 2 years | VentureBeat",
           "description": "Genshin Impact was the third highest grossing game on mobile globally in its first two years according to spending data from Sensor Tower.",
           "image": "https://venturebeat.com/wp-content/uploads/2020/11/genshin.jpg?w=1200&strip=all",
           "source": "VentureBeat"

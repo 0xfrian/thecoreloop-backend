@@ -6,15 +6,20 @@
   "date": "Thu Dec 01 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nNo insights today!  Working on something cool for you guys tmrw.\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at IP-collabs' effect on mobile game downloads & revenue",
-          "url": "https://gamedevreports.substack.com/p/gamerefinery-ip-collaborations-effect",
-          "title": "GameRefinery: IP-collaborations effect on Mobile Games Downloads & Revenue",
-          "description": "IP-collaboration is bringing real results. If done right.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0cda992-9f6e-45b4-8cdb-02cb5eb37e0e_1000x428.png",
-          "source": "gamedevreports.substack.com"
+          "url": "https://gamedevreports.substack.com/p/gamerefinery-ip-collaborations-effect"
         }
       ]
     },
@@ -23,19 +28,11 @@
       "articles": [
         {
           "caption": "A look at IP-collabs' effect on mobile game downloads & revenue",
-          "url": "https://gamedevreports.substack.com/p/gamerefinery-ip-collaborations-effect",
-          "title": "GameRefinery: IP-collaborations effect on Mobile Games Downloads & Revenue",
-          "description": "IP-collaboration is bringing real results. If done right.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0cda992-9f6e-45b4-8cdb-02cb5eb37e0e_1000x428.png",
-          "source": "gamedevreports.substack.com"
+          "url": "https://gamedevreports.substack.com/p/gamerefinery-ip-collaborations-effect"
         },
         {
           "caption": "A look at gamers in Germany & the UK by @newzoohq",
-          "url": "https://newzoo.com/insights/articles/comparing-gamers-in-germany-and-the-uk",
-          "title": "Comparing Gamers in Germany and the U.K. | Motivations to Play and Pay, Preferred Platforms, Top Games | Newzoo",
-          "description": "In this article, we will explore the similarities and differences of the gamers between two important European markets: the U.K. and Germany.",
-          "image": "https://newzoo.com/wp-content/uploads/2022/12/Featured-Image.png",
-          "source": "Newzoo"
+          "url": "https://newzoo.com/insights/articles/comparing-gamers-in-germany-and-the-uk"
         }
       ]
     },
@@ -44,19 +41,11 @@
       "articles": [
         {
           "caption": "A look at Nintendo's mobile games declining",
-          "url": "https://www.axios.com/2022/12/01/nintendo-mobile-dragalia-lost",
-          "title": "Nintendo's mobile games are in decline",
-          "description": "Declining revenue, discontinued games, no announced projects",
-          "image": "https://images.axios.com/5EpPnf9DAd0zwI6idO7PicaNwdA=/1366x768/smart/2022/12/01/1669930157186.jpg",
-          "source": "Axios"
+          "url": "https://www.axios.com/2022/12/01/nintendo-mobile-dragalia-lost"
         },
         {
           "caption": "A look at how Tencent is ramping up its global games business",
-          "url": "https://www.gamesindustry.biz/how-tencent-is-ramping-up-its-global-games-business",
-          "title": "How Tencent is ramping up its global games business",
-          "description": "Tencent has always been looking beyond the borders of its home market in China when it comes to growing its games empir…",
-          "image": "https://assets.reedpopcdn.com/Michelle_Liu_wide.jpg/BROK/thumbnail/1200x630/Michelle_Liu_wide.jpg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/how-tencent-is-ramping-up-its-global-games-business"
         }
       ]
     },
@@ -65,35 +54,19 @@
       "articles": [
         {
           "caption": "A look at Magic Eden showcasing code to enforce royalties",
-          "url": "https://www.theblock.co/post/191259/magic-eden-to-debut-code-enforcing-nft-royalties-allowing-gamification-of-collections",
-          "title": "Magic Eden to debut code enforcing NFT royalties, allowing 'gamification' of collections",
-          "description": "On launch day, there will be a free mint, which will supply a couple thousand gift boxes, some of which will contain prizes.",
-          "image": "https://www.tbstat.com/wp/uploads/2022/03/20220328_Appraisal_NFTs-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/191259/magic-eden-to-debut-code-enforcing-nft-royalties-allowing-gamification-of-collections"
         },
         {
           "caption": "A look at November NFT data wraps",
-          "url": "https://www.theblock.co/post/191365/november-nft-data-wrap-has-removing-royalties-paid-off-for-magic-eden",
-          "title": "November NFT data wrap: Has removing royalties paid off for Magic Eden?",
-          "description": "How FTX impacted NFTs and gaming. Removing royalties pays off for Magic Eden's market share. Remembering the brief hype that was Art Gobblers.",
-          "image": "https://www.tbstat.com/wp/uploads/2021/06/20210601_NFT_Generic-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/191365/november-nft-data-wrap-has-removing-royalties-paid-off-for-magic-eden"
         },
         {
           "caption": "A look at mobile gaming and web3",
-          "url": "https://www.pocketgamer.biz/feature/80333/how-will-web3-impact-mobile-gaming-in-the-future/",
-          "title": "How will Web3 impact mobile gaming in the future?",
-          "description": "Web3 and blockchain technology are becoming more and more prominent, and companies within the tech sector are eager to carve out their place in the new frontier.",
-          "image": "https://media.pocketgamer.biz/2022/12/119584/christian-calderonjpg-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/feature/80333/how-will-web3-impact-mobile-gaming-in-the-future/"
         },
         {
           "caption": "A look at Atari to use Co:Create platform for web3 gaming tokens",
-          "url": "https://venturebeat.com/games/atari-will-use-cocreate-platform-for-web3-gaming-tokens/",
-          "title": "Atari will use Co:Create platform for Web3 gaming tokens",
-          "description": "Atari will be the first company to use Co:Create’s platform for creating tokens for Web3 gaming.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/cocreate.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/atari-will-use-cocreate-platform-for-web3-gaming-tokens/"
         }
       ]
     },
@@ -102,11 +75,7 @@
       "articles": [
         {
           "caption": "A look at AppsFlyer' D30 retention in games declining 3rd year straight",
-          "url": "https://gamedevreports.substack.com/p/appsflyer-d30-retention-in-games",
-          "title": "AppsFlyer: D30 Retention in games is declining for 3rd year straight",
-          "description": "How to deal with it? Retargeting is the answer.",
-          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2cdf2b4-431a-4e49-8fc7-99756eb05a6a_1280x844.jpeg",
-          "source": "gamedevreports.substack.com"
+          "url": "https://gamedevreports.substack.com/p/appsflyer-d30-retention-in-games"
         }
       ]
     }

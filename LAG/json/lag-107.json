@@ -6,15 +6,20 @@
   "date": "Tue Nov 29 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nThe Collectible Card Games (CCG) genre generated $550M and 86M downloads in 2022.  The Eastern tier-1 markets generated $361M and the Western tier-1 markets accounted for $145M.\n\nThe top 5 games in the western markets for 2022 so far are WWE SuperCard, Yu-Gi-Oh! Duel Links, Magic: The Gathering, Hearthstone, and Yu-Gi-Oh! Master Duel, with MARVEL SNAP in 7th place all totalling $106.3M — basically 66% of the western tier-1 markets.\n\nThe concentration in the top games in CCG is driven largely by IP and is definitely a winners-take-most market structure.\n\nFirst come, first served, Free Trial views of my dashboards:\nhttps://appmagic.rocks/dashboards/6386d9ec6e408?promoCode=6373c4a8c9901\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at Amazon building the most realistic version of SimCity",
-          "url": "https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity",
-          "title": "Amazon built the most realistic version of SimCity we’ve ever seen",
-          "description": "Amazon’s new AWS SimSpace Weaver service lets users build massive simulations that almost look like SimCity but with real-world landmarks.",
-          "image": "https://cdn.vox-cdn.com/thumbor/StPDcdxJGNb3I_vF5k6L8yF8y1I=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24241689/AWS_SimSpace_Weaver_and_uCrowds_city_demo_0_6_screenshot.png",
-          "source": "The Verge"
+          "url": "https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity"
         }
       ]
     },
@@ -23,27 +28,15 @@
       "articles": [
         {
           "caption": "A look at how much From Software crunch",
-          "url": "https://www.gamesindustry.biz/how-much-does-from-software-crunch",
-          "title": "How much does From Software crunch?",
-          "description": "Following the success of Elden Ring, a series of negative reviews of From Software surfaced on Twitter, claiming that s…",
-          "image": "https://assets.reedpopcdn.com/e3jaf1awua4qp6d.jpeg/BROK/thumbnail/1200x630/e3jaf1awua4qp6d.jpeg",
-          "source": "GamesIndustry.biz"
+          "url": "https://www.gamesindustry.biz/how-much-does-from-software-crunch"
         },
         {
           "caption": "A look at why so many licensed games go down the idle route",
-          "url": "https://www.pocketgamer.biz/feature/80310/why-do-so-many-licensed-games-go-down-the-idle-route/",
-          "title": "Why do so many licensed games go down the idle route?",
-          "description": "For a brief period in 2019, I was obsessed with the mobile game It's Always Sunny in Philadelphia: The Gang Goes Mobile",
-          "image": "https://media.pocketgamer.biz/2022/11/119562/its-always-sunny-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/feature/80310/why-do-so-many-licensed-games-go-down-the-idle-route/"
         },
         {
           "caption": "A look at Apple, Advertising, and Elon's Agenda",
-          "url": "https://mobiledevmemo.com/apple-advertising-and-elons-agenda/",
-          "title": "Apple, Advertising, and Elon's Agenda | Mobile Dev Memo by Eric Seufert",
-          "description": "Apple, Advertising, and Elon's Agenda. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
-          "image": "https://mobiledevmemo.com/wp-content/uploads/2022/11/elon_war_30pct.jpg",
-          "source": "Mobile Dev Memo"
+          "url": "https://mobiledevmemo.com/apple-advertising-and-elons-agenda/"
         }
       ]
     },
@@ -52,27 +45,15 @@
       "articles": [
         {
           "caption": "A look at Amazon building the most realistic version of SimCity",
-          "url": "https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity",
-          "title": "Amazon built the most realistic version of SimCity we’ve ever seen",
-          "description": "Amazon’s new AWS SimSpace Weaver service lets users build massive simulations that almost look like SimCity but with real-world landmarks.",
-          "image": "https://cdn.vox-cdn.com/thumbor/StPDcdxJGNb3I_vF5k6L8yF8y1I=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24241689/AWS_SimSpace_Weaver_and_uCrowds_city_demo_0_6_screenshot.png",
-          "source": "The Verge"
+          "url": "https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity"
         },
         {
           "caption": "A look at Sony launching motion-tracking bands for VR & MoCap",
-          "url": "https://www.gamedeveloper.com/extended-reality/sony-launces-motion-tracking-bands-for-vr-and-mocap-use",
-          "title": "Sony launches motion-tracking bands for VR and mocap use",
-          "description": "Sony announced its upcoming Mocopi product, which will allow for users to easily perform motion capture animation and apply it to digital avatars.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt91f15adfabcd93ec/63865fbab2251710d6065170/mocopi.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/extended-reality/sony-launces-motion-tracking-bands-for-vr-and-mocap-use"
         },
         {
           "caption": "A look at Apex Legends winning the Apple's App Store Awards",
-          "url": "https://www.gamedeveloper.com/mobile/-i-apex-legends-i-and-i-inscryption-i-headline-apple-s-app-store-awards",
-          "title": "Apex Legends and Inscryption headline Apple's App Store Awards",
-          "description": "Apple's end of year App Store Awards for 2022 included Apex Legends Mobile and Inscryption as its top games of the year for its mobile and Mac platforms.",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt9b812014cf42b327/6386501c7c632a792c870fe7/rhapsody.jpg",
-          "source": "Game Developer"
+          "url": "https://www.gamedeveloper.com/mobile/-i-apex-legends-i-and-i-inscryption-i-headline-apple-s-app-store-awards"
         }
       ]
     },
@@ -81,35 +62,19 @@
       "articles": [
         {
           "caption": "A look at how to leverage opportunities in web3 gaming",
-          "url": "https://venturebeat.com/games/web3-games-leveraging-the-opportunities-and-overcoming-the-challenges/",
-          "title": "Web3 games: Leveraging the opportunities and overcoming the challenges",
-          "description": "Find out how web3 games work, from growing the community, monetization and tokenomics, to potential hurdles and more.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1345967858-1.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/web3-games-leveraging-the-opportunities-and-overcoming-the-challenges/"
         },
         {
           "caption": "A look at Aeria Canada Studio migrating mobile game to web3",
-          "url": "https://www.theblock.co/post/190559/mobile-game-maker-aeria-canada-studio-to-migrate-products-to-web3-exclusive",
-          "title": "Mobile game maker Aeria Canada Studio to migrate products to web3: Exclusive",
-          "description": "The titles will be revamped to include NFTs and decked out with Ready Games' web3 infrastructure before being re-released.",
-          "image": "https://www.tbstat.com/wp/uploads/2019/06/using-cell-phone-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblock.co/post/190559/mobile-game-maker-aeria-canada-studio-to-migrate-products-to-web3-exclusive"
         },
         {
           "caption": "A look at Lens Protocol",
-          "url": "https://www.theblockresearch.com/lens-protocol-building-the-backbone-for-decentralized-social-190131",
-          "title": "Lens Protocol: Building the Backbone for Decentralized Social",
-          "description": "Traditional social networks have brought global connectivity, a means of instant communication, fast access to news and information and a source of",
-          "image": "https://www.tbstat.com/wp/uploads/2022/11/20221123_Lens-Protocol-Research-1200x675.jpg",
-          "source": "The Block"
+          "url": "https://www.theblockresearch.com/lens-protocol-building-the-backbone-for-decentralized-social-190131"
         },
         {
           "caption": "A look at Gamejam rebranding to Superfine and releasing web3 growth platform",
-          "url": "https://www.pocketgamer.biz/news/80299/hypercasual-game-dev-gamejam-co-rebrands-to-superfine-releases-web3-growth-platform/",
-          "title": "Hypercasual game dev Gamejam Co. rebrands to Superfine and releases Web3 growth platform",
-          "description": "Gamejam co. known for a string of hypercasual mobile titles, are pivoting from their current focus on mobile gaming and into their &lsquo;Web3 growth platfor...",
-          "image": "https://media.pocketgamer.biz/2022/11/119553/superfine-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80299/hypercasual-game-dev-gamejam-co-rebrands-to-superfine-releases-web3-growth-platform/"
         }
       ]
     },
@@ -118,11 +83,7 @@
       "articles": [
         {
           "caption": "A look at Game Art vs. Game Design",
-          "url": "https://kevurugames.com/blog/game-art-vs-game-design-what-is-the-difference/",
-          "title": "Game Art Vs Game Design: What is the Difference | Kevuru Games",
-          "description": "What is the difference between Game Design and Game Art ⏩ Surprisingly, there's actually a big difference ✅ Learn how Game Art and Game Design differ",
-          "image": "https://kevurugames.com/kevuru.png",
-          "source": "Kevuru Games"
+          "url": "https://kevurugames.com/blog/game-art-vs-game-design-what-is-the-difference/"
         }
       ]
     },
@@ -131,11 +92,7 @@
       "articles": [
         {
           "caption": "A look at Roboto Games raising $15M",
-          "url": "https://venturebeat.com/games/roboto-games-raises-15m-working-on-survival-and-crafting-mmo/",
-          "title": "Roboto Games raises $15M, working on survival and crafting MMO",
-          "description": "Roboto Games announced it's closed its latest round of funding, which it palns to put towards its newest game.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/11/Roboto_FF01.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/roboto-games-raises-15m-working-on-survival-and-crafting-mmo/"
         }
       ]
     },
@@ -144,11 +101,7 @@
       "articles": [
         {
           "caption": "A look at Yu-Gi-Oh! MASTER DUEL passing 50M downloads",
-          "url": "https://www.pocketgamer.biz/asia/news/80307/yu-gi-oh-master-duel-passes-50m-downloads-milestone-announces-new-tournament/",
-          "title": "Yu-Gi-Oh! MASTER DUEL passes 50m downloads milestone, announces new tournament",
-          "description": "In just nine months, Yu-Gi-Oh! MASTER DUEL has racked up 50m downloads according to a recent press release by Konami Digital Entertainment. Based on the popu...",
-          "image": "https://media.pocketgamer.biz/2022/11/119559/yugioh2-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/news/80307/yu-gi-oh-master-duel-passes-50m-downloads-milestone-announces-new-tournament/"
         }
       ]
     }

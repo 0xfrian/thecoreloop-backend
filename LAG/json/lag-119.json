@@ -6,15 +6,20 @@
   "date": "Thu Dec 15 2022",
   "content": [
     {
+      "category": "‼️ SPECIAL INSIGHTS 👀",
+      "articles": [
+        {
+          "caption": "powered by AppMagic.rocks 😎\n\nNo insights today frens!  Let's get straight to the news.\n\n",
+          "url": ""
+        }
+      ]
+    },
+    {
       "category": "🔦 Spotlight 🌟",
       "articles": [
         {
           "caption": "A look at mobile games demographic by LoopMe",
-          "url": "https://venturebeat.com/games/loopme-mobile-gamer-survey-multitask-second-screen-attention/",
-          "title": "LoopMe: 80% of mobile gamers are multitasking while playing",
-          "description": "LoopMe surveyed over 18,000 consumers in the U.S., U.K. and Singapore to understand mobile gamers' playing habits and attention in-game.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/LoopMe-mobile-gaming-cover.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/loopme-mobile-gamer-survey-multitask-second-screen-attention/"
         }
       ]
     },
@@ -23,27 +28,15 @@
       "articles": [
         {
           "caption": "A look at Gamesight comparing ad networks for PC and Console",
-          "url": "https://venturebeat.com/games/gamesight-ad-network-comparison-pc-console-games/",
-          "title": "Gamesight compares ad networks for PC and console games",
-          "description": "Gamesight compared the strengths of different ad networks such as Google, Twitch and TikTok for marketing PC and console games.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/Gamesight-cover-1-e1671075460414.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/gamesight-ad-network-comparison-pc-console-games/"
         },
         {
           "caption": "A look at mobile games demographic by LoopMe",
-          "url": "https://venturebeat.com/games/loopme-mobile-gamer-survey-multitask-second-screen-attention/",
-          "title": "LoopMe: 80% of mobile gamers are multitasking while playing",
-          "description": "LoopMe surveyed over 18,000 consumers in the U.S., U.K. and Singapore to understand mobile gamers' playing habits and attention in-game.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/LoopMe-mobile-gaming-cover.png?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/loopme-mobile-gamer-survey-multitask-second-screen-attention/"
         },
         {
           "caption": "A look at 11 games that could hit $2B in rev in 2023",
-          "url": "https://www.pocketgamer.biz/news/80436/11-games-are-forecast-to-exceed-2-billion-in-revenue-in-2023/",
-          "title": "11 games that could exceed $2 billion in revenue in 2023",
-          "description": "Data.ai has revealed its predictions for 2023 in the mobile gaming market, revealing an optimistic forecast for the coming year.",
-          "image": "https://media.pocketgamer.biz/2022/12/119811/dataai-r225x225.png",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/news/80436/11-games-are-forecast-to-exceed-2-billion-in-revenue-in-2023/"
         }
       ]
     },
@@ -52,11 +45,7 @@
       "articles": [
         {
           "caption": "A look at lawmakers pressing top gaming co on extremism",
-          "url": "https://www.axios.com/2022/12/15/congress-trahan-porter-wyden-games-extremism",
-          "title": "U.S. lawmakers press Activision, Epic, Valve and more on extremism",
-          "description": "Asking game companies what they're doing about a rise of in-game hate",
-          "image": "https://images.axios.com/3nzC8uFiZ4GzhXTa0HOdSkftANQ=/0x0:1920x1080/1366x768/2022/12/15/1671142613495.jpg",
-          "source": "Axios"
+          "url": "https://www.axios.com/2022/12/15/congress-trahan-porter-wyden-games-extremism"
         }
       ]
     },
@@ -65,11 +54,7 @@
       "articles": [
         {
           "caption": "A look at Futureverse merging 8 web3 companies to create an open metaverse ecosystem",
-          "url": "https://www.pocketgamer.biz/asia/special-report/80426/fewer-games-but-greater-revenue-the-reality-of-the-global-mobile-games-market/",
-          "title": "Fewer games but greater revenue - the reality of the global mobile games market",
-          "description": "data.ai and Deconstructor of Fun break down the reality of the global games market - from releases to revenue in 2022",
-          "image": "https://media.pocketgamer.biz/2022/3/115582/dataailogo-r225x225.jpg",
-          "source": "pocketgamer.biz"
+          "url": "https://www.pocketgamer.biz/asia/special-report/80426/fewer-games-but-greater-revenue-the-reality-of-the-global-mobile-games-market/"
         }
       ]
     },
@@ -78,11 +63,7 @@
       "articles": [
         {
           "caption": "A look at Anima raising $3M for AR digital pets",
-          "url": "https://venturebeat.com/games/anima-raises-3m-for-onlybots-augmented-reality-digital-pets/",
-          "title": "Anima raises $3M for augmented reality protocol",
-          "description": "Anima, the protocol for dynamic and ownable augmented reality, said it raised an additional $3 million in capital.",
-          "image": "https://venturebeat.com/wp-content/uploads/2022/12/ANIMA-Onlybots.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/anima-raises-3m-for-onlybots-augmented-reality-digital-pets/"
         }
       ]
     },
@@ -91,11 +72,7 @@
       "articles": [
         {
           "caption": "A look at Death Stranding film adaptation in the works",
-          "url": "https://venturebeat.com/games/a-death-stranding-film-adaptation-in-the-works/",
-          "title": "A Death Stranding film adaptation in the works",
-          "description": "Hideo Kojima's Death Stranding is becoming a movie, to be produced by Kojima Productions and Hammerstone Studios.",
-          "image": "https://venturebeat.com/wp-content/uploads/2019/10/death-stranding.jpg?w=1200&strip=all",
-          "source": "VentureBeat"
+          "url": "https://venturebeat.com/games/a-death-stranding-film-adaptation-in-the-works/"
         }
       ]
     }

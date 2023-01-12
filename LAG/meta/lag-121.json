@@ -12,7 +12,7 @@
           "caption": "A look at the 2022 UGC Games playbook by @naavik_co",
           "url": "https://naavik.co/digest/the-2022-ugc-games-playbook",
           "title": "The 2022 UGC Games Playbook — Naavik",
-          "description": "We reflect on our UGC learnings this past year, propose a playbook \nframework, and showcase expert opinions on the matter.",
+          "description": "We reflect on our UGC learnings this past year, propose a playbook \r\nframework, and showcase expert opinions on the matter.",
           "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/639ed40dac2c1470f1b6f992/1671353363080/VB4lHOOY.png?format=1500w",
           "source": "Naavik"
         }
@@ -32,7 +32,7 @@
         {
           "caption": "A look at FTC fining Epic Games $520M for violating child privacy laws",
           "url": "https://venturebeat.com/games/ftc-fines-epic-games-520m-for-violating-child-privacy-laws/",
-          "title": "FTC fines Epic Games $520M for violating child privacy laws",
+          "title": "FTC fines Epic Games $520M for violating child privacy laws | VentureBeat",
           "description": "The FTC is fining Epic Games millions over its purchasing practices and inadequate protection of children in Fortnite.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/01/fortnite-sniper.jpg?w=1200&strip=all",
           "source": "VentureBeat"
@@ -43,7 +43,7 @@
           "title": "data.ai: Mobile Games Revenue will continue to decline in 2023",
           "description": "What else the future will bring us?",
           "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31d84d1-456a-454b-bbe8-13d560d82067_1290x1274.png",
-          "source": "gamedevreports.substack.com"
+          "source": "Dmitriy Byshonkov"
         },
         {
           "caption": "A look at a possible end of consolidations in the market @konvoyventures",
@@ -61,8 +61,8 @@
         {
           "caption": "A look at the rise of esports hotels in Asia by @nikochina",
           "url": "https://nikopartners.com/the-rise-of-esports-hotels-in-asia/",
-          "title": "The rise of esports hotels in Asia",
-          "description": "The first floor of the PC gaming area at e-ZONe in Osaka, Japan.\nTourism is one of the many industries that enjoy positive spillover effects from the fast-growing video game and esports markets in Asia. There is a strong intersection of esports and tourism in particular, and one aspect of interest is esports",
+          "title": "The rise of esports hotels in Asia – Niko",
+          "description": "The first floor of the PC gaming area at e-ZONe in Osaka, Japan.\r\nTourism is one of the many industries that enjoy positive spillover effects from the fast-growing video game and esports markets in Asia. There is a strong intersection of esports and tourism in particular, and one aspect of interest is esports",
           "image": "https://nikopartners.com/wp-content/uploads/2022/12/eZONe-Osaka.jpg",
           "source": "Niko"
         },
@@ -70,7 +70,7 @@
           "caption": "A look at the 2022 UGC Games playbook by @naavik_co",
           "url": "https://naavik.co/digest/the-2022-ugc-games-playbook",
           "title": "The 2022 UGC Games Playbook — Naavik",
-          "description": "We reflect on our UGC learnings this past year, propose a playbook \nframework, and showcase expert opinions on the matter.",
+          "description": "We reflect on our UGC learnings this past year, propose a playbook \r\nframework, and showcase expert opinions on the matter.",
           "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/639ed40dac2c1470f1b6f992/1671353363080/VB4lHOOY.png?format=1500w",
           "source": "Naavik"
         }
@@ -82,7 +82,7 @@
         {
           "caption": "A look at Microsoft gauging interest for Xbox Game Pass that's ad-supported",
           "url": "https://www.gamesindustry.biz/microsoft-gauging-interest-for-xbox-game-pass-ad-supported-tier-subscription",
-          "title": "Microsoft gauging interest for Xbox Game Pass ad-supported tier subscription",
+          "title": "Microsoft gauging interest for Xbox Game Pass ad-supported tier subscription | GamesIndustry.biz",
           "description": "A Microsoft survey about Xbox Game Pass suggests that an ad-supported subscription tier may be coming to the service. A…",
           "image": "https://assets.reedpopcdn.com/Xbox-00.png/BROK/thumbnail/1200x630/Xbox-00.png",
           "source": "GamesIndustry.biz"
@@ -108,15 +108,15 @@
         {
           "caption": "A look at a monetization masterclass with experts from Anzu, Unity & Wildlife Studios",
           "url": "https://www.pocketgamer.biz/news/80475/monetisation-masterclass-learn-how-to-take-your-game-to-the-next-level/",
-          "title": "Monetisation masterclass: learn how to take your game to the next level",
-          "description": "One of the biggest benefits for developers working in the mobile games market is the ability to make monetisation a part of the integral game design.\n                    ",
+          "title": "Monetisation masterclass: learn how to take your game to the next level | Pocket Gamer.biz | PGbiz",
+          "description": "One of the biggest benefits for developers working in the mobile games market is the ability to make monetisation a part of the integral game design.\r                    ",
           "image": "https://media.pocketgamer.biz/2022/11/119464/anzu-in-game-ads-webinar-r225x225.jpg",
           "source": "pocketgamer.biz"
         },
         {
           "caption": "A look at a player-centric approach to game ad creatives",
           "url": "https://venturebeat.com/games/the-player-centric-approach-that-improves-performance-for-mobile-game-ad-creative/",
-          "title": "The player-centric approach that improves performance for mobile game ad creative",
+          "title": "The player-centric approach that improves performance for mobile game ad creative | VentureBeat",
           "description": "Gamers are still hungry for content. But they're being judicious about where they spend their hard-earned money in a tight economy.",
           "image": "https://venturebeat.com/wp-content/uploads/2022/12/AdobeStock_316588627.jpeg?w=1200&strip=all",
           "source": "VentureBeat"
