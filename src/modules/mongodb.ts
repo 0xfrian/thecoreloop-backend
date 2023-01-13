@@ -17,7 +17,7 @@ export async function createMongoDBClient(uri: string): Promise<MongoClient> {
 export async function getLatestLAG(client: MongoClient): Promise<number> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
-    .collection("LAG_Collection");
+    .collection("Latest_LAG");
 
   const response: any = await lag_collection.findOne({ heading: "Latest LAG"});
   return response.number;
@@ -26,7 +26,7 @@ export async function getLatestLAG(client: MongoClient): Promise<number> {
 export async function setLatestLAG(client: MongoClient, lag_number: number): Promise<any> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
-    .collection("LAG_Collection");
+    .collection("Latest_LAG");
 
   const new_latest_lag: any = {
     heading: "Latest LAG",
