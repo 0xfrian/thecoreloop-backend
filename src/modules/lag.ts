@@ -95,7 +95,10 @@ export function parseLAG(message: TelegramMessage): LAG {
   for (let j = 0; j < category_indices.length; j++) {
     // Assign current category index and category
     const current_index: number = category_indices[j]
-    const category: string = lines[current_index];
+    let category: string = lines[current_index];
+
+    // if Category is PLATFORMS, then change mountain emoji for better visibility/accessibility
+    if (category.toLowerCase().includes("platforms")) category = "🌈 Platforms ⛰️"
 
     // Instantiate <ArticleGroup> object
     let article_group: ArticleGroup = {

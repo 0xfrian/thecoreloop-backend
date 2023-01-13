@@ -8,7 +8,7 @@ import { unfurl_js } from "../modules/link-preview";
 import { LinkPreview } from "../types";
 
 async function main() {
-  const url: string = "https://mailchi.mp/konvoy/new-quest-postsecondary-education-jason";
+  const url: string = "https://www.konvoy.vc/reports-pdf/gaming-industry-report?xYanOv=sY8xePfojkwYRZLD3lhBH&slOger=subscribed";
 
   console.log(`Generating link preview: ${url} . . . \n`);
 

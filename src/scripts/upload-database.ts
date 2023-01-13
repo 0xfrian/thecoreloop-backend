@@ -13,8 +13,8 @@ import {
 } from "../modules/mongodb";
 
 // Types 
-import { MongoClient } from "mongodb";
 import { LAG } from "../types";
+import { MongoClient } from "mongodb";
 
 async function main() {
   // Connect to MongoDB
@@ -26,6 +26,7 @@ async function main() {
   console.log("Resetting LAG Collection . . . ");
   await deleteLAGCollection(client);
 
+  // Uploading LAG collection from meta/ directory
   console.log("Uploading LAG Collection . . . ");
   const filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
   for (const filename of filenames) {
