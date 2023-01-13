@@ -1,9 +1,8 @@
-{
-  "name": "thecoreloop-backend",
+{  "name": "thecoreloop-backend",
   "description": "Backend repo for thecoreloop website",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
+    "dev": "ts-node ./src/scripts/index.ts",
     "upload-database": "ts-node ./src/scripts/upload-database.ts",
     "build-archive": "ts-node ./src/scripts/build-archive.ts",
     "check-archive": "ts-node ./src/scripts/check-archive.ts",

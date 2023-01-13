@@ -13,7 +13,7 @@ import { LAG } from "../types";
 import { MongoClient } from "mongodb";
 
 // MongoDB functions
-import { createMongoDBClient, updateLAG } from "../modules/mongodb";
+import { createMongoDBClient, setLatestLAG } from "../modules/mongodb";
 
 async function main(): Promise<void> {
   // Connect to MongoDB
@@ -21,12 +21,10 @@ async function main(): Promise<void> {
   const uri: string = process.env.MONGODB_URI!;
   const client: MongoClient = await createMongoDBClient(uri);
 
-  // Read LAG .json file
-  const lag: LAG = JSON.parse(fs.readFileSync(path.join(__dirname, "../../LAG/meta/lag-130.json"), { encoding: "utf-8" }));
-
-  // Update LAG in MongoDB 
-  console.log(`Updating LAG #${lag.number}`);
-  await updateLAG(client, 130, lag);
+  // Set latest LAG number on MongoDB
+  console.log("Setting Latest LAG . . . ");
+  const response: any = await setLatestLAG(client, 131);
+  console.log("Response: ", response);
 }
 
 main()

@@ -4,6 +4,9 @@
 # Ignore Node Modules 
 node_modules/
 
+# Ignore archived folder
+archived/
+
 # Ignore local test modules and notes
 sandbox.ts
 notes.md

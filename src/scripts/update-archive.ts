@@ -8,8 +8,7 @@ import path from "path";
 // Local modules
 import { 
   createMongoDBClient,  
-  createLAG, 
-  deleteLAGCollection,
+  createLAG,
   setLatestLAG,
 } from "../modules/mongodb";
 import { parseLAG, attachMetadata } from "../modules/lag";
@@ -78,46 +77,57 @@ export default async function main(): Promise<void> {
     }
   }
 
+  // Fetch metadata for LAG Collection
   console.log("\nFetching metadata for LAG posts . . . ");
-  const lag_filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
-  for (const filename of lag_filenames) {
+  const filenames_json: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
+  const filenames_meta: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
+  const latest_json: number = Number(filenames_meta[filenames_meta.length-1].slice(4, 7));
+  const new_lags: number[] = [];
+  for (const filename of filenames_json) {
     let lag_number: number = 0;
     try {
+      // Read LAG .json file
       const filepath_json: string = path.join(__dirname, "../../LAG/json/", filename);
       const lag: LAG = JSON.parse(fs.readFileSync(filepath_json, { encoding: "utf-8" }));
       lag_number = lag.number;
+      
+      // Skip if NOT a new LAG post
+      if (lag_number <= latest_json) continue;
+      new_lags.push(lag_number);
 
+      // Fetch metadata
       console.log(`  LAG #${lag.number} . . . `);
       const lag_meta: LAG = await attachMetadata(lag, true);
+
+      // Write LAG to .json file
       const filepath_meta: string = path.join(__dirname, "../../LAG/meta/", `lag-${String(lag_meta.number).padStart(3, "0")}.json`);
       fs.writeFileSync(
         filepath_meta,
         JSON.stringify(lag_meta, null, 2),
       );
     } catch (error) {
-      console.log(`  Something went wrong while processing: LAG #${lag_number}`);
+      console.log(`  Something went wrong with LAG #${lag_number}`);
       console.log(error);
     }
   }
-  
+
   // Connect to MongoDB
   console.log("\nConnecting to MongoDB . . . ");
   const mongodb_uri: string = process.env.MONGODB_URI!;
   const client: MongoClient = await createMongoDBClient(mongodb_uri);
 
-  // Reset LAG Collection
-  console.log("\nResetting LAG Collection . . . ");
-  await deleteLAGCollection(client);
-
-  // Uploading LAG collection from meta/ directory
+  // Upload new LAG(s) to MongoDB
   console.log("\nUploading LAG Collection . . . ");
-  const filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
-  for (const filename of filenames) {
-    const filepath: string = path.join(__dirname, "../../LAG/meta/", filename);
-    const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
-    console.log(`  LAG #${lag.number} . . . `);
-    await createLAG(client, lag);
-    await setLatestLAG(client, lag.number);
+  for (const lag_number of new_lags) {
+    try {
+      console.log(`  LAG #${lag_number} . . . `);
+      const filepath: string = path.join(__dirname, "../../LAG/meta/", `lag-${lag_number.toString().padStart(3, "0")}.json`)
+      const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
+      await createLAG(client, lag);
+      await setLatestLAG(client, lag.number);
+    } catch (error) {
+      console.log(`  ${error}`);
+    }
   }
 }
 

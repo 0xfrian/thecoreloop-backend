@@ -1,0 +1,156 @@
+{
+  "heading": "Look at Gaming #131",
+  "subheading": "",
+  "message_id": 147,
+  "number": 131,
+  "date": "Fri Jan 13 2023",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the Blockchain Game Alliance's member survey and report for 2022",
+          "url": "https://www.blockchaingamealliance.org/bga-2022-member-survey-report/",
+          "title": "BGA 2022 Member Survey & Report – Blockchain Game Alliance",
+          "description": "",
+          "image": "https://www.blockchaingamealliance.org/wp-content/uploads/2023/01/6188285856599618480_121-1.jpg",
+          "source": "Blockchain Game Alliance"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Activision Blizzard studio's union drawing criticism",
+          "url": "https://www.axios.com/2023/01/12/activision-blizzard-proletariat-worker",
+          "title": "Activision Blizzard studio's union draws some criticism from within",
+          "description": "A worker who tells Axios they are politically pro-union still had some concerns.",
+          "image": "https://images.axios.com/eeaRa37GC6Th_cqcAbfZMzl1tEk=/0x0:1730x973/1366x768/2023/01/12/1673558702747.png",
+          "source": "Axios"
+        },
+        {
+          "caption": "A look at Ubisoft for sale?",
+          "url": "https://www.pocketgamer.biz/news/80601/ubisoft-is-reportedly-eyeing-up-an-acquisition-by-another-company/",
+          "title": "Ubisoft is reportedly eyeing up an acquisition by another company | Pocket Gamer.biz | PGbiz",
+          "description": "Ubisoft is seeking an acquisition by a third party, states industry insider Jeff Grubb. Gaming Bible reports that, despite being responsible for some of the...",
+          "image": "https://media.pocketgamer.biz/2022/11/119487/ubisoft-logo-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Newzoo's Games Market Trends in 2023",
+          "url": "https://newzoo.com/insights/articles/newzoos-game-market-trends-to-watch-in-2023-part-1",
+          "title": "Newzoo’s Games Market Trends to Watch in 2023 and Beyond | Part I",
+          "description": "What are the top 10 trends in gaming this year? Check out our newest article series to explore what's happening in the games market in 2023!",
+          "image": "https://newzoo.com/wp-content/uploads/2023/01/Trends-to-Watch-2023-part-1-feat.png",
+          "source": "Newzoo"
+        },
+        {
+          "caption": "A look at Japanese players spending $2.9B on boxed games & consoles in 2022",
+          "url": "https://www.gamesindustry.biz/japanese-players-spent-29-billion-on-boxed-games-and-consoles-in-2022",
+          "title": "Japanese players spent $2.9 billion on boxed games and consoles in 2022 | GamesIndustry.biz",
+          "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox Just shut of $3 billion was spent on physi…",
+          "image": "https://assets.reedpopcdn.com/Pokemon-Scarlet-and-Violet-Header_f1zO36s.jpg/BROK/thumbnail/1200x630/Pokemon-Scarlet-and-Violet-Header_f1zO36s.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at US VC exits down 90% in 2022",
+          "url": "https://venturebeat.com/ai/u-s-vc-exits-were-down-90-5-in-2022-with-just-71-4b-in-value-nvca/",
+          "title": "U.S. VC exits were down 90.5% in 2022 with just $71.4B in value | NVCA | VentureBeat",
+          "description": "Check out all the on-demand sessions from the Intelligent Security Summit here. After years of frenzy and soaring valuations, U.S. venture capital investment levels and returns came crashing down in 2022 as the world economy faltered. The official year-end report by Pitchbook and the National Venture Capital Association (NVCA) showed that 2022 saw only $71.4 billion […]",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/pitchbook-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at 19% of 2022 esports viewership were from mobile events",
+          "url": "https://streamhatchet.com/blog/blog-19-of-2022-esports-viewership-were-mobile-events/",
+          "title": "19% OF 2022 ESPORTS VIEWERSHIP WERE MOBILE EVENTS",
+          "description": "19% of esports hours watched across live streaming platforms were mobile events. Mobile Legends: Bang Bang was the biggest title.",
+          "image": "https://streamhatchet.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-11-at-2.43.26-PM-1024x576.png",
+          "source": "Stream Hatchet"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at modeling the real-world economy in Victoria 3",
+          "url": "https://www.gamedeveloper.com/design/deep-dive-modeling-the-global-economy-in-victoria-3",
+          "title": "How the designers of Victoria 3 made a compelling global economy",
+          "description": "Making the system both historically accurate and fun was a tricky balance in light of the game's strategic complexity.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt699444ca8c038146/63bf90829168c607a5634956/Victoria_3.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms ⛰️",
+      "articles": [
+        {
+          "caption": "A look at Roblox's new Creator Hub",
+          "url": "https://www.theverge.com/2023/1/11/23547488/roblox-creator-hub-developers-metaverse",
+          "title": "Roblox’s new Creator Hub could make things a lot easier for developers - The Verge",
+          "description": "Roblox is rolling out Creator Hub, a new destination that gives developers more tools and centralizes things like documentation and a developer forum into one place. ",
+          "image": "https://cdn.vox-cdn.com/thumbor/GFINJbV_Q6Wp6LVk7N0lDBtety0=/0x0:3900x3185/1200x628/filters:focal(1950x1593:1951x1594)/cdn.vox-cdn.com/uploads/chorus_asset/file/23302039/Roblox_Avatar_Lineup_3900x4984.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Axie Infinity teaming up with Cloud9's Stratus",
+          "url": "https://venturebeat.com/games/axie-infinity-leverages-cloud9s-stratus-fan-subscription-for-esports/",
+          "title": "Axie Infinity leverages Cloud9's Stratus fan subscription for esports | VentureBeat",
+          "description": "Axie Infinity is taking more steps to engage the esports community, leveraging Cloud9's Stratus fan club to reach highly engaged fans.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/C9-x-Axie-players-in-tournament.jpeg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Hypercasual goliath Voodoo launching its own blockchain ecosystem",
+          "url": "https://www.pocketgamer.biz/news/80595/hypercasual-goliath-voodoo-is-launching-its-own-blockchain-ecosystem-and-cryptocurrency/",
+          "title": "Hypercasual goliath Voodoo is launching its own blockchain ecosystem and cryptoc | Pocket Gamer.biz | PGbiz",
+          "description": "The French publisher of hypercasual games Voodoo has revealed Voodoo Infinity, its new blockchain ecosystem, and cryptocurrency Voodoo Coin along with it.",
+          "image": "https://media.pocketgamer.biz/2022/2/114999/voodoo-blog-asset-r225x225.png",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at the Blockchain Game Alliance's member survey and report for 2022",
+          "url": "https://www.blockchaingamealliance.org/bga-2022-member-survey-report/",
+          "title": "BGA 2022 Member Survey & Report – Blockchain Game Alliance",
+          "description": "",
+          "image": "https://www.blockchaingamealliance.org/wp-content/uploads/2023/01/6188285856599618480_121-1.jpg",
+          "source": "Blockchain Game Alliance"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at the practice of co-development past, present, and future",
+          "url": "https://www.gamedeveloper.com/business/virtuos-jake-digennaro-talks-about-the-past-and-future-of-co-development",
+          "title": "Virtuos' Jake DiGennaro discusses the past and future of co-development",
+          "description": "Virtuos chief revenue officer Jake DiGennaro discusses the impact of co-development on the video game industry.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltaa540984fe85979c/63c025fe85473e6e65aa5133/JakeDiGennarofeatured.jpg",
+          "source": "Game Developer"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Marvel Snap PvP mode dropping \"soon\"",
+          "url": "https://www.theverge.com/2023/1/12/23552374/marvel-snap-pvp-mode-january-31st-card-series-drop",
+          "title": "Marvel Snap PvP mode drops very soon - The Verge",
+          "description": "Marvel Snap plans to add the much-asked-for Battle Mode at the end of the month. In addition, several cards will drop to lower tiers, making them easier to obtain.",
+          "image": "https://cdn.vox-cdn.com/thumbor/92kA9RnKdJ2yjnWhb5i2SIIGpY4=/0x0:1920x1080/1200x628/filters:focal(748x583:749x584)/cdn.vox-cdn.com/uploads/chorus_asset/file/24166354/marvel_snap1.png",
+          "source": "The Verge"
+        }
+      ]
+    }
+  ]
+}

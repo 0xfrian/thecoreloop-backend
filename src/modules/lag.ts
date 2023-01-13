@@ -300,7 +300,7 @@ export async function attachMetadata(lag: LAG, debug: boolean=false): Promise<LA
     // Iterate through each article within category
     for (const article of article_group.articles) {
       // Optional debug logging
-      if (debug) console.log(`    ﬌ ${article.url}`);
+      if (debug) console.log(`     ﬌ ${article.url}`);
 
       // Instantiate <LinkPreview> object
       let link_preview: LinkPreview = {

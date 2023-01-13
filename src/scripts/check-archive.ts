@@ -3,9 +3,9 @@ import fs from "fs";
 import path from "path";
 
 // Types
-import { LAG } from "../types";
+import { ArticleGroup, LAG } from "../types";
 
-async function main() {
+export default async function main() {
   const dir: string = path.join(__dirname, "../../LAG/meta/");
   const filenames: string[] = fs.readdirSync(dir);
 
@@ -20,15 +20,16 @@ async function main() {
       missing_content: [],
     };
     
-    console.log(`  Checking: ${lag.heading}`);
     for (const article_group of lag.content) {
       // Skip special insights section
       if (article_group.category.includes("SPECIAL INSIGHTS")) continue;
 
+      // Instantiate new object to store missing articles
       const article_group_missing: any = {
         category: article_group.category,
         articles: [],
       };
+
       for (const article of article_group.articles) {
         const keys: string[] = Object.keys(article);
         const missing_props: string[] = [];
@@ -49,7 +50,7 @@ async function main() {
     archive_report.push(lag_report);
   }
 
-  console.log("\nWriting Archive Report . . . ");
+  console.log("nWriting Archive Report . . . ");
   fs.writeFileSync(
     path.join(__dirname, "../../LAG/", "archive-report.json"),
     JSON.stringify(archive_report, null, 2),
@@ -65,7 +66,4 @@ async function main() {
     }
   }
 }
-
-main()
-  .then(() => process.exit(0));
 
