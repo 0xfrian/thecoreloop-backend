@@ -73,7 +73,8 @@
           "caption": "A look at the Gaming Industry Report Q4 2022 by @konvoyventures",
           "url": "https://www.konvoy.vc/newsletter/gaming-industry-report",
           "title": "Gaming Industry Report",
-          "description": "Q4 2022",
+          "description": "Our analysis of the gaming market in Q4 2022 covers industry-specific trends in venture capital funding, public market data, and qualitative themes our team is monitoring as we enter a new year. While gaming has historically been resilient to adverse market conditions, this past quarter has demonstrated substantial headwinds that will have to be addressed head-on in 2023.",
+          "image": "https://i.imgur.com/kclL2Sk.png",
           "source": "www.konvoy.vc"
         },
         {
@@ -108,7 +109,7 @@
       ]
     },
     {
-      "category": "🌈 Platforms 🏔",
+      "category": "🌈 Platforms ⛰️",
       "articles": [
         {
           "caption": "A look at Fortnite Champion Series changing format but still $10M prize pool",
