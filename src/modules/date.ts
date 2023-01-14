@@ -40,11 +40,16 @@ export class Date {
     }
   }
 
-  toString(): string {
-    // Return string representing date e.g. "Wednesday April 20th 2022"
-    const Weekday = this.weekday[0].toUpperCase() + this.weekday.slice(1, 3);
-    const Month = this.month[0].toUpperCase() + this.month.slice(1, 3);
-    const date_string: string = `${Weekday} ${Month} ${this.day.slice(0, -2).padStart(2, "0")} ${this.year}`;
+  formatString(): string {
+    // Format date string e.g. "Wednesday April 20th 2022"
+    let date_string: string = ""
+    try {
+      const Weekday = this.weekday[0].toUpperCase() + this.weekday.slice(1, 3);
+      const Month = this.month[0].toUpperCase() + this.month.slice(1, 3);
+      date_string = `${Weekday} ${Month} ${this.day.slice(0, -2).padStart(2, "0")} ${this.year}`;
+    } catch (error) {
+      throw error;
+    }
     return date_string;
   }
 }

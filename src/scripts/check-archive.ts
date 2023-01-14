@@ -2,18 +2,24 @@
 import fs from "fs";
 import path from "path";
 
+// Constants 
+import { LAG_MISSING } from "../modules/lag";
+
 // Types
-import { ArticleGroup, LAG } from "../types";
+import { LAG } from "../types";
 
 export default async function main() {
   const dir: string = path.join(__dirname, "../../LAG/meta/");
   const filenames: string[] = fs.readdirSync(dir);
 
+  console.log("Inspecting LAG .json files in meta/ directory . . . ");
   const archive_report: any = [];
-  console.log("Checking LAG Archive . . . ");
   for (const filename of filenames) {
-    const file: string = path.join(__dirname, "../../LAG/meta/", filename);
-    const lag: LAG = JSON.parse(fs.readFileSync(file, { encoding: "utf-8" }));
+    // Read LAG .json file
+    const filepath: string = path.join(__dirname, "../../LAG/meta/", filename);
+    const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
+
+    // Initialize LAG report object
     const lag_report: any = {
       lag_number: lag.number,
       date: lag.date,
@@ -50,7 +56,7 @@ export default async function main() {
     archive_report.push(lag_report);
   }
 
-  console.log("nWriting Archive Report . . . ");
+  console.log("\nWriting Archive Report . . . ");
   fs.writeFileSync(
     path.join(__dirname, "../../LAG/", "archive-report.json"),
     JSON.stringify(archive_report, null, 2),
@@ -62,6 +68,7 @@ export default async function main() {
     for (const article_group_missing of lag_report.missing_content) {
       for (const article of article_group_missing.articles) {
         console.log(`    ${article_group_missing.category}: ${article.url}`);
+        console.log(`      ﬌ Missing: ${article.missing.join(", ")}`);
       }
     }
   }

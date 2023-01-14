@@ -4,6 +4,7 @@ const input = require("input");
 // Local Modules 
 import buildArchive from "../scripts/build-archive";
 import updateArchive from "../scripts/update-archive";
+import patchArchive from "../scripts/patch-archive";
 import checkArchive from "../scripts/check-archive";
 
 // Types
@@ -21,6 +22,10 @@ async function main(): Promise<void> {
     {
       name: "Update Archive",
       value: "update-archive",
+    },
+    {
+      name: "Patch Archive",
+      value: "patch-archive",
     },
     {
       name: "Check Archive",
@@ -41,6 +46,7 @@ async function main(): Promise<void> {
 
   if (choice == "build-archive") await buildArchive();
   else if (choice == "update-archive") await updateArchive();
+  else if (choice == "patch-archive") await patchArchive();
   else if (choice == "check-archive") await checkArchive();
   else if (choice == "quit") return;
 }

@@ -1,14 +1,11 @@
 // Look At Gaming 
-export interface StringMap {
-  [key: string]: string;
-}
-
 export interface LAG {
   heading: string;
   subheading: string;
-  message_id: number;     // TODO: change to string
-  number: number;         // TODO: change to string
+  message_id: number;
+  number: number;
   date: string;
+  special_insights: string;
   content: ArticleGroup[];
 }
 
@@ -36,6 +33,7 @@ export interface LinkPreview {
   description: string;
   image: string;
   source: string;
+  error: any;
 }
 
 

@@ -8,11 +8,12 @@ import { unfurl_js } from "../modules/link-preview";
 import { LinkPreview } from "../types";
 
 async function main() {
-  const url: string = "https://www.konvoy.vc/reports-pdf/gaming-industry-report?xYanOv=sY8xePfojkwYRZLD3lhBH&slOger=subscribed";
+  const url: string = "https://naavik.co/pro-blockchain-games/mastering-liquidity-pools";
 
   console.log(`Generating link preview: ${url} . . . \n`);
 
   try {
+    // const link_preview: any = await unfurl(url);
     const link_preview: any = await unfurl_js(url);
 
     console.log("Link Preview: ");

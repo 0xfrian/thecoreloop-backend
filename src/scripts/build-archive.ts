@@ -4,6 +4,7 @@ require('dotenv').config();
 // Node Modules
 import fs from "fs";
 import path from "path";
+const input = require("input");
 
 // Local modules
 import { 
@@ -21,7 +22,6 @@ import { TelegramClient } from "telegram";
 import { TelegramMessage, LAG } from "../types";
 
 export default async function main(): Promise<void> {
-
   // Connect to Telegram
   console.log("Connecting to Telegram . . . ");
   const string_session: string = process.env.TELEGRAM_STRING_SESSION!;
@@ -58,6 +58,7 @@ export default async function main(): Promise<void> {
       message_id: message.id,
       number: -1,
       date: "",
+      special_insights: "",
       content: [],
     };
 
@@ -69,15 +70,18 @@ export default async function main(): Promise<void> {
 
       // Write LAG to .json file
       const filepath_json: string = path.join(__dirname, "../../LAG/json/", `lag-${String(lag.number).padStart(3, "0")}.json`);
+      console.log(`    ﬌ Writing file: ./${filepath_json.split("/").slice(-3).join("/")}`);
       fs.writeFileSync(
         filepath_json,
         JSON.stringify(lag, null, 2),
       );
-    } catch (error) {
-      console.log(`    ﬌ ${error}`);
+    } catch (error: any) {
+      console.log(`    ﬌ ${error.message}`);
     }
   }
 
+  const confirm = await input.confirm("Fetch metadata?", { default: false });
+  if (!confirm) return;
   console.log("\nFetching metadata for LAG posts . . . ");
   const lag_filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
   for (const filename of lag_filenames) {

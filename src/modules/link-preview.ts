@@ -43,6 +43,7 @@ export async function link_preview_js(url: string): Promise<LinkPreview> {
     description: "",
     image: "",
     source: "",
+    error: "",
   };
 
   // Attempt calling getLinkPreview() three times
@@ -76,6 +77,7 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
     description: "",
     image: "",
     source: "",
+    error: "",
   };
 
   // Additional options for link preview

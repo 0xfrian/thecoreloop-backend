@@ -20,7 +20,6 @@ import { TelegramClient } from "telegram";
 import { TelegramMessage, LAG } from "../types";
 
 export default async function main(): Promise<void> {
-
   // Connect to Telegram
   console.log("Connecting to Telegram . . . ");
   const string_session: string = process.env.TELEGRAM_STRING_SESSION!;
@@ -57,6 +56,7 @@ export default async function main(): Promise<void> {
       message_id: message.id,
       number: -1,
       date: "",
+      special_insights: "",
       content: [],
     };
 
