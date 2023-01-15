@@ -120,10 +120,13 @@ export default async function main(): Promise<void> {
   console.log("\nUploading LAG Collection . . . ");
   for (const lag_number of new_lags) {
     try {
-      console.log(`  LAG #${lag_number} . . . `);
+      // Create LAG document
       const filepath: string = path.join(__dirname, "../../LAG/meta/", `lag-${lag_number.toString().padStart(3, "0")}.json`)
       const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
+      console.log(`  LAG #${lag_number} . . . `);
       await createLAG(client, lag);
+
+      // Update Latest LAG number
       await setLatestLAG(client, lag.number);
     } catch (error) {
       console.log(`  ${error}`);

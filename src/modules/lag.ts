@@ -101,7 +101,7 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
       
       // if special insights label is found, then extract its text content
       if (specialinsights_index >= 0) {
-        const special_insights: string = lines.slice(specialinsights_index, spotlight_index).join("\n");
+        const special_insights: string = lines.slice(specialinsights_index+1, spotlight_index).join("\n");
       lag.special_insights = special_insights;
     }
 

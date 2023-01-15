@@ -4,6 +4,7 @@
 import { LAG } from "../types";
 import { MongoClient, Collection, Document } from "mongodb";
 
+// Create MongoDB client 
 export async function createMongoDBClient(uri: string): Promise<MongoClient> {
   try {
     const client: MongoClient = new MongoClient(uri);
@@ -14,6 +15,7 @@ export async function createMongoDBClient(uri: string): Promise<MongoClient> {
   }
 }
 
+// Get the latest LAG number in Latest_LAG
 export async function getLatestLAG(client: MongoClient): Promise<number> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
@@ -23,6 +25,7 @@ export async function getLatestLAG(client: MongoClient): Promise<number> {
   return response.number;
 }
 
+// Set the latest LAG number in Latest_LAG
 export async function setLatestLAG(client: MongoClient, lag_number: number): Promise<any> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
@@ -40,7 +43,8 @@ export async function setLatestLAG(client: MongoClient, lag_number: number): Pro
   } else return response_update;
 }
 
-export async function createLAG(client: MongoClient, lag: LAG): Promise<void> {
+// Create/upload a given document (by LAG Number) in LAG_Collection
+export async function createLAG(client: MongoClient, lag: LAG): Promise<any> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
     .collection("LAG_Collection");
@@ -49,6 +53,7 @@ export async function createLAG(client: MongoClient, lag: LAG): Promise<void> {
   return response;
 }
 
+// Read a given document (by LAG Number) in LAG_Collection
 export async function readLAG(client: MongoClient, lag_number: number): Promise<LAG> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
@@ -58,16 +63,21 @@ export async function readLAG(client: MongoClient, lag_number: number): Promise<
   return lag;
 }
 
-export async function updateLAG(client: MongoClient, lag_number: number, new_lag: LAG) : Promise<void> {
+// Update a given document (by LAG Number) in LAG_Collection
+export async function updateLAG(client: MongoClient, lag_number: number, new_lag: LAG) : Promise<any> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
     .collection("LAG_Collection");
 
-  const lag: any = await lag_collection.updateOne({ number: lag_number }, { $set: new_lag });
-  return lag;
+  const response_update: any = await lag_collection.updateOne({ number: lag_number }, { $set: new_lag });
+  if (response_update.modifiedCount == 0) {
+    const response_create: any = await lag_collection.insertOne(new_lag);
+    return response_create;
+  } else return response_update;
 }
 
-export async function deleteLAG(client: MongoClient, lag_number: number) : Promise<void> {
+// Delete a given document (by LAG Number) in LAG_Collection
+export async function deleteLAG(client: MongoClient, lag_number: number) : Promise<any> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
     .collection("LAG_Collection");
@@ -76,6 +86,7 @@ export async function deleteLAG(client: MongoClient, lag_number: number) : Promi
   return response;
 }
 
+// Read all documents in LAG_Collection
 export async function readLAGCollection(client: MongoClient): Promise<LAG[]> {
   const lag_collection: Collection = client 
     .db("LAG_Database")
@@ -100,7 +111,8 @@ export async function readLAGCollection(client: MongoClient): Promise<LAG[]> {
   return lags;
 }
 
-export async function deleteLAGCollection(client: MongoClient): Promise<void> {
+// Delete all documents in LAG_Collection
+export async function deleteLAGCollection(client: MongoClient): Promise<any> {
   const lags: LAG[] = await readLAGCollection(client);
 
   for (const lag of lags) {

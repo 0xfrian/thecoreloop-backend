@@ -12,23 +12,22 @@ import { createTelegramClient, readMessages  } from "../modules/telegram";
 
 // Types 
 import { TelegramClient } from "telegram";
-import { TelegramMessage, LAG, Article, ArticleGroup, LinkPreview } from "../types";
+import { TelegramMessage, LAG } from "../types";
 
 async function main() {
   console.log("Connecting to Telegram . . . ");
   const string_session: string = process.env.TELEGRAM_STRING_SESSION!;
   const client_telegram: TelegramClient  = await createTelegramClient(string_session);
-  console.log();
 
-  console.log("Reading messages from 'thecoreloop' channel . . . ");
+  console.log("\nReading messages from 'thecoreloop' channel . . . ");
   const messages: TelegramMessage[] = await readMessages(client_telegram, "thecoreloop");
-  console.log();
 
-  console.log("Parsing LAG content . . . ");
+  console.log("\nParsing LAG content . . . \n");
   for (let i = 0; i < messages.length; i++) {
     const message: TelegramMessage = messages[i];
     try {
-      const lag: LAG = parseLAG(message, true);
+      const lag: LAG = parseLAG(message, false);
+      console.log(lag);
     } catch (error) {
       console.log(`  ${error}`);
     }
@@ -37,5 +36,4 @@ async function main() {
 
 main()
   .then(() => process.exit(0));
-
 

@@ -9,6 +9,7 @@ const input = require("input");
 // Local modules
 import { 
   createMongoDBClient,  
+  createLAG,
   updateLAG,
 } from "../modules/mongodb";
 
@@ -17,19 +18,27 @@ import { LAG } from "../types";
 import { MongoClient } from "mongodb";
 
 export default async function main(): Promise<void> {
+  // Prompt user for which LAG #'s to update
   const user_input: string = await input.text(
     "Which LAG(s) would you like to patch? (separate with commas)",
-    { default: "None" },
+    { default: "quit" },
   );
 
-  // Skip if user_input is empty
-  if (user_input == "None") return;
+  // Initialize LAG # array
   let lag_numbers: number[] = [];
-  try {
-    lag_numbers = user_input.split(",").map(lag_number => Number(lag_number.trim()));
-  } catch (error) {
-    console.log("Invalid LAG number(s): ", user_input);
-    console.log(error);
+
+  // Skip if user_input is empty
+  if (user_input.toLowerCase() == "quit") return;
+  else if (user_input.toLowerCase() == "all") {
+    const filenames_meta: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
+    lag_numbers = filenames_meta.map(filename => Number(filename.slice(4, 7)));
+  } else {
+    try {
+      lag_numbers = user_input.split(",").map(lag_number => Number(lag_number.trim()));
+    } catch (error) {
+      console.log("Invalid LAG number(s): ", user_input);
+      console.log(error);
+    }
   }
 
   // Connect to MongoDB
@@ -43,7 +52,10 @@ export default async function main(): Promise<void> {
       const filepath: string = path.join(__dirname, "../../LAG/meta/", `lag-${lag_number.toString().padStart(3, "0")}.json`);
       const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
       console.log(`  LAG #${lag_number} . . . `)
-      await updateLAG(client, lag_number, lag);
+      const response_update: any = await updateLAG(client, lag_number, lag);
+      if (response_update.modifiedCount == 0) {
+        const response_create: any = await createLAG(client, lag);
+      }
     } catch (error) {
       console.log(`  Something went wrong while processing LAG #${lag_number}`);
       console.log(`  ${error}`);
