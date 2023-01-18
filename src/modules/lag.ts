@@ -59,11 +59,12 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
 
       if (debug) console.log(`  Heading: ${heading}`);
 
-      // Slice LAG number from heading
+      // Parse LAG number from heading
       const hashtag_index: number = heading.indexOf("#");
       if (hashtag_index >= 0) {
         const ending_index: number = heading.indexOf(" ", hashtag_index);
         lag.number = Number(heading.slice(hashtag_index+1, ending_index));
+        if (isNaN(lag.number)) throw Error("LAG number not found!")
         lag.heading = `Look at Gaming #${lag.number}`;
         if (debug) console.log(`    ﬌ Number: ${lag.number}`)
       } else throw Error("LAG number not found!");

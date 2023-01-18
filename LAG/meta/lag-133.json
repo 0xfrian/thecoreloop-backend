@@ -1,0 +1,99 @@
+{
+  "heading": "Look at Gaming #133",
+  "subheading": "",
+  "message_id": 149,
+  "number": 133,
+  "date": "Tue Jan 17 2023",
+  "special_insights": "powered by AppMagic.rocks 😎\nSorry no insights today frens.  Let's get straight to the news.",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the state of mobile 2023 by data.ai",
+          "url": "https://gamedevreports.substack.com/p/dataai-state-of-mobile-2023",
+          "title": "data.ai: State of Mobile 2023 - by Dmitriy Byshonkov",
+          "description": "data.ai shared its annual report with a massive data chunk. There is a gaming part too.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2089ec89-44d0-4699-ba33-855cfdd41ce3_2816x1154.png",
+          "source": "Dmitriy Byshonkov"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at a review of the mobile game market in Dec 2022 by GameRefinery",
+          "url": "https://www.gamerefinery.com/mobile-game-market-review-december-2022/",
+          "title": "Analyst Bulletin: Mobile Game Market Review December 2022",
+          "description": "December was a major month for music events, the highlight being Aurora's concert in thatgamecompany's Sky: Children of the Light.",
+          "image": "https://www.gamerefinery.com/wp-content/uploads/2023/01/analyst-bulletin-december-2022-header-image.png",
+          "source": "GameRefinery"
+        },
+        {
+          "caption": "A look at game devs objecting to the Indian gov't lumping video games with gambling",
+          "url": "https://www.gamesindustry.biz/devs-object-to-indian-government-lumping-video-games-in-with-gambling",
+          "title": "Devs object to Indian government lumping video games in with gambling | GamesIndustry.biz",
+          "description": "A group of 44 Indian game developers and esports companies are objecting to a government plan that would combine tradit…",
+          "image": "https://assets.reedpopcdn.com/indian-rep.jpg/BROK/thumbnail/1200x630/indian-rep.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at the Marketing Micro Audit by @eric_seufert",
+          "url": "https://mobiledevmemo.com/introducing-the-mobile-dev-memo-marketing-micro-audit/",
+          "title": "Introducing the Marketing Micro Audit | Mobile Dev Memo by Eric Seufert",
+          "description": "Introducing the Marketing Micro Audit. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2023/01/Micro-Audit_1-1024x576.jpg",
+          "source": "Mobile Dev Memo"
+        },
+        {
+          "caption": "A look at the state of mobile 2023 by data.ai",
+          "url": "https://gamedevreports.substack.com/p/dataai-state-of-mobile-2023",
+          "title": "data.ai: State of Mobile 2023 - by Dmitriy Byshonkov",
+          "description": "data.ai shared its annual report with a massive data chunk. There is a gaming part too.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2089ec89-44d0-4699-ba33-855cfdd41ce3_2816x1154.png",
+          "source": "Dmitriy Byshonkov"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at game console waitlists",
+          "url": "https://newsletter.gamediscover.co/p/console-game-wishlists-whats-the",
+          "title": "Console game wishlists - what's the deal?",
+          "description": "We get into it. Also: some interesting 'core' Steam player stats & more.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce30ec65-17e4-4487-8b21-9621251e343f_800x493.jpeg",
+          "source": "Simon Carless"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms ⛰️",
+      "articles": [
+        {
+          "caption": "A look at Valve's assets from Portal, Half-Life 2, and more leaked online",
+          "url": "https://www.gamesindustry.biz/valves-assets-from-portal-half-life-2-and-more-leak-online",
+          "title": "Valve's assets from Portal, Half-Life 2, and more leak online | GamesIndustry.biz",
+          "description": "Asset repositories from Valve games have been leaked online. According to PC Gamer, this is the biggest asset leak in t…",
+          "image": "https://assets.reedpopcdn.com/Portal.jpeg/BROK/thumbnail/1200x630/Portal.jpeg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at House of Blueberry raising $6m",
+          "url": "https://venturebeat.com/games/house-of-blueberry-raises-6m-for-digital-fashion-in-the-metavese/",
+          "title": "House of Blueberry raises $6M for digital fashion in the metavese | VentureBeat",
+          "description": "House of Blueberry has raised $6 million in seed funding for its digital fashion business in the metaverse and interactive entertainment.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/house-of-blueberry-5.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

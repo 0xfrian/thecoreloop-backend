@@ -1,0 +1,67 @@
+{
+  "heading": "Look at Gaming #133",
+  "subheading": "",
+  "message_id": 149,
+  "number": 133,
+  "date": "Tue Jan 17 2023",
+  "special_insights": "powered by AppMagic.rocks 😎\nSorry no insights today frens.  Let's get straight to the news.",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the state of mobile 2023 by data.ai",
+          "url": "https://gamedevreports.substack.com/p/dataai-state-of-mobile-2023"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at a review of the mobile game market in Dec 2022 by GameRefinery",
+          "url": "https://www.gamerefinery.com/mobile-game-market-review-december-2022/"
+        },
+        {
+          "caption": "A look at game devs objecting to the Indian gov't lumping video games with gambling",
+          "url": "https://www.gamesindustry.biz/devs-object-to-indian-government-lumping-video-games-in-with-gambling"
+        },
+        {
+          "caption": "A look at the Marketing Micro Audit by @eric_seufert",
+          "url": "https://mobiledevmemo.com/introducing-the-mobile-dev-memo-marketing-micro-audit/"
+        },
+        {
+          "caption": "A look at the state of mobile 2023 by data.ai",
+          "url": "https://gamedevreports.substack.com/p/dataai-state-of-mobile-2023"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at game console waitlists",
+          "url": "https://newsletter.gamediscover.co/p/console-game-wishlists-whats-the"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms ⛰️",
+      "articles": [
+        {
+          "caption": "A look at Valve's assets from Portal, Half-Life 2, and more leaked online",
+          "url": "https://www.gamesindustry.biz/valves-assets-from-portal-half-life-2-and-more-leak-online"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at House of Blueberry raising $6m",
+          "url": "https://venturebeat.com/games/house-of-blueberry-raises-6m-for-digital-fashion-in-the-metavese/"
+        }
+      ]
+    }
+  ]
+}

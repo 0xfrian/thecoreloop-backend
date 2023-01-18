@@ -1,0 +1,74 @@
+{
+  "heading": "Look at Gaming #132",
+  "subheading": "",
+  "message_id": 148,
+  "number": 132,
+  "date": "Mon Jan 16 2023",
+  "special_insights": "powered by AppMagic.rocks 😎\nSorry no insights today frens.  Let's get straight to the news.",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the Chinese gov buying shares in Tencent",
+          "url": "https://www.gamesindustry.biz/the-chinese-government-is-set-to-take-shares-in-tencent"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at HBO's the last of us, where film imitates game",
+          "url": "https://venturebeat.com/games/hbos-the-last-of-us-is-where-film-imitates-games-but-not-too-much/"
+        },
+        {
+          "caption": "A look at how hybrid work and sustainability became part of game design",
+          "url": "https://venturebeat.com/games/how-sustainability-and-hybrid-work-has-become-a-part-of-computer-design-alex-cho/"
+        },
+        {
+          "caption": "A look at mobile games unexpected highs & lows of 2022",
+          "url": "https://venturebeat.com/games/data-ai-mobile-gaming-had-unexpected-highs-and-lows-in-2022/"
+        },
+        {
+          "caption": "A look at Dungeons & Dragons open gaming license announcement",
+          "url": "https://www.theverge.com/2023/1/13/23554014/dungeons-and-dragons-dnd-open-gaming-license-announcement-wotc-hasbro"
+        },
+        {
+          "caption": "A look at the Chinese gov buying shares in Tencent",
+          "url": "https://www.gamesindustry.biz/the-chinese-government-is-set-to-take-shares-in-tencent"
+        },
+        {
+          "caption": "A look at NetEase's Skybox Acquisition, Square Enix Analysis, & Meta UA",
+          "url": "https://www.youtube.com/watch?v=2VITk6TL_GI&ab_channel=Naavik"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how multiplayer impacts active users",
+          "url": "https://naavik.co/digest/how-multiplayer-impacts-active-users"
+        },
+        {
+          "caption": "A look at a deep dive into 30 years of Kirby",
+          "url": "https://www.gamedeveloper.com/gdc/dive-into-30-years-of-kirby-in-this-gdc-2023-session-on-kirby-and-the-forgotten-land-"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Immutable X's 2023 gaming outlook",
+          "url": "https://venturebeat.com/games/immutables-outlook-for-blockchain-games-in-2023-robbie-ferguson/"
+        },
+        {
+          "caption": "A look at Tiny Colony to debut as a tower defense game on IMX",
+          "url": "https://venturebeat.com/games/tiny-colony-will-debut-as-web3-tower-defense-game-on-immutablex/"
+        }
+      ]
+    }
+  ]
+}
