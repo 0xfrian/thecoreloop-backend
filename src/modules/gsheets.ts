@@ -18,12 +18,20 @@ export async function createGSheet(
   });
   await doc.loadInfo();
 
-  const new_sheet = await doc.addSheet();
-  await new_sheet.updateProperties({ title: sheet_title });
-  return new_sheet;
+  try {
+    const new_sheet = await doc.addSheet();
+    await new_sheet.updateProperties({ title: sheet_title });
+    return new_sheet;
+  } catch (error: any) {
+    if (error.message.includes("already exists")) {
+      throw new Error(
+        `Error 409 (Conflict): Sheet '${sheet_title}' already exists`
+      );
+    } else throw error;
+  }
 }
 
-export async function readGSheets(
+export async function readGSheet(
   creds: any, 
   gsheet_id: string, 
   sheet_title: string
@@ -36,20 +44,29 @@ export async function readGSheets(
   });
   await doc.loadInfo();
   
-  // Read sheet
-  const sheet = doc.sheetsByTitle[sheet_title];
-  if (sheet) await sheet.loadHeaderRow();
-  else return undefined;
-
-  return sheet;
+  try {
+    // Read sheet
+    const sheet = doc.sheetsByTitle[sheet_title];
+    if (sheet == undefined) throw Error(
+      `Error 404 (Not Found): Sheet '${sheet_title}' not found`
+    ); 
+    return sheet;
+  } catch (error: any) {
+    throw error;
+  }
 }
 
 export async function parseSheet(sheet: any) {
+  // Load header values
+  await sheet.loadHeaderRow();
+
+  // Assign headers
   const headers = sheet.headerValues.map((header: string) => 
     filterString(header));
-  const _rows = await sheet.getRows();
-  const rows = _rows.map((row: any) => 
-    row._rawData.map((cell: any) => filterString(cell)));
+  
+  // Assign rows
+  const rows = (await sheet.getRows())
+    .map((row: any) => row._rawData.map((cell: any) => filterString(cell)));
 
   // Check row dimensions
   // Note: GSheets API excludes empty cells near the last column
@@ -58,25 +75,19 @@ export async function parseSheet(sheet: any) {
       // Fill in for empty cells that may have been removed
       while (row.length < headers.length) row.push("");
     } else if (row.length > headers.length) {
-      // Throw error if the # of row entries exceeds the # of headers
-      throw Error(
-        `Number of elements in Row #${row_num} \
-        exceeds number of headers!`
-      );
+      // Log error if the # of row entries exceeds the # of headers
+      console.log(`Row #${row_num} entries exceeds number of headers!`);
     }
   }
 
-  // Organize data
+  // Organize data into custom object containing headers, rows, and 
+  //  indexable column headers
   let data: any = { headers, rows };
+  // Assign object property to be named after column header
   for (const [col_num, header] of headers.entries()) {
-    // Assign object property to be named after column header
-    data[header] = [];
-    for (const row of rows) {
-      // Append corresponding entries under each column header
-      data[header].push(row[col_num]);
-    }
+    data[header] = rows.forEach(
+      (row: any) => data[header].push(row[col_num]));
   }
-
   return data;
 }
 

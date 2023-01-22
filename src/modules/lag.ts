@@ -97,9 +97,9 @@ export function parseLAG(
     // Find line indices containing Special Insights and Spotlight labels
     for (let i = 0; i < lines.length; i++) {
       const line: string = lines[i];
-      if (line.toLowerCase().includes("special insights")) {
+      if (line.includes("‼️ SPECIAL INSIGHTS 👀")) {
         specialinsights_index = i;
-      } else if (line.toLowerCase().includes("spotlight")) {
+      } else if (line.includes("🔦 Spotlight 🌟")) {
         spotlight_index = i;
       }
     }
