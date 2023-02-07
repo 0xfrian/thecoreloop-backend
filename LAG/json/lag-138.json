@@ -1,0 +1,79 @@
+{
+  "heading": "Look at Gaming #138",
+  "subheading": "",
+  "number": 138,
+  "date": "Thu Jan 26 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Xbox Gaming Rev down but Game Pass Subscriber base continues to grow",
+          "url": "https://www.gameinformer.com/2023/01/25/xbox-gaming-revenue-down-but-game-pass-subscriber-base-continues-to-grow"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Twitch promising better monetization and ad placement in 2023",
+          "url": "https://www.gamedeveloper.com/business/twitch-promises-easier-revenue-opportunities-and-ad-placement-in-2023"
+        },
+        {
+          "caption": "A look at Xbox Gaming Rev down but Game Pass Subscriber base continues to grow",
+          "url": "https://www.gameinformer.com/2023/01/25/xbox-gaming-revenue-down-but-game-pass-subscriber-base-continues-to-grow"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at whether a big game release can crush your launch or not",
+          "url": "https://newsletter.gamediscover.co/p/can-another-big-game-release-crush"
+        },
+        {
+          "caption": "A look at \"Self-Imposed Crunch\" in the games industry",
+          "url": "https://www.gamedeveloper.com/blogs/diving-into-the-nuance-of-self-imposed-crunch"
+        },
+        {
+          "caption": "A look at why Minecraft won't reach its potential",
+          "url": "https://naavik.co/digest/why-minecraft-wont-reach-its-full-potential"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the wrongs of web3 gaming by Rockstar & 2K veteran",
+          "url": "https://mobilegamer.biz/screw-tokenomics-play-to-earn-all-that-stuff-it-was-a-waste-of-time/"
+        },
+        {
+          "caption": "A look at Mythical Games acquiring DMarket",
+          "url": "https://venturebeat.com/games/mythical-games-acquires-dmarket-blockchain-gaming-marketplace/"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at an introduction to choosing colors for game visual effects",
+          "url": "https://www.gamesindustry.biz/an-introduction-to-choosing-colors-in-game-vfx"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Grilla raising $3M",
+          "url": "https://venturebeat.com/games/grilla-raises-3m-for-skill-based-gaming-tournament-platform/"
+        }
+      ]
+    }
+  ]
+}

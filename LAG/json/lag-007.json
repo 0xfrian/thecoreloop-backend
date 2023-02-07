@@ -1,7 +1,6 @@
 {
   "heading": "Look at Gaming #7",
   "subheading": "",
-  "message_id": 15,
   "number": 7,
   "date": "Wed Jul 06 2022",
   "special_insights": "",
@@ -12,15 +11,6 @@
         {
           "caption": "A look at \"What the heck is going on?\" in games by DoF",
           "url": "https://www.deconstructoroffun.com/newsletter/wthigo"
-        }
-      ]
-    },
-    {
-      "category": "👾 Game & Stats Releases 🎮",
-      "articles": [
-        {
-          "caption": "A look at God of War: Ragnarok Release Date.  I normally don't post game releases but GoW is one of my fave franchises.",
-          "url": "https://venturebeat.com/2022/07/06/god-of-war-ragnarok-launches-on-november-9/"
         }
       ]
     },
@@ -89,6 +79,15 @@
         {
           "caption": "A look at the current state of web3 game fundraising with Naavik",
           "url": "https://www.youtube.com/watch?v=BvxiBsJwMfo&ab_channel=Naavik"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at God of War: Ragnarok Release Date.  I normally don't post game releases but GoW is one of my fave franchises.",
+          "url": "https://venturebeat.com/2022/07/06/god-of-war-ragnarok-launches-on-november-9/"
         }
       ]
     }

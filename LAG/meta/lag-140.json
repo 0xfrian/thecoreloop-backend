@@ -1,0 +1,106 @@
+{
+  "heading": "Look at Gaming #140",
+  "subheading": "",
+  "number": 140,
+  "date": "Mon Jan 30 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the good and the bad of F2P",
+          "url": "https://www.konvoy.vc/newsletter/the-good-and-bad-of-free-to-play",
+          "title": "The Good and Bad of Free-To-Play",
+          "description": "F2P, while being one of the greatest business model innovations in gaming, has caused problems that it's going to need to fix.",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/63d472faf3473afd8e9f5c95_f2p.png",
+          "source": "www.konvoy.vc"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Dungeons & Dragons publisher relents and abandons license changes",
+          "url": "https://www.axios.com/2023/01/27/dungeons-dragons-publisher-abandons-controversial-license-changes",
+          "title": "Dungeons & Dragons creators relent, abandon controversial license changes",
+          "description": "Survey results showed Wizards of the Coast there was no other option",
+          "image": "https://images.axios.com/n0K81UJqSMaVNGtkNtSHmMvGOhA=/0x0:1920x1080/1366x768/2023/01/27/1674855835627.jpg",
+          "source": "Axios"
+        },
+        {
+          "caption": "A look at GDC: Game Industry Report 2023",
+          "url": "https://gamedevreports.substack.com/p/gdc-game-industry-report-2023",
+          "title": "GDC: Game Industry Report 2023 - by Dmitriy Byshonkov",
+          "description": "Web3 games are a hot topic, but developers are not interested in them.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54dbd0ec-4753-41d8-9331-856acfb6a19e_1456x1654.png",
+          "source": "Dmitriy Byshonkov"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the good and the bad of F2P",
+          "url": "https://www.konvoy.vc/newsletter/the-good-and-bad-of-free-to-play",
+          "title": "The Good and Bad of Free-To-Play",
+          "description": "F2P, while being one of the greatest business model innovations in gaming, has caused problems that it's going to need to fix.",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/63d472faf3473afd8e9f5c95_f2p.png",
+          "source": "www.konvoy.vc"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at PS VR2 and Fortnite gaining traction in XR",
+          "url": "https://www.gamedeveloper.com/business/psvr2-and-i-fortnite-i-gain-traction-in-the-ar-and-metaverse-future",
+          "title": "PS VR2 and Fortnite are gaining traction in mixed reality's future",
+          "description": "GDC's State of the Industry for 2023 shows that the PlayStation VR2 is gaining steam with developers, and their metaverse hopes continue to fall on Fortnite.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt2f6a9d92b66d6b1e/6214e804cd2cc54456999557/PSVR2_Header_copy.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at how long Microsoft can float on goodwill",
+          "url": "https://www.gamesindustry.biz/how-long-can-microsoft-float-on-goodwill-opinion",
+          "title": "How long can Microsoft float on goodwill? | Opinion | GamesIndustry.biz",
+          "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox It's important to have realistic expectati…",
+          "image": "https://assets.reedpopcdn.com/Xbox-Series-X%7CS.jpg/BROK/thumbnail/1200x630/Xbox-Series-X%7CS.jpg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the great reset: 2023 Guide to web3 games by @naavik_co",
+          "url": "https://naavik.co/deep-dives/the-great-reset-2023",
+          "title": "The Great Reset: Your 2023 Guide to Web3 Games — Naavik",
+          "description": "Web3 gaming faced incredible challenges in 2022, yet we remain optimistic \r\nabout the future. Of course, that future must look different from the past. \r\nNaavik’s joint report with Delphi Digital covers everything you need to \r\nknow — from games, guilds, infrastructure, regulations, and more.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63d4274d876efc6c38f1fcd1/1674848082496/naavik_delphi.png?format=1500w",
+          "source": "Naavik"
+        },
+        {
+          "caption": "A look at Manticore Games launching NFT collection with MekaVerse",
+          "url": "https://venturebeat.com/games/manticore-games-launches-nft-collection-with-mekaverse-developers/",
+          "title": "Manticore Games launches NFT collection with MekaVerse developers | VentureBeat",
+          "description": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. Manticore Games, developer of the Core Games platform, has teamed up with developer MekaVerse on a new collection of non-fungible tokens (NFTs). They’re collaborating on MekaVerse’s Meka-Drivers collection, where the NFTs will deliver real utility for the buyers […]",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/manticore-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Free2Own and Free2Play -- lessons from between",
+          "url": "https://naavik.co/digest/the-evolution-of-marketing-for-blockchain-games",
+          "title": "What F2O Can Learn from F2P — Naavik",
+          "description": "From paid mints to free mints, the nature and release of NFTs in blockchain \r\ngames has changed drastically over the last few months. We look at \r\nChampions Ascension’s recent mint and understand what this means for \r\nmarketers moving forward.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63d640f20860f328da0c4ce3/1674985717113/f6jEx0KS.jpeg?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    }
+  ]
+}

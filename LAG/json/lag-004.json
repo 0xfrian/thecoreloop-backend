@@ -1,7 +1,6 @@
 {
   "heading": "Look at Gaming #4",
   "subheading": "",
-  "message_id": 9,
   "number": 4,
   "date": "Wed Jun 29 2022",
   "special_insights": "",
@@ -54,7 +53,7 @@
       ]
     },
     {
-      "category": "🌈 Platforms ⛰️",
+      "category": "🌈 Platforms 🏔️",
       "articles": [
         {
           "caption": "A look at how ReadyUp helps Discord severs handle event discovery and management.  I think discord is a v v powerful UA/distribution tool",
