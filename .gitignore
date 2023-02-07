@@ -7,8 +7,8 @@ node_modules/
 # Ignore archived folder
 archived/
 
-# Ignore custom scripts 
-src/scripts/custom
+# Ignore custom scripts folder 
+/src/scripts/custom/
 
 # Ignore local test modules and notes
 sandbox.ts
