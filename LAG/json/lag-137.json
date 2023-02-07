@@ -1,0 +1,129 @@
+{
+  "heading": "Look at Gaming #137",
+  "subheading": "",
+  "number": 137,
+  "date": "Wed Jan 25 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at AI killing UGC?",
+          "url": "https://www.konvoy.vc/newsletter/will-ai-kill-ugc"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at AppsFlyer's Uninstall benchmarks on Android",
+          "url": "https://gamedevreports.substack.com/p/appsflyer-uninstall-benchmarks-on"
+        },
+        {
+          "caption": "A look into fans revolting to Dungeons & Dragons potentially new licensing policies",
+          "url": "https://www.axios.com/2023/01/23/dungeons-dragons-ogl-wizards-of-the-coast"
+        },
+        {
+          "caption": "A look at Gaming M&A and Fundraising by Quantum",
+          "url": "https://venturebeat.com/games/why-game-acquisition-and-financing-numbers-show-reasons-for-optimism-the-deanbeat/"
+        },
+        {
+          "caption": "A look at whether M&A is good for the industry.  Devs don't think so",
+          "url": "https://www.gamedeveloper.com/business/can-m-a-be-a-positive-force-in-the-game-industry-devs-aren-t-convinced"
+        },
+        {
+          "caption": "A look at Newzoo's market trends to watch in 2023, Part III",
+          "url": "https://newzoo.com/insights/articles/games-market-trends-to-watch-in-2023-and-beyond-part-iii"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how Goose Goose Duck hit 700k CCU",
+          "url": "https://newsletter.gamediscover.co/p/how-goose-goose-duck-hit-700k-ccu"
+        },
+        {
+          "caption": "A look at some notable events in 2008 for the games industry",
+          "url": "https://www.gamedeveloper.com/design/2008-week-devil-may-cry-4-the-smash-success-that-doomed-the-franchise"
+        },
+        {
+          "caption": "A look at AI killing UGC?",
+          "url": "https://www.konvoy.vc/newsletter/will-ai-kill-ugc"
+        },
+        {
+          "caption": "A look at the promise of generative AI in 2023",
+          "url": "https://mobiledevmemo.com/the-promise-of-generative-ai-in-2023/"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at Fortnite on iOS getting even more limited",
+          "url": "https://www.theverge.com/2023/1/23/23567661/fortnite-ios-mac-google-play-v-bucks-parental-controls"
+        },
+        {
+          "caption": "A look at livestreaming + audience interactivity",
+          "url": "https://venturebeat.com/games/captaintv-loaded-creators-team-up-for-streamer-led-racing-game/"
+        },
+        {
+          "caption": "A look at Riot Games saying LoL source code stolen",
+          "url": "https://www.axios.com/2023/01/24/riot-games-league-of-legends-source-code-cyberattack"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at understanding web3 player behavior",
+          "url": "https://www.youtube.com/watch?v=LX6xUde-wXY"
+        },
+        {
+          "caption": "A look at what web3 games should learn from designing fun game markets",
+          "url": "https://www.deconstructoroffun.com/shorts/2023/1-24/web3-games-learn-from-designing-game-markets"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at knowing the difference between remasters, remakes, reboots, and ports",
+          "url": "https://kevurugames.com/blog/remasters-remakes-reboots-and-ports-in-video-games/"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at The Tiny Digital Factory raising $3.25M",
+          "url": "https://www.pocketgamer.biz/news/80678/sandsoft-invests-325-million-in-the-tiny-digital-factory/"
+        },
+        {
+          "caption": "A look at Voldex raising a Series A",
+          "url": "https://venturebeat.com/games/voldex-announces-new-funding-round-for-its-user-generated-content/"
+        },
+        {
+          "caption": "A look at Fractal raising another round",
+          "url": "https://venturebeat.com/games/fractal-takes-nft-platform-to-polygon-and-raises-funding/"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at The Last Of Us episode 2 breaking records for HBO",
+          "url": "https://www.gameinformer.com/2023/01/24/the-last-of-us-episode-2-broke-a-massive-record-for-hbo"
+        }
+      ]
+    }
+  ]
+}

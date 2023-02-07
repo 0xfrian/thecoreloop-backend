@@ -1,0 +1,167 @@
+{
+  "heading": "Look at Gaming #144",
+  "subheading": "",
+  "number": 144,
+  "date": "Fri Feb 03 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Roblox holding NFL Super Bowl concert",
+          "url": "https://venturebeat.com/games/roblox-to-hold-nfl-super-bowl-concert-starring-saweetie/",
+          "title": "Roblox to hold NFL Super Bowl concert starring Saweetie | VentureBeat",
+          "description": "The NFL, Intuit and GameFam are partnering to bring a virtual Super Bowl concert to Roblox ahead of the real event.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/Screenshot_6-NEW.png?fit=600%2C337&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at the impact of global chip shortage",
+          "url": "https://newzoo.com/insights/articles/latest-consumer-insights-pc-gaming-hardware-and-components-markets",
+          "title": "Latest consumer insights for PC gaming hardware and components",
+          "description": "Explore the impact of the global chip shortage and learn Newzoo's player personas to level up gaming PC hardware and components strategies.",
+          "image": "https://newzoo.com/wp-content/uploads/2023/02/feat-hardware.png",
+          "source": "Newzoo"
+        },
+        {
+          "caption": "A look at NCSoft West laying off 20% of staff",
+          "url": "https://www.gamesindustry.biz/ncsoft-west-lays-off-20-of-staff",
+          "title": "NCsoft West lays off 20% of staff | GamesIndustry.biz",
+          "description": "NCsoft West has laid off about one-fifth of its employees, as reported by VentureBeat. \"We can confirm that we laid off…",
+          "image": "https://assets.reedpopcdn.com/ncsoftwest.jpg/BROK/thumbnail/1200x630/ncsoftwest.jpg",
+          "source": "GamesIndustry.biz"
+        },
+        {
+          "caption": "A look at PlayStation 5 surpassing 32M units",
+          "url": "https://www.gameinformer.com/2023/02/02/playstation-5-surpasses-32-million-units-shipped-after-its-best-quarter-yet",
+          "title": "PlayStation 5 Surpasses 32 Million Units Shipped After Its Best Quarter Yet - Game Informer",
+          "description": "The 2022 holiday season was great for Sony.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/02/02/65f978d2/ps5.jpg",
+          "source": "Game Informer"
+        },
+        {
+          "caption": "A look at Casual game attracted 28% of all game advertisers 2022",
+          "url": "https://www.pocketgamer.biz/news/80762/casual-games-drew-almost-28-of-all-game-advertisers-last-year/",
+          "title": "Casual games drew almost 28% of all game advertisers last year | Pocket Gamer.biz | PGbiz",
+          "description": "SocialPeta has released a new report delving into the mobile gaming and app marketing landscape in 2022.\r          The number of quarterly average advertisers grew 17...",
+          "image": "https://media.pocketgamer.biz/2022/11/119454/socialpeta-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at the biggest mobile game dev trends of 2022",
+          "url": "https://www.gamerefinery.com/the-biggest-mobile-game-development-trends-of-2022/",
+          "title": "The Biggest Mobile Game Development Trends of 2022",
+          "description": "From the rise of roguelite and minigame mechanics in mobile games to the growing popularity of IP-based mobile games and new mid-core games, plenty of new development trends emerged in the mobile market during 2022.",
+          "image": "https://www.gamerefinery.com/wp-content/uploads/2023/02/2022-mobile-game-market-review-header-image.png",
+          "source": "GameRefinery"
+        },
+        {
+          "caption": "A look at 2022 US Video Games spending, with some hope for 2023",
+          "url": "https://www.npd.com/news/blog/2023/2022s-strong-finish-brings-optimism-to-2023/",
+          "title": "2022 U.S. Video Game Industry Report - 5% Decrease in Spending - The NPD Group",
+          "description": "Get the latest report on U.S. consumer spending on video game hardware, content, and accessories in 2022 from industry analyst Mat Piscatella. Learn about the impact of supply constraints, limited game releases, and changing conditions on the market, and find out which games and hardware performed well. Explore the outlook for 2023, including the potential for growth and areas of uncertainty.",
+          "image": "https://www.npd.com/wp-content/uploads/2023/02/2022s-Strong-Finish-Brings-Optimism-to-2023.jpg",
+          "source": "The NPD Group"
+        },
+        {
+          "caption": "A look at Niko Partners' MENA-3 games market to grow 56% by 2026",
+          "url": "https://venturebeat.com/games/niko-partners-mena-3-games-market-to-grow-56-by-2026/",
+          "title": "Niko Partners: MENA-3 games market to grow 56% by 2026 | VentureBeat",
+          "description": "Niko Partners forecasts major growth for gaming, esports and streaming in Egypt, Saudi Arabia and the UAE by 2026.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/Niko-Partners-Infographic-for-MENA-report_high_1-30-23.png?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at RPGs saw a 5% increase in downloads in 2022",
+          "url": "https://www.pocketgamer.biz/news/80765/rpgs-saw-a-476-increase-in-downloads-last-year/",
+          "title": "RPGs saw a 4.76% increase in downloads last year | Pocket Gamer.biz | PGbiz",
+          "description": "A SocialPeta report released delves into the performance of advertisers and creatives working in different genres in 2022.\r  The report notes that RPGs experi...",
+          "image": "https://media.pocketgamer.biz/2022/11/119454/socialpeta-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how Playtika fumbled the $600M acquisition of Redecor",
+          "url": "https://mobilegamer.biz/how-playtika-fumbled-its-600m-acquisition-of-redecor/",
+          "title": "How Playtika fumbled its $600m acquisition of Redecor - Mobilegamer.biz",
+          "description": "As its unsolicited bid to acquire Rovio goes unanswered, we take a look at Playtika’s handling of another Finnish studio.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2023/02/playtika-redecor.jpg",
+          "source": "Mobilegamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at Roblox holding NFL Super Bowl concert",
+          "url": "https://venturebeat.com/games/roblox-to-hold-nfl-super-bowl-concert-starring-saweetie/",
+          "title": "Roblox to hold NFL Super Bowl concert starring Saweetie | VentureBeat",
+          "description": "The NFL, Intuit and GameFam are partnering to bring a virtual Super Bowl concert to Roblox ahead of the real event.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/Screenshot_6-NEW.png?fit=600%2C337&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Google providing devs alt user payment options in India",
+          "url": "https://www.gamesindustry.biz/google-to-provide-developers-alternative-user-payment-options-in-india",
+          "title": "Google to provide developers alternative user payment options in India | GamesIndustry.biz",
+          "description": "Sign up for the GI Daily here to get the biggest news straight to your inbox Google will soon allow developers to provi…",
+          "image": "https://assets.reedpopcdn.com/Google-Company-logo.jpeg/BROK/thumbnail/1200x630/Google-Company-logo.jpeg",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Ready Player Me launches generative AI avatars",
+          "url": "https://venturebeat.com/games/ready-player-me-launches-trial-of-generative-ai-avatar-creator/",
+          "title": "Ready Player Me launches trial of generative AI avatar creator | VentureBeat",
+          "description": "Ready Player Me is launching an experimental trial where players can use generative AI to craft their own avatar outfits.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/ready-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at the DMarket and Mythical Games merger with the backdrop of war",
+          "url": "https://www.axios.com/2023/02/02/mythical-dmarket-vlad-panchenko-ukraine",
+          "title": "A crypto merger in the shadow of war",
+          "description": "Despite a bleak year, a Ukrainian web 3 gaming booster remains optimistic.",
+          "image": "https://images.axios.com/rBie1k7CAkhv4YJdvktaYGJXEGw=/0x0:1920x1080/1366x768/2023/02/02/1675372717811.jpg",
+          "source": "Axios"
+        },
+        {
+          "caption": "A look at Dappradar's report on on-chain activity, gaming usage leading",
+          "url": "https://venturebeat.com/games/gaming-grows-to-48-of-all-blockchain-activity-dappradar/",
+          "title": "Gaming grows to 48% of all blockchain activity | DappRadar | VentureBeat",
+          "description": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. Gaming grew to 48% of all blockchain activity during the month of January, up from 45% in December, according to market analysis firm DappRadar. In January 2023, gaming daily unique active wallets reached 839,436. That means there were […]",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/dapp-4.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at 10 points to check before choosing a dev",
+          "url": "https://kevurugames.com/blog/video-game-questions-to-ask-10-points-to-check-before-choosing-a-developer/",
+          "title": "Video Game Questions: What to Ask a Video Game Developer | Kevuru Games",
+          "description": "What should you ask a video game developer before ordering a service? ⏩ How to choose the right video game development company?",
+          "image": "https://kevurugames.com/kevuru.png",
+          "source": "Kevuru Games"
+        }
+      ]
+    }
+  ]
+}

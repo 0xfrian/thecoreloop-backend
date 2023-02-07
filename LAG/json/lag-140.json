@@ -1,0 +1,70 @@
+{
+  "heading": "Look at Gaming #140",
+  "subheading": "",
+  "number": 140,
+  "date": "Mon Jan 30 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at the good and the bad of F2P",
+          "url": "https://www.konvoy.vc/newsletter/the-good-and-bad-of-free-to-play"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Dungeons & Dragons publisher relents and abandons license changes",
+          "url": "https://www.axios.com/2023/01/27/dungeons-dragons-publisher-abandons-controversial-license-changes"
+        },
+        {
+          "caption": "A look at GDC: Game Industry Report 2023",
+          "url": "https://gamedevreports.substack.com/p/gdc-game-industry-report-2023"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the good and the bad of F2P",
+          "url": "https://www.konvoy.vc/newsletter/the-good-and-bad-of-free-to-play"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at PS VR2 and Fortnite gaining traction in XR",
+          "url": "https://www.gamedeveloper.com/business/psvr2-and-i-fortnite-i-gain-traction-in-the-ar-and-metaverse-future"
+        },
+        {
+          "caption": "A look at how long Microsoft can float on goodwill",
+          "url": "https://www.gamesindustry.biz/how-long-can-microsoft-float-on-goodwill-opinion"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the great reset: 2023 Guide to web3 games by @naavik_co",
+          "url": "https://naavik.co/deep-dives/the-great-reset-2023"
+        },
+        {
+          "caption": "A look at Manticore Games launching NFT collection with MekaVerse",
+          "url": "https://venturebeat.com/games/manticore-games-launches-nft-collection-with-mekaverse-developers/"
+        },
+        {
+          "caption": "A look at Free2Own and Free2Play -- lessons from between",
+          "url": "https://naavik.co/digest/the-evolution-of-marketing-for-blockchain-games"
+        }
+      ]
+    }
+  ]
+}

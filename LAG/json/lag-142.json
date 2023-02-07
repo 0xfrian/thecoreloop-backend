@@ -1,0 +1,128 @@
+{
+  "heading": "Look at Gaming #142",
+  "subheading": "",
+  "number": 142,
+  "date": "Wed Feb 01 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Apex Legends Mobile to close (!!!), Battlefield Mobile was canceled and Industrial Toys shuttered",
+          "url": "https://mobilegamer.biz/apex-legends-mobile-to-close-battlefield-mobile-cancelled-industrial-toys-shuttered/"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at CPI for hypercasual hitting ATH",
+          "url": "https://www.pocketgamer.biz/news/80740/cost-per-install-for-hypercasual-games-hit-an-all-time-high/"
+        },
+        {
+          "caption": "A look at EA's net bookings drop 9% to $2.34B in Q4 2022",
+          "url": "https://venturebeat.com/games/eas-net-bookings-drop-9-to-2-342b-in-december-quarter/"
+        },
+        {
+          "caption": "A look at Apex Legends Mobile to close (!!!), Battlefield Mobile was canceled and Industrial Toys shuttered",
+          "url": "https://mobilegamer.biz/apex-legends-mobile-to-close-battlefield-mobile-cancelled-industrial-toys-shuttered/"
+        },
+        {
+          "caption": "A look at AMD Q4 Revenue $5.59B",
+          "url": "https://venturebeat.com/games/amd-ekes-out-a-q4-profit-amid-slowing-game-console-chip-and-pc-sales/"
+        },
+        {
+          "caption": "A look at Video Game 2022 Spending Snapshot",
+          "url": "https://www.npd.com/news/infographics/2023/video-game-market-2022-spending-snapshot/"
+        },
+        {
+          "caption": "A look at mobile games industry 2023 prediction",
+          "url": "https://www.deconstructoroffun.com/blog/2023/1/31/the-mobile-games-industry-in-the-year-2023"
+        },
+        {
+          "caption": "A look at 60% of engagement on media platforms happen on mobile",
+          "url": "https://www.pocketgamer.biz/news/80734/mobile-is-the-dominant-platform-for-accessing-media-and-ip/"
+        },
+        {
+          "caption": "A look at investors remaining bullish on the metaverse by @KPMG",
+          "url": "https://venturebeat.com/games/investors-remain-bullish-on-the-metaverse-kpmg/"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at the future of media & entertainment by @newzoohq",
+          "url": "https://newzoo.com/insights/articles/what-is-the-future-of-media-and-entertainment-all-about-how-to-navigate-a-changing-consumer-engagement-landscape"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at what's happening with MSFT's ATVI acquisition",
+          "url": "https://www.gamedeveloper.com/business/the-rundown-what-s-happening-with-microsoft-s-activision-blizzard-merger-"
+        },
+        {
+          "caption": "A look at Auxuman letting gamers generate multiplayer games on LG TV (using TEXT!)",
+          "url": "https://venturebeat.com/ai/auxuman-brings-generative-ai-multiplayer-games-to-lg-tvs/"
+        },
+        {
+          "caption": "A look at Supercell revealing IP mash-up",
+          "url": "https://mobilegamer.biz/supercell-reveals-ip-mash-up-squad-busters/"
+        },
+        {
+          "caption": "A look at Ubisoft bringing Valiant Hearts spin-off exclusively to Netflix Games",
+          "url": "https://www.pocketgamer.biz/news/80738/ubisoft-brings-valiant-hearts-spin-off-exclusively-to-netflix-games/"
+        },
+        {
+          "caption": "A look at Capcom teaming up with Crunchyroll to launch new Street Fighter mobile game",
+          "url": "https://www.theverge.com/2023/1/31/23580037/capcom-crunchyroll-street-fighter-duel-mobile-android-ios"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at the key metrics for effective ad creative",
+          "url": "https://www.pocketgamer.biz/news/80741/revealed-the-key-metrics-for-an-effective-ad-creative/"
+        },
+        {
+          "caption": "A look at AppLovin Creative Trends Report for 2023 to outline top performance",
+          "url": "https://venturebeat.com/games/report-highlights-ways-to-get-mobile-games-noticed-applovin/"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Nexus raising $10M",
+          "url": "https://venturebeat.com/games/nexus-raises-10m-for-white-label-support-a-creator-programs/"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at DC movie actors continuing to play their superhero roles in DC games",
+          "url": "https://www.gamedeveloper.com/business/dc-movie-actors-will-play-their-superhero-roles-in-dc-games"
+        },
+        {
+          "caption": "A look at FIFA 23 on pace to set franchise records for engagement",
+          "url": "https://venturebeat.com/games/fifa-23-pacing-engagement-net-booking-records/"
+        },
+        {
+          "caption": "A look at the Sales and Play Time effects of the TLoU TV series on the game",
+          "url": "https://gamedevreports.substack.com/p/newzoo-the-last-of-us-tv-series-effect"
+        }
+      ]
+    }
+  ]
+}

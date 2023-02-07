@@ -1,0 +1,74 @@
+{
+  "heading": "Look at Gaming #139",
+  "subheading": "",
+  "number": 139,
+  "date": "Fri Jan 27 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at GDC's Game Industry Report 2023",
+          "url": "https://gamedevreports.substack.com/p/gdc-game-industry-report-2023"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at GDC's Game Industry Report 2023",
+          "url": "https://gamedevreports.substack.com/p/gdc-game-industry-report-2023"
+        },
+        {
+          "caption": "A look at Intel missing analysts targets",
+          "url": "https://venturebeat.com/games/intel-misses-analyst-targets-as-it-struggles-with-slowdown/"
+        },
+        {
+          "caption": "A look at HBO's TLoU adaptation driving game's performance",
+          "url": "https://newzoo.com/insights/articles/the-last-of-us-tv-show-boosts-the-games-performance"
+        },
+        {
+          "caption": "A look at Playtika's $800M bid for Rovio",
+          "url": "https://superjoost.substack.com/p/inside-playtikas-800-million-rovio?utm_source=post-email-title&publication_id=66617&post_id=98869762&isFreemail=true&utm_medium=email"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Where people are going to advertise in 2023?",
+          "url": "https://www.gamesindustry.biz/where-are-people-going-to-advertise-games-in-2023"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Emergent Games to launch web3 MMO on ImmutableX",
+          "url": "https://venturebeat.com/games/emergent-games-to-launch-web3-mmo-resurgence-on-immutablex/"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Mega Cat studios raising \"substantial\" amount",
+          "url": "https://www.gamedeveloper.com/business/wrestlequest-developer-mega-cat-nets-substantial-investment-from-skybound"
+        },
+        {
+          "caption": "A look at My.Games' VC arm investing into DC1AB (Portugal) and AMT Games (Switzerland)",
+          "url": "https://venturebeat.com/games/my-games-mgvc-invests-in-two-more-game-startups/"
+        },
+        {
+          "caption": "A look at Spatial Labs raising $10M",
+          "url": "https://venturebeat.com/games/spatial-labs-10m-seed-funding-web3-wearables/"
+        }
+      ]
+    }
+  ]
+}

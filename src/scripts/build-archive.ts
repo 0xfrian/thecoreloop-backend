@@ -55,7 +55,6 @@ export default async function main(): Promise<void> {
     let lag: LAG = {
       heading: "",
       subheading: "",
-      message_id: message.id,
       number: -1,
       date: "",
       special_insights: "",

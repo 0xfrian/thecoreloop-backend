@@ -1,0 +1,119 @@
+{
+  "heading": "Look at Gaming #138",
+  "subheading": "",
+  "number": 138,
+  "date": "Thu Jan 26 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Xbox Gaming Rev down but Game Pass Subscriber base continues to grow",
+          "url": "https://www.gameinformer.com/2023/01/25/xbox-gaming-revenue-down-but-game-pass-subscriber-base-continues-to-grow",
+          "title": "Xbox Gaming Revenue Down, But Game Pass Subscriber Base Continues To Grow - Game Informer",
+          "description": "This isn't surprising as Xbox had a relatively lackluster quarter.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/01/25/1c5e59c3/xbox_header.jpg",
+          "source": "Game Informer"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Twitch promising better monetization and ad placement in 2023",
+          "url": "https://www.gamedeveloper.com/business/twitch-promises-easier-revenue-opportunities-and-ad-placement-in-2023",
+          "title": "Twitch promises easier revenue opportunities and ad placement in 2023",
+          "description": "Twitch has outlined its list of goals for 2023, which includes more opportunities for streamers to earn money and insight into prime days for streaming.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt8bd2764b32db1736/633705b4d517f360dff9e2f4/Twitch_Header.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Xbox Gaming Rev down but Game Pass Subscriber base continues to grow",
+          "url": "https://www.gameinformer.com/2023/01/25/xbox-gaming-revenue-down-but-game-pass-subscriber-base-continues-to-grow",
+          "title": "Xbox Gaming Revenue Down, But Game Pass Subscriber Base Continues To Grow - Game Informer",
+          "description": "This isn't surprising as Xbox had a relatively lackluster quarter.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/01/25/1c5e59c3/xbox_header.jpg",
+          "source": "Game Informer"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at whether a big game release can crush your launch or not",
+          "url": "https://newsletter.gamediscover.co/p/can-another-big-game-release-crush",
+          "title": "Can another big game release crush your launch sales?",
+          "description": "A reasonable question, answered! Also: Battle Pass boons & tonnes of news.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F540da391-f211-4836-be90-b378fae1bef8_800x450.jpeg",
+          "source": "Simon Carless"
+        },
+        {
+          "caption": "A look at \"Self-Imposed Crunch\" in the games industry",
+          "url": "https://www.gamedeveloper.com/blogs/diving-into-the-nuance-of-self-imposed-crunch",
+          "title": "Diving into the nuance of \"self-crunch\"",
+          "description": "According to our State of the Industry survey, nearly three quarters of devs working more than 40-hour weeks said they felt self-pressure to do so.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt3d9c8bd47039e07b/63d16cecf1eba965cd2ca17c/AdobeStock_burnout.jpeg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at why Minecraft won't reach its potential",
+          "url": "https://naavik.co/digest/why-minecraft-wont-reach-its-full-potential",
+          "title": "Why Minecraft Won’t Reach Its Full Potential — Naavik",
+          "description": "In the latest entry of our UGC series, we spotlight Minecraft and its \r\ncreator base. We also release our joint report with Delphi Digital on the \r\ncrypto gaming market.",
+          "image": "http://static1.squarespace.com/static/5f031aa98cea4c639ef3f14f/t/63d0fefa8ec6d3449e8d742c/1674641155020/IN1LbZZ4.png?format=1500w",
+          "source": "Naavik"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the wrongs of web3 gaming by Rockstar & 2K veteran",
+          "url": "https://mobilegamer.biz/screw-tokenomics-play-to-earn-all-that-stuff-it-was-a-waste-of-time/",
+          "title": "‘Screw tokenomics, play-to-earn, all that stuff – it was a waste of time’ - Mobilegamer.biz",
+          "description": "Petaverse Network boss Susan Cummings has some feelings about the last year of web3 hype.",
+          "image": "https://mobilegamer.biz/wp-content/uploads/2023/01/Susan-Cummings-petaverse.jpg",
+          "source": "Mobilegamer.biz"
+        },
+        {
+          "caption": "A look at Mythical Games acquiring DMarket",
+          "url": "https://venturebeat.com/games/mythical-games-acquires-dmarket-blockchain-gaming-marketplace/",
+          "title": "Mythical Games acquires DMarket blockchain gaming marketplace | VentureBeat",
+          "description": "Mythical Games, a publisher and developer of blockchain games, said it has acquired DMarket, a marketplace for digital assets.",
+          "image": "https://venturebeat.com/wp-content/uploads/2020/06/dmarket.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at an introduction to choosing colors for game visual effects",
+          "url": "https://www.gamesindustry.biz/an-introduction-to-choosing-colors-in-game-vfx",
+          "title": "An introduction to choosing colors in game VFX | GamesIndustry.biz",
+          "description": "Video game effects are often remarkable for their intense explosions of color and bright, magical appearances. Trying t…",
+          "image": "https://assets.reedpopcdn.com/VFX-LEAD.png/BROK/thumbnail/1200x630/VFX-LEAD.png",
+          "source": "GamesIndustry.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Grilla raising $3M",
+          "url": "https://venturebeat.com/games/grilla-raises-3m-for-skill-based-gaming-tournament-platform/",
+          "title": "Grilla raises $3M for skill-based gaming tournament platform | VentureBeat",
+          "description": "Grilla has raised $3 million in funding for its skill-based gaming tournament platform. Tusk Venture Partners backed the deal.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/grilla-Home-Page.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    }
+  ]
+}

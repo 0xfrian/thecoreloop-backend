@@ -1,6 +1,6 @@
 // Local Modules
-import { Date } from "./date";
 import { unfurl_js } from "../modules/link-preview";
+import { parseDate } from "./date";
 
 // Types
 import { 
@@ -17,6 +17,8 @@ export const CATEGORIES: string[] = [
   "🌊 MARKET ☎️",
   "💎 Deep Dives 🔎",
   "🌈 Platforms 🏔",
+  "🌈 Platforms ⛰️",
+  "🌈 Platforms 🏔️",
   "✨ Web 3️⃣ + Meta 🌎",
   "🧠 Knowledge Hub 📚",
   "💰 Fundraising 🧧",
@@ -33,23 +35,34 @@ export const BLACKLIST_ARTICLES: string[] = [
 ];
 
 // Parse given Telegram message and return <LAG> object
-export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG {
+export function parseLAG(
+  message: TelegramMessage | string[], 
+  debug: boolean = false
+): LAG {
+
   // Initialize <LAG> object
   const lag: LAG = {
     heading: "",
     subheading: "",
-    message_id: message.id,
     number: -1,
     date: "",
     special_insights: "",
     content: [],
   };
 
-  // Parse Telegram message
-  const lines: string[] = message.text
-    .split("\n")                        // split line-by-line
-    .filter(line => line.length > 1)    // remove empty lines
-    .map(line => line.trim());          // remove surrounding whitespace
+  // Parse text content into lines
+  let lines: string[] = [];
+  if (Array.isArray(message)) {
+    lines = message
+      .map(line => line.trim())
+      .filter(line => line.length > 1)
+  } else {
+    // Parse Telegram message
+    lines = message.text
+      .split("\n")                        // split line-by-line
+      .map(line => line.trim())           // remove surrounding whitespace
+      .filter(line => line.length > 1);   // remove empty lines
+  }
 
   // Parse LAG Heading, Number, and Date
   try {
@@ -70,14 +83,15 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
       } else throw Error("LAG number not found!");
 
       // Check if LAG number is part of missing LAG collection
-      if (LAG_MISSING.includes(lag.number)) throw Error(`Exception: LAG #${lag.number}`);
+      if (LAG_MISSING.includes(lag.number)) {
+        throw Error(`Exception: LAG #${lag.number}`);
+      }
 
       // Parse date from heading
       try {
-        const date: Date = new Date(heading);
-        lag.date = date.formatString();
+        lag.date = parseDate(heading);
       } catch(error) {
-        throw Error(`LAG #${lag.number}: something went wrong while parsing date! ${error}`);
+        throw Error(`LAG #${lag.number}: error while parsing date! ${error}`);
       }
 
       if (debug) console.log(`    ﬌ Date: ${lag.date}`)
@@ -93,16 +107,24 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
     // Find line indices containing Special Insights and Spotlight labels
     for (let i = 0; i < lines.length; i++) {
       const line: string = lines[i];
-      if (line.toLowerCase().includes("special insights")) specialinsights_index = i;
-      else if (line.toLowerCase().includes("spotlight")) spotlight_index = i;
+      if (line.includes("‼️ SPECIAL INSIGHTS 👀")) {
+        specialinsights_index = i;
+      } else if (line.includes("🔦 Spotlight 🌟")) {
+        spotlight_index = i;
+      }
     }
 
-      // throw error if no spotlight section detected
-      if (spotlight_index < 0) throw Error(`Lag #${lag.number}: missing spotlight category`);
-      
-      // if special insights label is found, then extract its text content
-      if (specialinsights_index >= 0) {
-        const special_insights: string = lines.slice(specialinsights_index+1, spotlight_index).join("\n");
+    // throw error if no spotlight section detected
+    if (spotlight_index < 0) {
+      throw Error(`Lag #${lag.number}: missing spotlight category`);
+    }
+    
+    // if special insights label is found, then extract its text content
+    if (specialinsights_index >= 0) {
+      const special_insights: string = lines.slice(
+        specialinsights_index+1, 
+        spotlight_index
+      ).join("\n");
       lag.special_insights = special_insights;
     }
 
@@ -115,7 +137,10 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
       console.log(`    ﬌ Special Insights: ${special_insights_msg}`);
     }
   } catch (error) {
-    throw Error(`LAG #${lag.number}: something went wrong while parsing special-insights section! ${error}`);
+    throw Error(
+      `LAG #${lag.number}: error while parsing Special Insights!`
+      + `\n${error}`
+    );
   }
 
   // Parse LAG Categories (index-wise)
@@ -125,14 +150,22 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
       const line: string = lines[i];
       if (isCategory(line)) category_indices.push(i);
     } 
-    if (category_indices.length == 0) throw Error(`LAG #${lag.number}: No LAG categories found`);
+    if (category_indices.length == 0) {
+      throw Error(`LAG #${lag.number}: No LAG categories found`);
+    }
   } catch (error) {
-    throw Error(`LAG #${lag.number}: something went wrong while parsing categories! ${error}`);
+    throw Error(
+      `LAG #${lag.number}: error while parsing categories!`
+      + `\n${error}`
+    );
   }
 
-  // If second line is NOT a category, then assume subheading until 1st category index
+  // If second line is NOT a category, then assume subheading 
+  //  until 1st category index
   if (category_indices[0] != 1) {
-    let end_index: number = specialinsights_index >= 0 ? specialinsights_index : spotlight_index;
+    let end_index: number = specialinsights_index >= 0 
+      ? specialinsights_index 
+      : spotlight_index;
     lag.subheading = lines.slice(1, end_index).join("\n");
   }
 
@@ -150,12 +183,18 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
 
     // Assign category
     let category: string = lines[current_index];
-    if (category.toLowerCase().includes("platforms")) category = "🌈 Platforms ⛰️";  // change mountain emoji
+    if (category.toLowerCase().includes("platforms")) {
+      category = "🌈 Platforms 🏔️";  // change mountain emoji
+    }
+
     if (debug) console.log(`    ﬌ ${category}`);
 
     // Check if there is an even number of lines between categories
     if (Math.abs(current_index+1 - next_index) % 2 != 0) {
-      throw Error(`LAG #${lag.number}: Uneven number of captions & URLs under category: ${category}`);
+      throw Error(
+        `LAG #${lag.number}: Uneven number of captions & URLs under category:`
+        + ` ${category}`
+      );
     }
 
     // Instantiate <ArticleGroup> object
@@ -178,7 +217,10 @@ export function parseLAG(message: TelegramMessage, debug: boolean = false): LAG 
       if (debug) console.log(`      ﬌ ${article.url}`);
 
       // Check if URL is valid
-      if (!isURL(article.url)) throw Error(`LAG #${lag.number}: ${category} contains invalid url: ${article.url}`);
+      if (!isURL(article.url)) {
+        throw Error(`LAG #${lag.number}: ${category} contains invalid url:`
+        + ` ${article.url}`);
+      }
 
       // Append <Article> to articles array
       article_group.articles.push(article);
@@ -201,7 +243,10 @@ export function isURL(line: string): boolean {
 }
 
 // Fetches metadata for each article in given LAG post
-export async function attachMetadata(lag: LAG, debug: boolean=false): Promise<LAG> {
+export async function attachMetadata(
+  lag: LAG, 
+  debug: boolean=false
+): Promise<LAG> {
   // Instantiate new <LAG> object to be filled with metadata
   const lag_meta: LAG = lag;
 
@@ -292,7 +337,9 @@ export function isCategory(line: string): boolean {
   }
 
   // If category found, check if line is exact match to official category
-  if (category_found && !CATEGORIES.includes(line)) throw Error(`Potential typo on line: ${line}`);
+  if (category_found && !CATEGORIES.includes(line)) {
+    throw Error(`Potential typo on line: ${line}`);
+  }
   
   return category_found;
 }

@@ -95,7 +95,7 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
 
   // Generate link preview . . . 
   try {
-    if (url.includes("https://twitter.com/")) {
+    if (url.includes("https://twitter.com/") || url.includes("https://t.co/")) {
       // If URL is a Tweet, then . . . 
       
       const { open_graph }: any = await unfurl(url);
@@ -107,7 +107,6 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
       if (open_graph.description) link_preview.description = open_graph.description;
 
       // Assign image (default: Twitter Logo)
-      link_preview.image = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png";
       if (open_graph.images && open_graph.images.length > 0) link_preview.image = open_graph.images[0].url;
       // If image not found, then generate thumbnail from first link in description (if any)
       if (!link_preview.image && link_preview.description) {
@@ -116,6 +115,7 @@ export async function unfurl_js(url: string): Promise<LinkPreview> {
           // Generate thumbnail using the first link found
           const thumbnail: string = (await unfurl_js(urls[0])).image;
           if (thumbnail) link_preview.image = thumbnail;
+          else link_preview.image = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png";
         }
       }
 

@@ -6,9 +6,10 @@ export const WEEKDAYS: string[] = [
 
 // Numbered days with suffix
 export const DAYS: string[] = [
-  "1st",  "2nd",  "3rd",  "4th",  "5th",  "6th",  "7th",  "8th",  "9th",  "10th", 
-  "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th", 
-  "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th", "31st",
+  "1st",  "2nd",  "3rd",  "4th",  "5th",  "6th",  "7th",  "8th",  "9th",  
+  "10th", "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", 
+  "19th", "20th", "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", 
+  "28th", "29th", "30th", "31st",
 ];
 
 // Months of the year
@@ -23,35 +24,69 @@ export const YEARS: string[] = [
   "2022", "2023", "2024"
 ];
 
-export class Date {
-  weekday:  string = "";
-  day:      string = "";
-  month:    string = "";
-  year:     string = "";
+// Format date string e.g. "Wednesday April 20th 2022"
+export function parseDate(line: string, verbose: boolean = false): string {
+  const words: string[] = line.toLowerCase().split(" ");
 
-  constructor(line: string = "") {
-    const words: string[] = line.toLowerCase().split(" ");
+  let Weekday = "";
+  let Day = "";
+  let Month = "";
+  let Year = "";
 
-    for (const word of words) {
-      if      (WEEKDAYS.includes(word))   this.weekday  = word;
-      else if (DAYS.includes(word))       this.day      = word;
-      else if (MONTHS.includes(word))     this.month    = word;
-      else if (YEARS.includes(word))      this.year     = word;
-    }
+  for (const word of words) {
+    if      (WEEKDAYS.includes(word))   Weekday = word;
+    else if (DAYS.includes(word))       Day     = word;
+    else if (MONTHS.includes(word))     Month   = word;
+    else if (YEARS.includes(word))      Year    = word;
   }
 
-  formatString(): string {
-    // Format date string e.g. "Wednesday April 20th 2022"
-    let date_string: string = ""
-    try {
-      const Weekday = this.weekday[0].toUpperCase() + this.weekday.slice(1, 3);
-      const Month = this.month[0].toUpperCase() + this.month.slice(1, 3);
-      date_string = `${Weekday} ${Month} ${this.day.slice(0, -2).padStart(2, "0")} ${this.year}`;
-    } catch (error) {
-      throw error;
-    }
-    return date_string;
+  try {
+    Weekday = verbose
+      ? Weekday[0].toUpperCase() + Weekday.slice(1)
+      : Weekday[0].toUpperCase() + Weekday.slice(1, 3);
+    Month = verbose
+      ? Month[0].toUpperCase() + Month.slice(1)
+      : Month[0].toUpperCase() + Month.slice(1, 3);
+    Day = verbose
+      ? Day
+      : Day.slice(0, -2).padStart(2, "0");
+    Year = Year;
+
+    return `${Weekday} ${Month} ${Day} ${Year}`;
+  } catch (error) {
+    throw error;
   }
 }
 
+export function reformatDate(_date_string: string) {
+  const words: string[] = _date_string.toLowerCase().split(" ");
+
+  let Weekday = words[0];
+  for (const WEEKDAY of WEEKDAYS) {
+    if (WEEKDAY.includes(Weekday.toLowerCase())) {
+      Weekday = WEEKDAY[0].toUpperCase() + WEEKDAY.slice(1);
+      break;
+    }
+  }
+
+  let Month = words[1];
+  for (const MONTH of MONTHS) {
+    if (MONTH.includes(Month.toLowerCase())) {
+      Month = MONTH[0].toUpperCase() + MONTH.slice(1);
+      break;
+    }
+  }
+
+  let Day = Number(words[2]).toString();
+  for (const DAY of DAYS) {
+    if (DAY.includes(Day.toLowerCase())) {
+      Day = DAY;
+      break;
+    }
+  }
+
+  let Year = words[3];
+
+  return `${Weekday} ${Month} ${Day} ${Year}`;
+}
 
