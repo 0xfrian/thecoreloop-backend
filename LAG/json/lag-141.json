@@ -1,0 +1,105 @@
+{
+  "heading": "Look at Gaming #141",
+  "subheading": "",
+  "number": 141,
+  "date": "Tue Jan 31 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Shell Shockers' multi-million dollar web game success",
+          "url": "https://newsletter.gamediscover.co/p/deep-dive-shell-shockers-multi-million"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Voodoo saying \"Hypercasual is dead\" showing evidence that the most successful titles in 2022 were existing ones not new ones",
+          "url": "https://www.pocketgamer.biz/news/80735/voodoos-alex-shea-hypercasual-is-dead/"
+        },
+        {
+          "caption": "A look at Qualcomm's take on the next gen of XR headsets",
+          "url": "https://venturebeat.com/games/how-qualcomm-sees-the-next-generation-of-xr-headsets-hugo-swart/"
+        },
+        {
+          "caption": "A look at Android having 71% share of all ads traffic",
+          "url": "https://www.pocketgamer.biz/news/80729/android-has-a-71-share-of-all-ads-traffic/"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Apple's ad targeting mechanics by @eric_seufert",
+          "url": "https://mobiledevmemo.com/apples-ad-targeting-mechanics-revealed-in-french-privacy-case/"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at Roblox adding recruitment tools into its tech stack",
+          "url": "https://www.gamedeveloper.com/business/why-roblox-corp-has-added-recruitment-tools-to-i-roblox-i-s-tech-stack"
+        },
+        {
+          "caption": "A look at Fortnite's The Kid Laroi musical concert with a touch of shooter action",
+          "url": "https://www.theverge.com/2023/1/30/23577949/fortnite-kid-laroi-concert-raid"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at the game theory in the Wolf Game",
+          "url": "https://www.theblockresearch.com/wolf-game-game-theory-at-play-206260"
+        },
+        {
+          "caption": "A look at Sorare partnering with Premier League for fantasy sports",
+          "url": "https://venturebeat.com/games/sorare-premier-league-football-soccer-partnership-web3-fantasy-sports/"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at Shell Shockers' multi-million dollar web game success",
+          "url": "https://newsletter.gamediscover.co/p/deep-dive-shell-shockers-multi-million"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Prisms VR raising $12.5M",
+          "url": "https://venturebeat.com/games/prisms-vr-raises-12-5m-to-improve-math-literacy-with-virtual-reality/"
+        },
+        {
+          "caption": "A look at Oh Baby Games raising $6M",
+          "url": "https://ohbabygames.com/news"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Apex Legends Mobile hitting $40M",
+          "url": "https://mobilegamer.biz/apex-legends-mobile-hits-40m-but-eas-blockbuster-shooter-could-be-in-trouble/"
+        },
+        {
+          "caption": "A look at Netflix's Live Action One Piece show",
+          "url": "https://www.gameinformer.com/gamer-culture/2023/01/30/netflixs-live-action-one-piece-show-coming-this-year"
+        }
+      ]
+    }
+  ]
+}

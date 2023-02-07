@@ -31,6 +31,7 @@
     "input": "^1.0.1",
     "link-preview-js": "^3.0.4",
     "mongodb": "^4.13.0",
+    "mysql2": "^3.1.0",
     "path": "^0.12.7",
     "telegram": "^2.15.5",
     "treeify": "^1.1.0",

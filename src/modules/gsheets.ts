@@ -56,7 +56,7 @@ export async function readGSheet(
   }
 }
 
-export async function parseSheet(sheet: any) {
+export async function parseGSheet(sheet: any) {
   // Load header values
   await sheet.loadHeaderRow();
 
@@ -80,14 +80,8 @@ export async function parseSheet(sheet: any) {
     }
   }
 
-  // Organize data into custom object containing headers, rows, and 
-  //  indexable column headers
+  // Organize data to contain headers and rows
   let data: any = { headers, rows };
-  // Assign object property to be named after column header
-  for (const [col_num, header] of headers.entries()) {
-    data[header] = rows.forEach(
-      (row: any) => data[header].push(row[col_num]));
-  }
   return data;
 }
 

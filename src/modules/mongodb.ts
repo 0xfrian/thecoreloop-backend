@@ -99,7 +99,6 @@ export async function readLAGCollection(client: MongoClient): Promise<LAG[]> {
     const lag_obj = {
       heading: document.heading, 
       subheading: document.subheading, 
-      message_id: document.message_id,
       number: document.number,
       date: document.date,
       special_insights: document.special_insights,

@@ -1,0 +1,209 @@
+{
+  "heading": "Look at Gaming #137",
+  "subheading": "",
+  "number": 137,
+  "date": "Fri Jan 25 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at AI killing UGC?",
+          "url": "https://www.konvoy.vc/newsletter/will-ai-kill-ugc",
+          "title": "Will AI Kill UGC?",
+          "description": "Playing out the bear case for generative AI’s impact on UGC platforms",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/63cae0448b66cebfe4114b2d_Screenshot%202023-01-20%20at%2010.26.35%20AM.png",
+          "source": "www.konvoy.vc"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at AppsFlyer's Uninstall benchmarks on Android",
+          "url": "https://gamedevreports.substack.com/p/appsflyer-uninstall-benchmarks-on",
+          "title": "AppsFlyer: Uninstall benchmarks on Android",
+          "description": "Games are experiencing the highest uninstall rates across all categories.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd174cc57-5894-4942-b9f8-a64411d5ed93_1280x1268.jpeg",
+          "source": "Dmitriy Byshonkov"
+        },
+        {
+          "caption": "A look into fans revolting to Dungeons & Dragons potentially new licensing policies",
+          "url": "https://www.axios.com/2023/01/23/dungeons-dragons-ogl-wizards-of-the-coast",
+          "title": "Fan revolt rocks Dungeons & Dragons scene",
+          "description": "Wizards of the Coast scrambles, players fume, rivals gather strength",
+          "image": "https://images.axios.com/Tq-qJLvX4A6nxbtrpyDs1y2J4aY=/0x0:1920x1080/1366x768/2023/01/23/1674506939295.jpg",
+          "source": "Axios"
+        },
+        {
+          "caption": "A look at Gaming M&A and Fundraising by Quantum",
+          "url": "https://venturebeat.com/games/why-game-acquisition-and-financing-numbers-show-reasons-for-optimism-the-deanbeat/",
+          "title": "Why game acquisition and financing numbers show reasons for optimism | The DeanBeat | VentureBeat",
+          "description": "2022 will be known as one that started out with so much promise and ended with dashed hopes for gaming. Yet gaming is still healthy.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/quantum-tech.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at whether M&A is good for the industry.  Devs don't think so",
+          "url": "https://www.gamedeveloper.com/business/can-m-a-be-a-positive-force-in-the-game-industry-devs-aren-t-convinced",
+          "title": "Can M&A be a positive force in the game industry? Devs aren't sold",
+          "description": "The 2023 GDC State of the Industry indicates that devs aren't convinced the onslaught of M&A activity will have a positive impact on the game industry.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt7bb56997bdb60721/6220c4185bfe6545a58c7ca3/Activision.png",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Newzoo's market trends to watch in 2023, Part III",
+          "url": "https://newzoo.com/insights/articles/games-market-trends-to-watch-in-2023-and-beyond-part-iii",
+          "title": "Games Market Trends to Watch in 2023 and Beyond | Part III | Newzoo",
+          "description": "What will be the major trends in gaming this year? Check out our article series exploring the top 10 trends shaping the games market in 2023!",
+          "image": "https://newzoo.com/wp-content/uploads/2023/01/feat-part-3.png",
+          "source": "Newzoo"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at how Goose Goose Duck hit 700k CCU",
+          "url": "https://newsletter.gamediscover.co/p/how-goose-goose-duck-hit-700k-ccu",
+          "title": "How Goose Goose Duck hit 700k CCU on Steam",
+          "description": "We talk to the devs about it. Also: 'state of the industry' survey & more...",
+          "image": "https://substackcdn.com/image/youtube/w_728,c_limit/bHrHDenJlG8",
+          "source": "Simon Carless"
+        },
+        {
+          "caption": "A look at some notable events in 2008 for the games industry",
+          "url": "https://www.gamedeveloper.com/design/2008-week-devil-may-cry-4-the-smash-success-that-doomed-the-franchise",
+          "title": "Devil May Cry 4—the smash success that \"doomed\" the franchise",
+          "description": "On paper, Devil May Cry 4 was a smash success for Capcom—why would it be over a decade until Devil May Cry 5?",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt0c0c9feef61077aa/63cedd4d2d575e54ecc2ad57/dmc42008featured.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at AI killing UGC?",
+          "url": "https://www.konvoy.vc/newsletter/will-ai-kill-ugc",
+          "title": "Will AI Kill UGC?",
+          "description": "Playing out the bear case for generative AI’s impact on UGC platforms",
+          "image": "https://assets.website-files.com/6153233d9f19afd6509974ac/63cae0448b66cebfe4114b2d_Screenshot%202023-01-20%20at%2010.26.35%20AM.png",
+          "source": "www.konvoy.vc"
+        },
+        {
+          "caption": "A look at the promise of generative AI in 2023",
+          "url": "https://mobiledevmemo.com/the-promise-of-generative-ai-in-2023/",
+          "title": "The promise of Generative AI in 2023 | Mobile Dev Memo by Eric Seufert",
+          "description": "The promise of Generative AI in 2023. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2019/08/MDM_logo_big.png",
+          "source": "Mobile Dev Memo"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms ⛰️",
+      "articles": [
+        {
+          "caption": "A look at Fortnite on iOS getting even more limited",
+          "url": "https://www.theverge.com/2023/1/23/23567661/fortnite-ios-mac-google-play-v-bucks-parental-controls",
+          "title": "Fortnite on iOS is about to become even more limited - The Verge",
+          "description": "Soon, Fortnite players who got the game from the iOS and Mac app stores or Google Play won’t be able to spend V-Bucks to buy in-game items and will have to be older than 18 years of age to play, Epic Games announced.",
+          "image": "https://cdn.vox-cdn.com/thumbor/oRkae3GT5bZK7aG3dtBtepwXTSk=/0x0:2040x1360/1200x628/filters:focal(1292x485:1293x486)/cdn.vox-cdn.com/uploads/chorus_asset/file/11503303/vpavic_180607_2652_0075.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at livestreaming + audience interactivity",
+          "url": "https://venturebeat.com/games/captaintv-loaded-creators-team-up-for-streamer-led-racing-game/",
+          "title": "Captain.tv, Loaded, creators team up for streamer-led racing game | VentureBeat",
+          "description": "Captain.tv teamed up with Loaded and creators like Ludwig, Quarter Jade & NorthernLion for Nitro: a racing game streamers play with viewers.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/NitroPR_KeyArt.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Riot Games saying LoL source code stolen",
+          "url": "https://www.axios.com/2023/01/24/riot-games-league-of-legends-source-code-cyberattack",
+          "title": "Riot Games says League of Legends' source code stolen in cyberattack",
+          "description": "The company has been responding to a so-called social engineer attack since last week.",
+          "image": "https://images.axios.com/U0JsOz191kVBsoGQnVhprUfaTRk=/0x390:5614x3548/1366x768/2023/01/24/1674575166288.jpg",
+          "source": "Axios"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at understanding web3 player behavior",
+          "url": "https://www.youtube.com/watch?v=LX6xUde-wXY",
+          "title": "Understanding Web3 Player Behavior - Naavik Gaming Podcast - YouTube",
+          "description": "What makes web3 players different from web2 players? Why is it so hard to get actionable insights in web3? How can you combine on-chain and off-chain data? T...",
+          "image": "https://i.ytimg.com/vi/LX6xUde-wXY/maxresdefault.jpg",
+          "source": "YouTube"
+        },
+        {
+          "caption": "A look at what web3 games should learn from designing fun game markets",
+          "url": "https://www.deconstructoroffun.com/shorts/2023/1-24/web3-games-learn-from-designing-game-markets",
+          "title": "🎮 What Web3 Games Should Learn from Designing Fun Game Markets — Deconstructor of Fun",
+          "description": "Markets are increasingly a component of games. The most storied game \r\nmarkets come from MMOs, like the WoW auction house or Maple Story’s \r\nstorefronts. This analysis explores what makes famed gaming and non-gaming \r\nmarkets so engaging to the users.",
+          "image": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/625faa3674b33c4a96138e07/63d0573999fe9f018d8b369f/1674645353623/unsplash-image-2FPjlAyMQTA.jpg?format=1500w",
+          "source": "Deconstructor of Fun"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at knowing the difference between remasters, remakes, reboots, and ports",
+          "url": "https://kevurugames.com/blog/remasters-remakes-reboots-and-ports-in-video-games/",
+          "title": "The Key Differences Between Remake, Remaster, Reboot, and Port | Kevuru Games",
+          "description": "Remaking, remastering, rebooting, and game porting ⏩ Learn their differences and when to use them ✅ Each serves a specific purpose for your game projects.",
+          "image": "https://kevurugames.com/kevuru.png",
+          "source": "Kevuru Games"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at The Tiny Digital Factory raising $3.25M",
+          "url": "https://www.pocketgamer.biz/news/80678/sandsoft-invests-325-million-in-the-tiny-digital-factory/",
+          "title": "Sandsoft invests $3.25 million in The Tiny Digital Factory | Pocket Gamer.biz | PGbiz",
+          "description": "Saudi Arabian game maker Sandsoft Games has announced an investment of $3.25 million in mobile racing and motosport game developer The Tiny Digital Factory (...",
+          "image": "https://media.pocketgamer.biz/2023/1/120214/sandsoft-games-logo-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Voldex raising a Series A",
+          "url": "https://venturebeat.com/games/voldex-announces-new-funding-round-for-its-user-generated-content/",
+          "title": "Voldex announces new funding round for its user-generated content | VentureBeat",
+          "description": "Voldex is raising more money to develop games within Roblox and Minecraft and support its existing titles.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/Voldex-Announcement.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Fractal raising another round",
+          "url": "https://venturebeat.com/games/fractal-takes-nft-platform-to-polygon-and-raises-funding/",
+          "title": "Fractal takes NFT platform to Polygon and raises funding | VentureBeat",
+          "description": "Polygon Labs said that Fractal will bring expand its Web3 gaming platform to the Polygon blockchain protocol.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/01/fractal-5.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at The Last Of Us episode 2 breaking records for HBO",
+          "url": "https://www.gameinformer.com/2023/01/24/the-last-of-us-episode-2-broke-a-massive-record-for-hbo",
+          "title": "The Last Of Us Episode 2 Broke A Massive Record For HBO - Game Informer",
+          "description": "But HBO still hasn't announced a Season 2 yet.",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/01/24/5204a08a/hbo_tlou.jpg",
+          "source": "Game Informer"
+        }
+      ]
+    }
+  ]
+}

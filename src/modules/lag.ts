@@ -17,6 +17,8 @@ export const CATEGORIES: string[] = [
   "🌊 MARKET ☎️",
   "💎 Deep Dives 🔎",
   "🌈 Platforms 🏔",
+  "🌈 Platforms ⛰️",
+  "🌈 Platforms 🏔️",
   "✨ Web 3️⃣ + Meta 🌎",
   "🧠 Knowledge Hub 📚",
   "💰 Fundraising 🧧",
@@ -34,25 +36,33 @@ export const BLACKLIST_ARTICLES: string[] = [
 
 // Parse given Telegram message and return <LAG> object
 export function parseLAG(
-  message: TelegramMessage, 
+  message: TelegramMessage | string[], 
   debug: boolean = false
 ): LAG {
+
   // Initialize <LAG> object
   const lag: LAG = {
     heading: "",
     subheading: "",
-    message_id: message.id,
     number: -1,
     date: "",
     special_insights: "",
     content: [],
   };
 
-  // Parse Telegram message
-  const lines: string[] = message.text
-    .split("\n")                        // split line-by-line
-    .filter(line => line.length > 1)    // remove empty lines
-    .map(line => line.trim());          // remove surrounding whitespace
+  // Parse text content into lines
+  let lines: string[] = [];
+  if (Array.isArray(message)) {
+    lines = message
+      .map(line => line.trim())
+      .filter(line => line.length > 1)
+  } else {
+    // Parse Telegram message
+    lines = message.text
+      .split("\n")                        // split line-by-line
+      .map(line => line.trim())           // remove surrounding whitespace
+      .filter(line => line.length > 1);   // remove empty lines
+  }
 
   // Parse LAG Heading, Number, and Date
   try {
@@ -174,7 +184,7 @@ export function parseLAG(
     // Assign category
     let category: string = lines[current_index];
     if (category.toLowerCase().includes("platforms")) {
-      category = "🌈 Platforms ⛰️";  // change mountain emoji
+      category = "🌈 Platforms 🏔️";  // change mountain emoji
     }
 
     if (debug) console.log(`    ﬌ ${category}`);
