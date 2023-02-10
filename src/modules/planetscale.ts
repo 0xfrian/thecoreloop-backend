@@ -1,11 +1,17 @@
-require('dotenv').config();
-import mysql from "mysql2";
+import 'dotenv/config'
+import { connect } from '@planetscale/database'
 
-export default async function main() {
-  const database_url: string = process.env.DATABASE_URL!;
-  const connection = mysql.createConnection(database_url);
-  console.log('Connected to PlanetScale!')
-  connection.end()
+async function main() {
+  // Connect to PlanetScale database
+  const config: any = {
+    host: process.env.DATABASE_HOST,
+    username: process.env.DATABASE_USERNAME,
+    password: process.env.DATABASE_PASSWORD
+  };
+
+  const connection: any = connect(config);
+  const response: any = await connection.execute("SELECT * FROM LAG_ARCHIVE");
+  console.log("Response: ", response);
 }
 
 main()

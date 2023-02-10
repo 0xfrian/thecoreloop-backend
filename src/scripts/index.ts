@@ -2,10 +2,10 @@
 const input = require("input");
 
 // Local Modules 
-import buildArchive from "../scripts/build-archive";
-import updateArchive from "../scripts/update-archive";
-import patchArchive from "../scripts/patch-archive";
-import checkArchive from "../scripts/check-archive";
+import buildArchive from "./build-archive";
+import updateArchive from "./update-archive";
+import patchArchive from "./patch-archive";
+import checkArchive from "./check-archive";
 
 // Types
 type Choice = {
