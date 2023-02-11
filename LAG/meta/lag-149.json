@@ -1,0 +1,201 @@
+{
+  "heading": "Look at Gaming #149",
+  "subheading": "",
+  "number": 149,
+  "date": "Fri Feb 10 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "A look at Epic’s new clips app, Postparty, helps you easily share your Fortnite moments - The Verge",
+          "url": "https://www.theverge.com/2023/2/9/23592866/epic-games-postparty-clips-app-fortnite-rocket-league",
+          "title": "Epic’s new clips app, Postparty, helps you easily share your Fortnite moments - The Verge",
+          "description": "Postparty is a new iOS and Android app from Epic Games to help you share clips from Fortnite and Rocket League. In my experience, it works really well.",
+          "image": "https://cdn.vox-cdn.com/thumbor/8o_JilCguvOW2SK9fEJhyCcI8E0=/0x0:1037x564/1200x628/filters:focal(386x223:387x224)/cdn.vox-cdn.com/uploads/chorus_asset/file/24421441/fortnite_overview_dirt_bike_1200x607_7a6b72de44a0.jpg",
+          "source": "The Verge"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "A look at Tenjin & GameAnalytics: Hypercasual Games benchmarks in Q4 2022",
+          "url": "https://gamedevreports.substack.com/p/tenjin-and-gameanalytics-hypercasual-6e4",
+          "title": "Tenjin & GameAnalytics: Hypercasual Games benchmarks in Q4 2022",
+          "description": "CPIs hit an all-time high.",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec0e9676-6951-459a-adb1-4133301bb2a8_2622x1180.png",
+          "source": "Dmitriy Byshonkov"
+        },
+        {
+          "caption": "A look at Rovio saw revenue decline in Q4, but increases across 2022 | Pocket Gamer.biz | PGbiz",
+          "url": "https://www.pocketgamer.biz/news/80820/rovio-saw-revenue-decline-in-q4-but-increases-across-2022/",
+          "title": "Rovio saw revenue decline in Q4, but increases across 2022 | Pocket Gamer.biz | PGbiz",
+          "description": "Rovio has released its financial statement for the fourth quarter of 2022, showcasing the company’s performance in line with the mobile market througho...",
+          "image": "https://media.pocketgamer.biz/2023/2/120477/rovio-square-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Google Stadia barely made a dent in the cloud gaming market - The Verge",
+          "url": "https://www.theverge.com/2023/2/9/23591989/google-stadia-cloud-gaming-market-share-eu",
+          "title": "Google Stadia barely made a dent in the cloud gaming market - The Verge",
+          "description": "Google’s now-defunct Stadia service only made up 5 to 10 percent of the cloud gaming market in 2021 and 2021, according to the UK’s Competition and Markets Authority.",
+          "image": "https://cdn.vox-cdn.com/thumbor/RD_hgd7k2AOXTBilultQ0ZrhwdA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19376597/akrales_191113_3779_0163.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at AppLovin Q4 earnings: revenue beat, high MAX adoption | Mobile Dev Memo by Eric Seufert",
+          "url": "https://mobiledevmemo.com/applovin-q4-earnings-revenue-beat-max-has-2-3rds-of-the-mediation-market/",
+          "title": "AppLovin Q4 earnings: revenue beat, high MAX adoption | Mobile Dev Memo by Eric Seufert",
+          "description": "AppLovin Q4 earnings: revenue beat, high MAX adoption. Mobile marketing and advertising, freemium monetization strategy, and marketing science. Mobile Dev Memo.",
+          "image": "https://mobiledevmemo.com/wp-content/uploads/2023/02/media-kit-logo-applovin.png",
+          "source": "Mobile Dev Memo"
+        },
+        {
+          "caption": "A look at Mobile Game Trends and Predictions for 2023",
+          "url": "https://www.gamerefinery.com/mobile-game-trends-and-predictions-for-2023/",
+          "title": "Mobile Game Trends and Predictions for 2023",
+          "description": "Find out GameRefinery's game analysts' predictions for the most exciting mobile game trends heading your way in 2023. ",
+          "image": "https://www.gamerefinery.com/wp-content/uploads/2023/02/2023-mobile-game-trend-predictions-header-image.png",
+          "source": "GameRefinery"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "A look at Harry Potter’s warted legacy - SuperJoost Playlist",
+          "url": "https://superjoost.substack.com/p/harry-potters-warted-legacy?utm_source=substack&utm_medium=email",
+          "title": "Harry Potter’s warted legacy - SuperJoost Playlist",
+          "description": "Expected to be one of the biggest releases this year, controversy surrounds the new boy wizard video game. Can we separate art from the artist?",
+          "image": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe059c284-ba03-4253-9e60-3e68aa577026_2438x1578.jpeg",
+          "source": "SuperJoost"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "A look at Interview: Activision Blizzard plans a more outspoken approach",
+          "url": "https://www.axios.com/2023/02/09/activision-blizzard-lulu-cheng-meservey",
+          "title": "Interview: Activision Blizzard plans a more outspoken approach",
+          "description": "Company's head of comms talks scandals, unions and those Last of Us tweets",
+          "image": "https://images.axios.com/j11CosBsTPpejCKVLEY4bNdFSZ8=/0x0:1920x1080/1366x768/2023/02/09/1675976970491.jpg",
+          "source": "Axios"
+        },
+        {
+          "caption": "A look at Epic’s new clips app, Postparty, helps you easily share your Fortnite moments - The Verge",
+          "url": "https://www.theverge.com/2023/2/9/23592866/epic-games-postparty-clips-app-fortnite-rocket-league",
+          "title": "Epic’s new clips app, Postparty, helps you easily share your Fortnite moments - The Verge",
+          "description": "Postparty is a new iOS and Android app from Epic Games to help you share clips from Fortnite and Rocket League. In my experience, it works really well.",
+          "image": "https://cdn.vox-cdn.com/thumbor/8o_JilCguvOW2SK9fEJhyCcI8E0=/0x0:1037x564/1200x628/filters:focal(386x223:387x224)/cdn.vox-cdn.com/uploads/chorus_asset/file/24421441/fortnite_overview_dirt_bike_1200x607_7a6b72de44a0.jpg",
+          "source": "The Verge"
+        },
+        {
+          "caption": "A look at Nintendo and Google get roped into Microsoft's FTC defense",
+          "url": "https://www.gamedeveloper.com/business/nintendo-and-google-get-roped-into-microsoft-s-ftc-defense",
+          "title": "Nintendo and Google get roped into Microsoft's FTC defense",
+          "description": "Microsoft has now called on Nintendo and Google to aid in its fight with the FTC over its merger with Activision Blizzard.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt38e2dfae6b91522b/619c2e0dc134f57da7cb0ff8/nintendofeaturedfinal.jpg",
+          "source": "Game Developer"
+        },
+        {
+          "caption": "A look at Mastercard and Xsolla team up on payments for gamers | VentureBeat",
+          "url": "https://venturebeat.com/games/mastercard-and-xsolla-team-up-on-payments-for-gamers/",
+          "title": "Mastercard and Xsolla team up on payments for gamers | VentureBeat",
+          "description": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. Mastercard and video game commerce company Xsolla teamed up to collaborate on payments for gamers. They said they will create frictionless, secure, and rewarding payments for gamers – from enhanced checkout experiences using credit card loyalty points to […]",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/xsolla-master.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "A look at Anima unveils AI-based Onlybots augmented reality pets | VentureBeat",
+          "url": "https://venturebeat.com/games/anima/",
+          "title": "Anima unveils AI-based Onlybots augmented reality pets | VentureBeat",
+          "description": "Anima, the augmented reality company responsible for the Onlybots digital pets, today announced an evolution for its AR-based creatures.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/onlybots-2.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Current State of NFT Lending",
+          "url": "https://www.theblockresearch.com/current-state-of-nft-lending-208568",
+          "title": "Current State of NFT Lending",
+          "description": "Non-fungibility succinctly encapsulates the essence of NFTs’ revolutionary value proposition. Therefore, the ability to verify ownership of prized",
+          "image": "https://www.tbstat.com/wp/uploads/2023/02/20230202_NFTLending_Research-1200x675.jpg",
+          "source": "The Block"
+        },
+        {
+          "caption": "A look at Limit Break's Super Bowl ad will give away thousands of NFTs to gamers | VentureBeat",
+          "url": "https://venturebeat.com/games/limit-breaks-super-bowl-ad-will-give-away-thousands-of-nfts-to-gamers/",
+          "title": "Limit Break's Super Bowl ad will give away thousands of NFTs to gamers | VentureBeat",
+          "description": "Limit Break plans to give away thousands of free-to-own non-fungible tokens (NFTs) in its DigiDaigaku Dragon series.",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/limit-break-3.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        },
+        {
+          "caption": "A look at Delphi Digital's 2023 Gaming Report & Predictions",
+          "url": "https://twitter.com/Delphi_Digital/status/1623736027104911362",
+          "title": "Delphi Digital on Twitter",
+          "description": "“Introducing The 2023 NFT & Gaming Reports: In-depth analysis of past year & predictions for the next.\n\nA combined 94 pages of Alpha, Predictions, & Themes for the NFT & Gaming world in 2023.\n\nFREE for those who comment \"NFT\" & follow us.\n\nWe'll DM you the reports. #NFT #Gaming 🎮”",
+          "image": "https://pbs.twimg.com/media/FoirQnjWIAEeBSK.jpg:large",
+          "source": "Delphi_Digital"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "A look at The ultimate cheat sheet for successful creatives By Sub-genre Games  | Pocket Gamer.biz | PGbiz",
+          "url": "https://www.pocketgamer.biz/comment-and-opinion/80790/the-ultimate-cheat-sheet-for-successful-sreatives-by-sub-genre-games/",
+          "title": "The ultimate cheat sheet for successful sreatives By Sub-genre Games  | Pocket Gamer.biz | PGbiz",
+          "description": "As hyper-casual games are built to target a mass audience, our creatives must be super easy to understand. When starting the very first stages of your creati...",
+          "image": "https://media.pocketgamer.biz/2023/2/120483/500x500-r225x225.png",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "A look at Boss Alien founder unveils Hardball Games following successful seed funding | Pocket Gamer.biz | PGbiz",
+          "url": "https://www.pocketgamer.biz/news/80817/boss-alien-founder-unveils-hardball-games-following-successful-seed-funding/",
+          "title": "Boss Alien founder unveils Hardball Games following successful seed funding | Pocket Gamer.biz | PGbiz",
+          "description": "Boss Alien founder and TT Games Studio Head Jason Avent has announced the formation of Hardball Games, a new studio based in Brighton in the UK, reports Mobi...",
+          "image": "https://media.pocketgamer.biz/2023/2/120528/hardball-games-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        },
+        {
+          "caption": "A look at Mino Games raises $15M to create Dimensionals Web3 game | VentureBeat",
+          "url": "https://venturebeat.com/latest-games-reviews/mino-games-raises-15m-to-create-dimensionals-web3-game/",
+          "title": "Mino Games raises $15M to create Dimensionals Web3 game | VentureBeat",
+          "description": "Mino Games has raised $15 million to create its Dimensionals collectible character game with Web3 features..",
+          "image": "https://venturebeat.com/wp-content/uploads/2023/02/dimensionals.jpg?w=1200&strip=all",
+          "source": "VentureBeat"
+        }
+      ]
+    },
+    {
+      "category": "👾 Game & Stats Releases 🎮",
+      "articles": [
+        {
+          "caption": "A look at Idomoo delivers 18 million personalised ads for Assassin’s Creed’s 15th annivers | Pocket Gamer.biz | PGbiz",
+          "url": "https://www.pocketgamer.biz/news/80819/idomoo-delivers-18-million-personalised-ads-for-assassins-creeds-15th-anniversary/",
+          "title": "Idomoo delivers 18 million personalised ads for Assassin’s Creed’s 15th annivers | Pocket Gamer.biz | PGbiz",
+          "description": "Video ad platform Idomoo generates personalised and interactive videos for a range of industries – banking, travel, and of course, gaming. In games its...",
+          "image": "https://media.pocketgamer.biz/2022/8/117861/assassins-creed-r225x225.jpg",
+          "source": "pocketgamer.biz"
+        }
+      ]
+    }
+  ]
+}
