@@ -25,7 +25,7 @@ export const YEARS: string[] = [
 ];
 
 // Format date string e.g. "Wednesday April 20th 2022"
-export function parseDate(line: string, verbose: boolean = false): string {
+export function parseDate(line: string, verbose: boolean = true): string {
   const words: string[] = line.toLowerCase().split(" ");
 
   let Weekday = "";

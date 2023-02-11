@@ -16,20 +16,20 @@ type Choice = {
 async function main(): Promise<void> {
   const CHOICES: Choice[] = [
     {
-      name: "Build Archive", 
-      value: "build-archive",
-    },
-    {
-      name: "Update Archive",
+      name: "Update LAG Archive",
       value: "update-archive",
     },
     {
-      name: "Patch Archive",
+      name: "Patch LAG(s) in LAG Archive",
       value: "patch-archive",
     },
     {
-      name: "Check Archive",
+      name: "Check LAG Archive metadata",
       value: "check-archive",
+    },
+    {
+      name: "Build LAG Archive from scratch [DANGER]", 
+      value: "build-archive",
     },
     {
       name: "Quit",
@@ -40,11 +40,17 @@ async function main(): Promise<void> {
   const choice: string = await input.select(
     "Choose 1 from the following: ", 
     CHOICES, 
-    { default: "build-archive" },
+    { default: "update-archive" },
   );
   console.log();
 
-  if (choice == "build-archive") await buildArchive();
+  if (choice == "build-archive") {
+    // Prompt user for confirmation
+    const confirm = await input.confirm("Confirm building LAG Archive from scratch?", { default: false });
+    if (!confirm) return;
+
+    await buildArchive();
+  }
   else if (choice == "update-archive") await updateArchive();
   else if (choice == "patch-archive") await patchArchive();
   else if (choice == "check-archive") await checkArchive();

@@ -8,6 +8,7 @@ import { LAG_MISSING } from "../modules/lag";
 // Types
 import { LAG } from "../types";
 
+// Check Archive: Checks LAG Archive for missing metadata
 export default async function main() {
   const dir: string = path.join(__dirname, "../../LAG/meta/");
   const filenames: string[] = fs.readdirSync(dir);

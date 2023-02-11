@@ -21,6 +21,8 @@ import { MongoClient } from "mongodb";
 import { TelegramClient } from "telegram";
 import { TelegramMessage, LAG } from "../types";
 
+// Build Archive from scratch: [DANGEROUS] Builds LAG Archive from 
+//  scratch, overwriting existing data and metadata, appending to MongoDB.
 export default async function main(): Promise<void> {
   // Connect to Telegram
   console.log("Connecting to Telegram . . . ");
@@ -79,8 +81,6 @@ export default async function main(): Promise<void> {
     }
   }
 
-  const confirm = await input.confirm("Fetch metadata?", { default: false });
-  if (!confirm) return;
   console.log("\nFetching metadata for LAG posts . . . ");
   const lag_filenames: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
   for (const filename of lag_filenames) {

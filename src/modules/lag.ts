@@ -1,6 +1,7 @@
 // Local Modules
-import { unfurl_js } from "../modules/link-preview";
+import isURL from "is-url";
 import { parseDate } from "./date";
+import { unfurl_js } from "../modules/link-preview";
 
 // Types
 import { 
@@ -235,11 +236,6 @@ export function parseLAG(
   lag.content = content;
 
   return lag;
-}
-
-// Check if given string contains a URL
-export function isURL(line: string): boolean {
-  return Boolean(new URL(line));
 }
 
 // Fetches metadata for each article in given LAG post

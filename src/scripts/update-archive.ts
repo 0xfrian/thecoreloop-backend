@@ -11,14 +11,18 @@ import {
   createLAG,
   setLatestLAG,
 } from "../modules/mongodb";
+import { delay } from "../modules/helper";
 import { parseLAG, attachMetadata } from "../modules/lag";
 import { createTelegramClient, readMessages  } from "../modules/telegram";
+import { createGSheet, readGSheet, buildRows } from "../modules/gsheets";
 
 // Types 
 import { MongoClient } from "mongodb";
 import { TelegramClient } from "telegram";
-import { TelegramMessage, LAG } from "../types";
+import { GCreds, TelegramMessage, LAG } from "../types";
 
+// Update Archive: Updates LAG Archive based on latest LAG in /LAG/meta/
+//  directory, pushing new LAG posts to MongoDB
 export default async function main(): Promise<void> {
   // Connect to Telegram
   console.log("Connecting to Telegram . . . ");
@@ -80,6 +84,7 @@ export default async function main(): Promise<void> {
   console.log("\nFetching metadata for LAG posts . . . ");
   const filenames_json: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
   const filenames_meta: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));
+  // Obtain current latest LAG number from local /LAG/meta/ directory
   const latest_json: number = Number(filenames_meta[filenames_meta.length-1].slice(4, 7));
   const new_lags: number[] = [];
   for (const filename of filenames_json) {
@@ -92,6 +97,8 @@ export default async function main(): Promise<void> {
       
       // Skip if NOT a new LAG post
       if (lag_number <= latest_json) continue;
+
+      // At this point, current LAG is assumed to be new
       new_lags.push(lag_number);
 
       // Fetch metadata
@@ -116,7 +123,7 @@ export default async function main(): Promise<void> {
   const client: MongoClient = await createMongoDBClient(mongodb_uri);
 
   // Upload new LAG(s) to MongoDB
-  console.log("\nUploading LAG Collection . . . ");
+  console.log("\nPushing to MongoDB . . . ");
   for (const lag_number of new_lags) {
     try {
       // Create LAG document
@@ -129,6 +136,71 @@ export default async function main(): Promise<void> {
       await setLatestLAG(client, lag.number);
     } catch (error) {
       console.log(`  ${error}`);
+    }
+  }
+
+  // Upload new LAG(s) to Google Sheets
+  console.log("\nPushing to Google Sheets . . . ");
+  // Google Sheets Credentials
+  const creds: GCreds = {
+    client_email: process.env.GSHEETS_EMAIL!,
+    private_key: process.env.GSHEETS_KEY!,
+  };
+  const gsheet_id: string = process.env.GSHEETS_LAG_ARCHIVE_ID!;
+  for (const lag_number of new_lags) {
+    try {
+      const filepath: string = path.join(__dirname, "../../LAG/json/", `lag-${lag_number.toString().padStart(3, "0")}.json`)
+      const lag: LAG = JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
+      console.log(`  LAG #${lag_number} . . . `);
+      
+      // Build rows array
+      const rows_lag = buildRows(lag)
+
+      // Upload to Google Sheets
+      const sheet_title: string = `LAG #${lag.number}`;
+      let task: string = "Create";
+      let lag_uploaded = false;
+      while (!lag_uploaded) {
+        try {
+          if (task == "Create") {
+            // Create new sheet
+            const sheet_lag = await createGSheet(
+              creds, 
+              gsheet_id, 
+              sheet_title
+            );
+            await sheet_lag.setHeaderRow(["Content"]);
+            await sheet_lag.addRows(rows_lag);
+            lag_uploaded = true;
+          } else if (task == "Read") {
+            // Read sheet
+            const sheet_lag = await readGSheet(
+              creds, 
+              gsheet_id, 
+              sheet_title
+            );
+            await sheet_lag.clearRows();
+            await sheet_lag.setHeaderRow(["Content"]);
+            await sheet_lag.addRows(rows_lag);
+            lag_uploaded = true;
+          } else if (task == "Wait") {
+            // Wait 60 seconds for API quota to refresh
+            console.log(` ﬌ Sleeping for 60 seconds...`);
+            await delay(60000);
+            task = "Create";
+          }
+        } catch (error: any) {
+          // If API quota exceeded, then wait 
+          if (error.message.includes("Quota exceeded")) task = "Wait";
+          // If sheet is missing, create new sheet
+          else if (error.message.includes("404")) task = "Create";
+          // If sheet already exists, then read sheet
+          else if (error.message.includes("409")) task = "Read";
+          else console.log(error.message);
+        }
+      }
+    } catch (error) {
+      console.log(error);
     }
   }
 }

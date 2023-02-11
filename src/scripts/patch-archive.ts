@@ -17,6 +17,7 @@ import {
 import { LAG } from "../types";
 import { MongoClient } from "mongodb";
 
+// Patch Archive: Replace MongoDB entry using LAG Number as key
 export default async function main(): Promise<void> {
   // Prompt user for which LAG #'s to update
   const user_input: string = await input.text(
