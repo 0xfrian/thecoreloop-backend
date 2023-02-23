@@ -24,14 +24,23 @@ export const YEARS: string[] = [
   "2022", "2023", "2024"
 ];
 
+
+function titleCase(s: string): string {
+  let s_new: string[] = s.toLowerCase().split(' ');
+  for (var i = 0; i < s_new.length; i++) {
+    s_new[i] = s_new[i].charAt(0).toUpperCase() + s_new[i].slice(1);
+  }
+  return s_new.join(' ');
+}
+
 // Format date string e.g. "Wednesday April 20th 2022"
 export function parseDate(line: string, verbose: boolean = true): string {
   const words: string[] = line.toLowerCase().split(" ");
 
-  let Weekday = "";
-  let Day = "";
-  let Month = "";
-  let Year = "";
+  let Weekday : string = "";
+  let Day     : string = "";
+  let Month   : string = "";
+  let Year    : string = "";
 
   for (const word of words) {
     if      (WEEKDAYS.includes(word))   Weekday = word;
@@ -40,21 +49,19 @@ export function parseDate(line: string, verbose: boolean = true): string {
     else if (YEARS.includes(word))      Year    = word;
   }
 
-  try {
-    Weekday = verbose
-      ? Weekday[0].toUpperCase() + Weekday.slice(1)
-      : Weekday[0].toUpperCase() + Weekday.slice(1, 3);
-    Month = verbose
-      ? Month[0].toUpperCase() + Month.slice(1)
-      : Month[0].toUpperCase() + Month.slice(1, 3);
-    Day = verbose
-      ? Day
-      : Day.slice(0, -2).padStart(2, "0");
-    Year = Year;
 
-    return `${Weekday} ${Month} ${Day} ${Year}`;
-  } catch (error) {
-    throw error;
+  if (verbose) {
+    const date: string = titleCase(`${Weekday} ${Month} ${Day} ${Year}`);
+    return date;
+  } else {
+    // Note: need to slice off suffixes on Day ("-st", "-nd", "-th")
+    const date  : Date = new Date(`${Weekday} ${Month} ${Day.slice(0, -2)} ${Year}`);
+    const year  : string = date.getFullYear().toString();
+    const month : string = (date.getMonth()+1).toString().padStart(2, "0");
+    const day   : string = date.getDate().toString().padStart(2, "0");
+
+    const lag_date: string = `${year}-${month}-${day}`;
+    return lag_date;
   }
 }
 

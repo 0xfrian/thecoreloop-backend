@@ -2,7 +2,7 @@
 export interface LAG {
   heading: string;
   subheading: string;
-  number: number;
+  number: string;
   date: string;
   special_insights: string;
   content: ArticleGroup[];

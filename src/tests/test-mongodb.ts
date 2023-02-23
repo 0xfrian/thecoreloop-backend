@@ -1,12 +1,9 @@
 // Enable environmental variables
 require('dotenv').config();
 
-// Node Modules
+// Node Modules 
 import fs from "fs";
 import path from "path";
-
-// Local Modules
-import { formatString } from "../modules/lag";
 
 // Types
 import { LAG } from "../types";

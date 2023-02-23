@@ -8,7 +8,7 @@ import { unfurl_js } from "../modules/link-preview";
 import { LinkPreview } from "../types";
 
 async function main() {
-  const url: string = "https://twitter.com/degenscore/status/1622214608940310530?s=46&t=gM-RgdMXxH1aP6NhFFNHVg";
+  const url: string = "https://ohbabygames.com/news";
   // const url: string = "https://t.co/2GhWnq3tdB";
 
   console.log(`Generating link preview: ${url} . . . \n`);

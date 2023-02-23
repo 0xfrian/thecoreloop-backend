@@ -4,6 +4,9 @@
 # Ignore Node Modules 
 node_modules/
 
+# Ignore alpha folder 
+alpha/
+
 # Ignore archived folder
 archived/
 

@@ -4,6 +4,7 @@ require('dotenv').config();
 // Node Modules
 import fs from "fs";
 import path from "path";
+const input = require("input");
 
 // Local modules
 import { 
@@ -81,6 +82,8 @@ export default async function main(): Promise<void> {
   }
 
   // Fetch metadata for LAG Collection
+  // Prompt user for confirmation
+  const confirm = await input.confirm("Fetch metadata?", { default: false });
   console.log("\nFetching metadata for LAG posts . . . ");
   const filenames_json: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/json/"));
   const filenames_meta: string[] = fs.readdirSync(path.join(__dirname, "../../LAG/meta/"));

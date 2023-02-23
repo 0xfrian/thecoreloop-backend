@@ -25,7 +25,10 @@ export const CATEGORIES: string[] = [
   "💰 Fundraising 🧧",
   "👾 Game & Stats Releases 🎮",
 ];
-export const LAG_MISSING: number[] = [1, 2, 3, 56, 57, 58, 59, 60, 62];
+export const LAG_MISSING: string[] = [
+  "1", "2", "3", 
+  "56", "57", "58", "59", "60", "62"
+];
 export const BLACKLIST_ARTICLES: string[] = [
   "https://www.deconstructoroffun.com/newsletter/bdtxbgs", // LAG #6
   "https://www.deconstructoroffun.com/newsletter/wthigo",  // LAG #7
@@ -45,7 +48,7 @@ export function parseLAG(
   const lag: LAG = {
     heading: "",
     subheading: "",
-    number: -1,
+    number: "",
     date: "",
     special_insights: "",
     content: [],
@@ -77,8 +80,12 @@ export function parseLAG(
       const hashtag_index: number = heading.indexOf("#");
       if (hashtag_index >= 0) {
         const ending_index: number = heading.indexOf(" ", hashtag_index);
-        lag.number = Number(heading.slice(hashtag_index+1, ending_index));
-        if (isNaN(lag.number)) throw Error("LAG number not found!")
+        const lag_number: number = Number(heading.slice(
+          hashtag_index+1, 
+          ending_index
+        ));
+        if (isNaN(lag_number)) throw Error("LAG number not found!")
+        lag.number = lag_number.toString();
         lag.heading = `Look at Gaming #${lag.number}`;
         if (debug) console.log(`    ﬌ Number: ${lag.number}`)
       } else throw Error("LAG number not found!");

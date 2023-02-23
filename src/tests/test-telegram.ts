@@ -1,14 +1,9 @@
-// Enable environmental variables
-require('dotenv').config();
+import * as dotenv from "dotenv";
+dotenv.config()
 
-// Node Modules
-const treeify = require("treeify");
-
-// Local modules
 import { parseLAG } from "../modules/lag";
 import { createTelegramClient, getParticipants, readMessages } from "../modules/telegram";
 
-// Types 
 import { Api, TelegramClient } from "telegram";
 import { TelegramMessage, LAG } from "../types";
 
