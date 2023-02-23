@@ -1,0 +1,88 @@
+{
+  "heading": "Look at Gaming #152",
+  "subheading": "",
+  "number": "152",
+  "date": "Wednesday February 15th 2023",
+  "special_insights": "",
+  "content": [
+    {
+      "category": "🔦 Spotlight 🌟",
+      "articles": [
+        {
+          "caption": "ICYMI: Threads, Blogs, & Pods - thecoreloop’s Substack",
+          "url": "https://thecoreloop.substack.com/p/icymi-threads-blogs-and-pods"
+        }
+      ]
+    },
+    {
+      "category": "🌊 MARKET ☎️",
+      "articles": [
+        {
+          "caption": "The potential and perils of generative AI | GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-potential-and-perils-of-generative-ai"
+        },
+        {
+          "caption": "Report: China considering further restrictions for young players",
+          "url": "https://www.gamedeveloper.com/business/report-china-considering-further-restrictions-for-young-players"
+        },
+        {
+          "caption": "Analyst Bulletin: Mobile Game Market Review January 2023",
+          "url": "https://www.gamerefinery.com/mobile-game-market-review-january-2023/"
+        },
+        {
+          "caption": "Newzoo: PC gaming hardware market insights",
+          "url": "https://gamedevreports.substack.com/p/newzoo-pc-gaming-hardware-market"
+        }
+      ]
+    },
+    {
+      "category": "💎 Deep Dives 🔎",
+      "articles": [
+        {
+          "caption": "The emerging marketing economist | Mobile Dev Memo by Eric Seufert",
+          "url": "https://mobiledevmemo.com/the-emerging-marketing-economist/"
+        }
+      ]
+    },
+    {
+      "category": "🌈 Platforms 🏔️",
+      "articles": [
+        {
+          "caption": "Overwatch 2 feels the love with Loverwatch dating sim",
+          "url": "https://www.gamedeveloper.com/business/-i-overwatch-2-i-feels-the-love-with-i-loverwatch-i-dating-sim"
+        }
+      ]
+    },
+    {
+      "category": "✨ Web 3️⃣ + Meta 🌎",
+      "articles": [
+        {
+          "caption": "Thomas Pan: Deconstructing Bored Ape Yacht Club’s Dookey Dash - YouTube",
+          "url": "https://www.youtube.com/watch?v=7Js4lEUMgk8"
+        },
+        {
+          "caption": "Nami Analytics thread on Gen AI",
+          "url": "https://twitter.com/namianalytics/status/1622602624330596352?s=20&t=dluCaapshYbguXD6sABsOg"
+        }
+      ]
+    },
+    {
+      "category": "🧠 Knowledge Hub 📚",
+      "articles": [
+        {
+          "caption": "Postmortem: Bitesize city-builder, The Block",
+          "url": "https://www.gamedeveloper.com/design/postmortem-bitesized-city-builder-i-the-block-i-"
+        }
+      ]
+    },
+    {
+      "category": "💰 Fundraising 🧧",
+      "articles": [
+        {
+          "caption": "Betty raises $5M for inclusive real-money online gambling | VentureBeat",
+          "url": "https://venturebeat.com/games/betty-raises-5m-for-inclusive-real-money-online-gambling/"
+        }
+      ]
+    }
+  ]
+}

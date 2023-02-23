@@ -1,8 +1,8 @@
 {
   "heading": "Look at Gaming #124",
   "subheading": "",
-  "number": 124,
-  "date": "Wed Jan 04 2023",
+  "number": "124",
+  "date": "Wednesday January 4th 2023",
   "special_insights": "powered by AppMagic.rocks 😎\nSorry no insights today frens.  Let's get straight to the news.",
   "content": [
     {
@@ -136,24 +136,6 @@
         {
           "caption": "A look at how to set up your web shop with Xsolla",
           "url": "https://www.gamedeveloper.com/mobile/how-to-accelerate-your-mobile-game-growth"
-        }
-      ]
-    },
-    {
-      "category": "💰 Fundraising 🧧",
-      "articles": [
-        {
-          "caption": "A look at RainMaker Games raising $4.7M",
-          "url": "https://venturebeat.com/games/rainmaker-games-raises-4-7m-in-additional-funding/"
-        }
-      ]
-    },
-    {
-      "category": "👾 Game & Stats Releases 🎮",
-      "articles": [
-        {
-          "caption": "A look at Marvel Snap amassing $30M in global spending",
-          "url": "https://www.gamesindustry.biz/marvel-snap-amasses-30m-in-global-consumer-spending"
         }
       ]
     }
